@@ -1,4 +1,0 @@
-# Summary
-
-* [Зміст](zmst.md)
-
