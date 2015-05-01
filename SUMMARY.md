@@ -1,4 +1,4 @@
-# Summary
+# Зміст
 
 * [Зміст](SUMMARY.md)
 * [Артиклi](1/vstup.md)
