@@ -8,12 +8,12 @@
 <th class="center">an</th>
 </tr>
 <tr>
-<th>
+<td>
 <p>a + приголосний звук</p>
 <p><i>a boy, a girl</i></p>
 <p>[i] = пiв-приголосний:</p>
 <i>A uniform, a university,
 a European</i>
-</th>
+</td>
 </tr>
 </table>
