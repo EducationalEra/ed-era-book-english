@@ -4,8 +4,8 @@
 
 <table>
 <tr>
-<th>a</th>
-<th>an</th>
+<td><p align="center">a</p></td>
+<td><p align="center">an</p></td>
 </tr>
 <tr>
 <td>
