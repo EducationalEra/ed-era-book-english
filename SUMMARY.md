@@ -4,5 +4,5 @@
 * [Артиклi](1/vstup.md)
    * [Вступ](vstup.md)
    * [Неозначений артикль «a/an»](neoznachenii_artikl_aan.md)
-       * Вживання неозначеного артикля
+       * [Вживання неозначеного артикля](vzhivannya_neoznachenogo_artiklya.md)
 
