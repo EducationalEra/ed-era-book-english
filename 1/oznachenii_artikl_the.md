@@ -50,10 +50,10 @@
 <table>
 <tr>
 <td>
-<b>the</b> вживається пiсля словосполучень <b>one of, some of</b><br>
+<b>the</b> вживається пiсля словосполучень <b>one of, some of</b><br><br>
 One of <b>the</b> boys.
 </td>
 </tr>
 </table>
 
-    
+Phrases: **tell a lie/tell lies, tell the truth**  
