@@ -7,4 +7,5 @@
        * [Вживання неозначеного артикля](vzhivannya_neoznachenogo_artiklya.md)
    * Означений артикль «the»
    * Нульовий артикль «zero article»
+   * Окремi випадки вживання артиклiв
 
