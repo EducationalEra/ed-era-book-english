@@ -47,6 +47,22 @@
 випадку, то ми точно знаємо, про який предмет йдеться i
 вживаємо означений артикль.
 
+<table>
+<tr>
+<td><p align="center">Також традицiйно артикль <b>а</b> вживається в деяких виразах</p></td>
+</tr>
+<tr>
+<td>
+<ol>
+<li><p><b>a + little / few</b> в значеннi <b>some</b>:
+The child needs a little attention.
+I have a few interesting ideas.</p></li>
+<li><p><b>a lot of</b> в значеннi <b>many</b>: I have a lot of her pictures.</p></li>
+<li>What / Such / Quite / Rather + N злiчуваний / в однинi: What a nice day! Such a wonderful flower!</li>
+</ol>
+</td>
+</tr>
+</table>
 **the** вживається пiсля словосполучень **one of, some of**
 One of **the** boys.
     
