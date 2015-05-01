@@ -1,0 +1,349 @@
+/*
+<div class="...-wrap">
+<span class="...">Текст в шапке</span>
+<div class="...-text">
+Текст внутри блока ...
+</div>
+</div>
+
+default – "White" 
+.book.color-theme-2 – "Night"
+.book.color-theme-1 – "Sepia"
+*/
+
+/*Означення*/
+.eoz-wrap{
+    margin-bottom:1em;
+}
+.eoz {
+    background: #0F5181;
+    border: 0.15em solid #0F5181;
+    color:white;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+}
+.eoz-text {
+    width:100%;
+    background: #FAFAFA;
+    border: .15em solid #0F5181;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.book.color-theme-1 .eoz {
+    background: #704214;
+    border: 0.15em solid #704214;
+    color:#F3EACB;
+}
+.book.color-theme-1 .eoz-text {
+    width:100%;
+    background: #F3EACB;
+    border: .15em solid #704214;
+}
+
+.book.color-theme-2 .eoz-wrap{
+    margin-bottom:1em;
+}
+.book.color-theme-2 .eoz {
+    background: #2C3043;
+    border: 0.15em solid #2C3043;
+    color:#bdcadb;
+}
+.book.color-theme-2 .eoz-text {
+    width:100%;
+    background: #1c1f2b;
+    border: .15em solid #2C3043;
+}
+
+/*Задача*/
+.task-wrap{
+    margin-bottom:1em;
+}
+.task {
+    background: #faaf00;
+    border: 0.15em solid #faaf00;
+    color:white;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+.task-text {
+    width:100%;
+    background: #fff;
+    border-left: .15em solid #faaf00;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.book.color-theme-1 .task-wrap{
+    margin-bottom:1em;
+}
+.book.color-theme-1 .task {
+    background: #704214;
+    border: 0.15em solid #704214;
+    color:#F3EACB;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+.book.color-theme-1 .task-text {
+    width:100%;
+    background: #F3EACB;
+    border-left: .15em solid #704214;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.book.color-theme-2 .task-wrap{
+    margin-bottom:1em;
+}
+.book.color-theme-2 .task {
+    background: #2c3043;
+    border: 0.15em solid #2c3043;
+    color:#bdcadb;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+.book.color-theme-2 .task-text {
+    width:100%;
+    background: #1c1f2b;
+    border-left: .15em solid #2c3043;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+
+/*
+Авторський алгоритм
+Як запам'ятати
+ЗНО
+*/
+.alg-wrap{
+    margin-bottom:1em;
+}
+.alg {
+    background: #faaf00;
+    border: 0.2em solid #faaf00;
+    color:white;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+.alg-text {
+    width:100%;
+    background: #fff;
+    border-top: .15em solid #faaf00;
+    padding-left:10px;
+    padding-right:10px;
+    border-bottom: .15em solid #faaf00;
+}
+
+.book.color-theme-1 .alg-wrap{
+    margin-bottom:1em;
+}
+.book.color-theme-1 .alg {
+    background: #704214;
+    border: 0.2em solid #704214;
+    color:#F3EACB;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+.book.color-theme-1 .alg-text {
+    width:100%;
+    background: #F3EACB;
+    border-top: .15em solid #704214;
+    padding-left:10px;
+    padding-right:10px;
+    border-bottom: .15em solid #704214;
+}
+
+.book.color-theme-2 .alg-wrap{
+    margin-bottom:1em;
+}
+.book.color-theme-2 .alg {
+    background: #2c3043;
+    border: 0.2em solid #2c3043;
+    color:#bdcadb;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+.book.color-theme-2 .alg-text {
+    width:100%;
+    background: #1c1f2b;
+    border-top: .15em solid #2c3043;
+    padding-left:10px;
+    padding-right:10px;
+    border-bottom: .15em solid #2c3043;
+}
+
+
+/*
+Додатково
+Цікаво
+*/
+.add-wrap{
+    margin-bottom:1em;
+}
+.add {
+    background: #0F5181;
+    border: 0.2em solid #0F5181;
+    color:white;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+.add-text {
+    width:100%;
+    background: #fff;
+    border-top: .15em solid #0F5181;
+    padding-left:10px;
+    padding-right:10px;
+    border-bottom: .15em solid #0F5181;
+}
+
+.book.color-theme-1 .add-wrap{
+    margin-bottom:1em;
+}
+.book.color-theme-1 .add {
+    background: #704214;
+    border: 0.2em solid #704214;
+    color:#F3EACB;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+.book.color-theme-1 .add-text {
+    width:100%;
+    background: #F3EACB;
+    border-top: .15em solid #704214;
+    padding-left:10px;
+    padding-right:10px;
+    border-bottom: .15em solid #704214;
+}
+
+.book.color-theme-2 .add-wrap{
+    margin-bottom:1em;
+}
+.book.color-theme-2 .add {
+    background: #2c3043;
+    border: 0.2em solid #2c3043;
+    color:#bdcadb;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+.book.color-theme-2 .add-text {
+    width:100%;
+    background: #1c1f2b;
+    border-top: .15em solid #2c3043;
+    padding-left:10px;
+    padding-right:10px;
+    border-bottom: .15em solid #2c3043;
+}
+
+/*Ebio*/
+.ebio-wrap{
+    margin-bottom:1em;
+}
+.ebio {
+    background: #0F5181;
+    border: 0.15em solid #0F5181;
+    color:white;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+.ebio-text {
+    width:100%;
+    background: #fff;
+    border-left: .15em solid #0F5181;
+    border-top: .15em solid #0F5181;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.book.color-theme-1 .ebio-wrap{
+    margin-bottom:1em;
+}
+.book.color-theme-1 .ebio {
+    background: #704214;
+    border: 0.15em solid #704214;
+    color:#F3EACB;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+.book.color-theme-1 .ebio-text {
+    width:100%;
+    background: #F3EACB;
+    border-left: .15em solid #704214;
+    border-top: .15em solid #704214;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.book.color-theme-2 .ebio-wrap{
+    margin-bottom:1em;
+}
+.book.color-theme-2 .ebio {
+    background: #2c3043;
+    border: 0.15em solid #2c3043;
+    color:#bdcadb;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+.book.color-theme-2 .ebio-text {
+    width:100%;
+    background: #1c1f2b;
+    border-left: .15em solid #2c3043;
+    border-top: .15em solid #2c3043;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+/*---------------png,svg image----------------------*/
+.image {
+    background: #FAFAFA;
+}
+
+.book.color-theme-1 .image {
+    background: #F3EACB;
+}
+
+.book.color-theme-2 .image {
+    background: #FAFAFA;
+}
+/*----------------------------------*/
+.left-line {
+    border-left:0.3em solid #FAFAFA;
+}
+
+/*Для таблицы*/
+.left {
+    font-weight: 400;
+    text-align: left;
+    font-size: 11pt;
+}
+.center {
+    font-weight: 850;
+    text-align: center;
+    vertical-align:middle;
+    font-size: 12pt;
+}
