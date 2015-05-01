@@ -15,5 +15,11 @@
 <i>A uniform, a university,
 a European</i>
 </td>
+<td><p><b>an + голосний звук</b></p>
+<p><i>an apple, an umbrella</i></p>
+<p><b>h не вимовляється</b></p>
+<i>an honourable person, an
+heir, an hour</i></td>
 </tr>
 </table>
+
