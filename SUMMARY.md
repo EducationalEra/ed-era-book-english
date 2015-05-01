@@ -1,6 +1,6 @@
 # Summary
 
-* Зміст
+* [Зміст](zmst.md)
 * [Зміст](SUMMARY.md)
 * [Артиклi](1/vstup.md)
    * [Вступ](1/vstup.md)
