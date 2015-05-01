@@ -4,7 +4,7 @@
 * [Артиклi](1/vstup.md)
    * [Вступ](1/vstup.md)
    * [Неозначений артикль «a/an»](1/neoznachenii_artikl_aan.md)
-       * [Вживання неозначеного артикля](vzhivannya_neoznachenogo_artiklya.md)
+       * [Вживання неозначеного артикля](1/vzhivannya_neoznachenogo_artiklya.md)
    * [Означений артикль «the»](oznachenii_artikl_the.md)
    * [Нульовий артикль «zero article»](nulovii_artikl_zero_article.md)
    * [Окремi випадки вживання артиклiв](okremi_vipadki_vzhivannya_artikliv.md)
