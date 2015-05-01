@@ -4,14 +4,14 @@
 
 <table>
 <tr>
-<th class="center">a</th>
+<th class="right">a</th>
 <th class="center">an</th>
 </tr>
 <tr>
 <td>
-<p>a + приголосний звук</p>
+<p><b>a + приголосний звук</b></p>
 <p><i>a boy, a girl</i></p>
-<p>[i] = пiв-приголосний:</p>
+<p><b>[i] = пiв-приголосний</b></p>
 <i>A uniform, a university,
 a European</i>
 </td>
