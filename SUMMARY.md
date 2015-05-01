@@ -1,6 +1,6 @@
 # Summary
 
-* [Зміст](README.md)
+* [Зміст](SUMMARY.md)
 * [Артиклi](1/vstup.md)
    * [Вступ](1/vstup.md)
    * [Неозначений артикль «a/an»](1/neoznachenii_artikl_aan.md)
