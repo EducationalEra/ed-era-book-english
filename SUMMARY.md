@@ -1,5 +1,5 @@
 # Summary
 
 * [Зміст](README.md)
-* Артиклi
+* [Артиклi](artikli.md)
 
