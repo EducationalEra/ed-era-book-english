@@ -7,5 +7,5 @@
        * [Вживання неозначеного артикля](vzhivannya_neoznachenogo_artiklya.md)
    * [Означений артикль «the»](oznachenii_artikl_the.md)
    * [Нульовий артикль «zero article»](nulovii_artikl_zero_article.md)
-   * Окремi випадки вживання артиклiв
+   * [Окремi випадки вживання артиклiв](okremi_vipadki_vzhivannya_artikliv.md)
 
