@@ -50,10 +50,10 @@
 <table>
 <tr>
 <td>
-<b>the</b> вживається пiсля словосполучень <b>one of, some of</b><br><br>
+<font color="#0F5181"><b>the</b></font> вживається пiсля словосполучень <font color="#0F5181"><i>one of, some of</i></font><br><br>
 One of <b>the</b> boys.
 </td>
 </tr>
 </table>
 
-Phrases: **tell a lie/tell lies, tell the truth**  
+<font color="#0F5181">**Phrases:**</font> *tell a lie/tell lies, tell the truth*  
