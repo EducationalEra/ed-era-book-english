@@ -3,11 +3,12 @@
 Деякi iменники (не власнi назви) вживаються без артикля, i таке НЕ вживання називається zero article.
 
 <p align="center"><b>Без артиклiв вживаються наступнi iменники:</b></p>
-
-1. <font color="#0F5181"><b>no article + languages</b></font> (назви мов):<br>
- * To my mind, English is easier than Chinese.<br>
- <font color="#FAAF00"><b>BUT!!!</b></font><br>
- <font color="#0F5181"><i>the + English (Spanish/French/etc) + language</i></font>
+1. <font color="#0F5181"><b>no article + languages</b></font> (назви мов)
+<ul type="circle">
+ <li> To my mind, English is easier than Chinese.<br>
+  <font color="#FAAF00"><b>BUT!!!</b></font><br>
+  <font color="#0F5181"><i>the + English (Spanish/French/etc) + language</i></font></li>
+<ul>
 2. <font color="#0F5181"><b>no article + sports and games</b></font> (назви спорту та iгор)
  * He plays football every day.
 3. <font color="#0F5181"><b>no article + незлiчуванi iменники</b></font>
@@ -31,7 +32,7 @@ There is a school near my house.
  * Before supper.
 9. <font color="#0F5181"><b>no article + N множина</b></font> (узагальнена функцiя)
  * I like flowers (квiти взагалi).
- * Trees are plants.
+ * Trees are plants.<br>
  *Коментар*: В даному випадку ми говоримо не про якiсь кон-
 кретнi квiти або квiтку, а про квiти, як рослини, як iз то-
 го, що нам подобається, узагалi. Така сама ситуацiя як i з
