@@ -19,6 +19,15 @@ A sincere, clever excuse (щирих та кмi-
 тливих вибачень буває багато)<br>
 A friendly, sad letter (дружнiх та сум-
 них листiв може бути багато)</td>
-<td></td>
+<td>The whole family (цiла сiм’я, у повному
+зборi)<br>
+The central problem (центральна про-
+блема лише одна)<br>
+The right answer (правильна вiдповiдь
+лише одна)<br>
+The only excuse (єдине вибаченнi воно
+все таки єдине)<br>
+The last letter (останнiй лiст може бути
+лише один)</td>
 </tr>
 </table>
