@@ -2,7 +2,7 @@
 
 Деякi артиклi тяжiють до певних прикметникiв та словосполучень, таке тяжiння базується на звичайнiй життєвiй логiцi.
 
-<table>
+<table width="400">
 <tr>
 <td><p align="center">Неозначений артикль<br><b>a/an</b><p></td>
 <td><p align="center">Означений артикль<br><b>The</b><p></td>
@@ -25,3 +25,36 @@
 <td>До такого роду, <b>специфiчних, прикметникiв, що надають iменнику винятковостi</b>, притягується означений артикль.</td>
 </tr>
 </table>
+
+<p align="center"><b>Ми <font color="FAAF00">не вживаємо</font> артиклiв:</b></p>
+1. <b>У сполученнях iменника та прийменника</b>:
+ * *In fact*
+ * *In front of*
+ * *At night*
+ * *By day*
+ * *By mistake*
+ * *By heart*
+ * *In trouble*
+ * *From overwork*
+2. <b>У сталих словосполученнях та виразах</b>
+ * *From time to time* (Час вiд часу)
+ * *From head to foot* (З голови до нiг)
+ * *Face to face* (Лицем до лиця)
+ * *Word for word* (Слово в слово)
+ * *Arm in arm* (Рука в руцi)
+ * *On board* (На борту)
+ * *On deck* (На палубi)
+ * *Tit for tat* (Зуб за зуб)
+ * *Out of sight, out of mind* (Геть з очей, геть iз серця; як з очей, так i з серця)
+3. <b>Артиклi не вживаються, якщо перед iменником стоїть</b>
+ * Присвiйний займенник (my little sister, our car)
+ * Вказiвний займенник (this way, that day)
+ * Числiвник (five hours, ten nights)
+ * Iменник у присвiйному вiдмiнку (Sam’s brother, mother’s son)
+4. <b>Пiсля наступних слiв</b>
+ * *every* (every morning, every week)
+ * *any* (any moment, any time)
+ * *some* (some cookies, some people)
+ * *many* (many men, many nights)
+ * *each* (each person, each child)
+ * *several* (several hours, several years)
