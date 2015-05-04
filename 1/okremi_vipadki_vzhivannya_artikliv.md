@@ -26,7 +26,7 @@
 
 
 <p align="center"><b>Ми <font color="FAAF00">не вживаємо</font> артиклiв:</b></p>
-1. <b>У сполученнях iменника та прийменника</b>:
+1. <b>У сполученнях <font color="#0F5181">iменника</font> та <font color="#0F5181">прийменника</font></b>:
  * *In fact*
  * *In front of*
  * *At night*
@@ -45,7 +45,7 @@
  * *On deck* (На палубi)
  * *Tit for tat* (Зуб за зуб)
  * *Out of sight, out of mind* (Геть з очей, геть iз серця; як з очей, так i з серця)
-3. <b>Артиклi не вживаються, якщо перед iменником стоїть</b>
+3. <b>Артиклi <font color="#FAAF00">не вживаються</font>, якщо перед iменником стоїть</b>
  * Присвiйний займенник (my little sister, our car)
  * Вказiвний займенник (this way, that day)
  * Числiвник (five hours, ten nights)
