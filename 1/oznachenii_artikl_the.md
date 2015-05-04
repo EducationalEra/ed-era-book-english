@@ -49,9 +49,9 @@
 
 <table>
 <tr>
-<td aling="center">
+<td>
 <font color="#0F5181"><b>the</b></font> вживається пiсля словосполучень <font color="#0F5181"><i>one of, some of</i></font><br><br>
-One of <b>the</b> boys.
+<p align="center">One of <b>the</b> boys.</p>
 </td>
 </tr>
 </table>
