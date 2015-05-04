@@ -8,27 +8,16 @@
 <td><p align="center">Означений артикль<br><b>The</b><p></td>
 </tr>
 <tr>
-<td><b>A</b> happy, large family (щасливих та ве-
-ликих сiмей дуже багато)<br>
-<b>A</b> new, important problem (нових та ва-
-жливих проблем буває багато)<br>
-<b>A</b> wrong, short answer (неправильних
-та коротких вiдповiдей може бути ба-
-гато)<br>
-<b>A</b> sincere, clever excuse (щирих та кмi-
-тливих вибачень буває багато)<br>
-<b>A</b> friendly, sad letter (дружнiх та сум-
-них листiв може бути багато)</td>
-<td><b>The</b> whole family (цiла сiм’я, у повному
-зборi)<br>
-<b>The</b> central problem (центральна про-
-блема лише одна)<br>
-<b>The</b> right answer (правильна вiдповiдь
-лише одна)<br>
-<b>The</b> only excuse (єдине вибаченнi воно
-все таки єдине)<br>
-<b>The</b> last letter (останнiй лiст може бути
-лише один)</td>
+<td><b>A</b> happy, large family (щасливих та великих сiмей дуже багато)<br>
+<b>A</b> new, important problem (нових та важливих проблем буває багато)<br>
+<b>A</b> wrong, short answer (неправильних та коротких вiдповiдей може бути багато)<br>
+<b>A</b> sincere, clever excuse (щирих та кмiтливих вибачень буває багато)<br>
+<b>A</b> friendly, sad letter (дружнiх та сумних листiв може бути багато)</td>
+<td><b>The</b> whole family (цiла сiм’я, у повному зборi)<br>
+<b>The</b> central problem (центральна проблема лише одна)<br>
+<b>The</b> right answer (правильна вiдповiдь лише одна)<br>
+<b>The</b> only excuse (єдине вибаченнi воно все таки єдине)<br>
+<b>The</b> last letter (останнiй лiст може бути лише один)</td>
 </tr>
 <tr>
 <td>До такого роду, <b>загальних прикметникiв</b>, що описують загальнi рядовi явища, якi зустрiчаються на кожному кроцi притягується неозначений артикль (в даному випадку спрацьовує
