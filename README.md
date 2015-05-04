@@ -1,7 +1,7 @@
 # Зміст
 
-1. [Числові множини](1/chislovi_mnozhini.md)
-2. [Прості та складені числа](1/prosti_ta_skladeni_chisla.md)
-3. [Ознаки подiльностi натуральних чисел](1/oznaki_podilnosti_naturalnih_chisel.md)
-4. [Дроби та дiї над ними](1/drobi_ta_di_nad_nimi.md)
-5. [Модуль числа](1/modul_chisla.md)
+1. [Неозначений артикль «a/an»](1/neoznachenii_artikl_aan.md)
+ 1. [Вживання неозначеного артикля](1/vzhivannya_neoznachenogo_artiklya.md)
+2. [Означений артикль «the»](1/oznachenii_artikl_the.md)
+3. [Нульовий артикль «zero article»](1/nulovii_artikl_zero_article.md)
+4. [Окремi випадки вживання артиклiв](1/okremi_vipadki_vzhivannya_artikliv.md)
