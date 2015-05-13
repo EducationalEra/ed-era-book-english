@@ -35,6 +35,8 @@ There is a school near my house.
  * Trees are plants.<br>
  *Коментар*: В даному випадку ми говоримо не про якiсь конкретнi квiти або квiтку, а про квiти, як рослини, як iз того, що нам подобається, узагалi. Така сама ситуацiя як i з використанням означеного артиклю.
 
+{% modalYoutube %}https://www.youtube.com/embed/EMu2CSlJKPM|<button class="but">Дивитися відео!</button>|<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about?_ga=1.114888067.566412928.1427025710"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+
 <font color="#FAAF00">**Рiзниця у вживаннi полягає у тому що:**</font>
  1. Ми вживаємо означаний артикль, коли говоримо про
 узагальнену функцiю, якщо iменник в <font color="#0F5181">**ОДНИНI**</font>
