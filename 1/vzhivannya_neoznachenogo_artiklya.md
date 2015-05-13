@@ -15,6 +15,8 @@
 <p>These apples are $2.40 a pound.</p>
 <p><i>Коментар</i>: Ми вживаємо <b>per</b> в значеннi за, але iнодi замiнюємо його на неозначений артикль, який в такому реченнi буде вживатися в значеннi "за". (I знову ж таки можемо згадати, що мається на увазi "один кiлограм", а ми вживаємо неозначений артикль також в значеннi "один").</p>
 
+{% modalYoutube %}https://www.youtube.com/embed/lslrP8SdndE|<button class="but">Дивитися відео!</button>|<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about?_ga=1.114888067.566412928.1427025710"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+
 <table>
 <tr>
 <td><p align="center">Також традицiйно артикль <b>а</b> вживається в деяких виразах</p></td>
