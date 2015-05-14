@@ -34,7 +34,7 @@
  *Коментар*: Знову ж таки, ми маємо на увазi не конкретний
 автомобiль, i навiть не марку машин, а машини взагалi, як
 окремик клас предметiв.<br>
-{% modalYoutube %}https://www.youtube.com/embed/s4JSMvn-c70|<button class="but">Дивитися відео!</button>|<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about?_ga=1.114888067.566412928.1427025710"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+{% modalYoutube %}https://www.youtube.com/embed/s4JSMvn-c70|<button class="but">Дивитися відео!</button>|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
 4. <font color="#0F5181">**the + прикметник**</font> (в значеннi "клас взагалi")
  * **the** rich — багатi, мається на увазi "багатi люди" – ми ще можемо перекласти багатiї
  * **the** poor — бiднi, маєтся на увазi бiдняки
