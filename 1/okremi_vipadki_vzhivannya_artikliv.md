@@ -23,7 +23,7 @@
 
 До <font color="#0F5181"><b>загальних прикметникiв</b></font>, що описують загальнi рядовi явища, якi зустрiчаються на кожному кроцi притягується неозначений артикль (в даному випадку спрацьовує правило вживання неозначеного артиклю в значеннi “один з багатьох”). До <font color="#0F5181"><b>специфiчних, прикметникiв, що надають iменнику винятковостi</b></font>, притягується означений артикль.
 
-{% modalYoutube %}https://www.youtube.com/embed/jT6CN7E38O8|<button class="but">Дивитися відео!</button>|<a href="https://study.ed-era.com/courses/EdEra/U101/u101/about?_ga=1.114888067.566412928.1427025710"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+{% modalYoutube %}https://www.youtube.com/embed/jT6CN7E38O8|<button class="but">Дивитися відео!</button>|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 
 <p align="center"><b>Ми <font color="FAAF00">не вживаємо</font> артиклiв:</b></p>
 1. <b>У сполученнях <font color="#0F5181">iменника</font> та <font color="#0F5181">прийменника</font></b>:
