@@ -347,3 +347,76 @@ default – "White"
     vertical-align:middle;
     font-size: 12pt;
 }
+
+/*knopka*/
+.but {
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background: #fac864;
+    color: white;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    border: solid 1px #faaf00;
+}
+.but:hover {
+    background: #faaf00;
+    border: solid 1px #faaf00;
+    text-decoration: none;
+}
+.but:active {
+    background: #faaf00;
+    border: solid 1px #faaf00;
+}
+
+.book.color-theme-1 .but {
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background: #8c6742;
+    border: solid 1px #704214;
+    color:#F3EACB;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.book.color-theme-1 .but:hover {
+    background: #704214;
+    border: solid 1px #704214;
+    text-decoration: none;
+}
+.book.color-theme-1 .but:active {
+    background: #704214;
+    border: solid 1px #704214;
+}
+
+.book.color-theme-2 .but {
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background: #565968;
+    border: solid 1px #2c3043;
+    color:#bdcadb;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.book.color-theme-2 .but:hover {
+    background: #2c3043;
+    border: solid 1px #2c3043;
+    text-decoration: none;
+}
+.book.color-theme-2 .but:active {
+    background: #2c3043;
+    border: solid 1px #2c3043;
+}
+
+.space {
+    margin-bottom: 40px;
+}
