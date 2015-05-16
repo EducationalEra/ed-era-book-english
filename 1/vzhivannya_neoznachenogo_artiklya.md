@@ -54,6 +54,5 @@ I have a few interesting ideas.</p></li>
 <answer>the</answer>
 <answer>an</answer>
 <answer>-</answer>
-<explanation>волынская резня</explanation>
 </question>
 </quiz>
