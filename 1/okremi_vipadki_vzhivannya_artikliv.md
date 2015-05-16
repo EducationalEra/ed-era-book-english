@@ -62,8 +62,8 @@
 
 <quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
 <question text="Оберіть правильну відповідь<br>This fact is ... universal idea." multiple>
-<answer correct>an</answer>
-<answer>a</answer>
+<answer correct>a</answer>
+<answer>an</answer>
 <answer>-</answer>
 <answer>the</answer>
 </question>
