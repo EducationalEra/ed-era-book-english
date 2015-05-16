@@ -16,7 +16,7 @@
  **The kitchen** is rather big (in our flat).
  * *the floor, the walls, the ceiling, the door* (певної кiмнати):<br>
  **The floor** is dirty.<br>
-{% modalYoutube %}https://www.youtube.com/embed/-TmHdyginBg|<button class="but">Дивитися відео!</button>|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+{% modalYoutube %}https://www.youtube.com/embed/-TmHdyginBg|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
 2. <font color="#0F5181">**the**</font> вживаємо, коли ми знаємо, про який саме предмет йдеться
  * Can you pass **the** salt, please?<br>
   *Коментар*: Ми точно знаємо, що це сiль, що стоїть на столi
