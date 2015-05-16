@@ -43,3 +43,12 @@ There is a school near my house.
  2. Ми <font color="#FAAF00">**не вижваємо**</font> жодного артиклю, коли говоримо про
 узагальнену функцiю, якщо iменник в <font color="#0F5181">**МНОЖИНI**</font>.
  
+
+<quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="Оберіть правильну відповідь<br>Do you like  ... biology or ... grammar?" multiple>
+<answer correct>-</answer>
+<answer>a</answer>
+<answer>an</answer>
+<answer>the</answer>
+</question>
+</quiz>
