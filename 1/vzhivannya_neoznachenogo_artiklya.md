@@ -46,3 +46,14 @@ I have a few interesting ideas.</p></li>
 3. З професiями.
  * He is a doctor.
  * She is a teacher.
+
+
+<quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="Оберіть правильну відповідь<br>Shall I put on ... jacket?" multiple>
+<answer correct>a</answer>
+<answer>the</answer>
+<answer>an</answer>
+<answer>-</answer>
+<explanation>волынская резня</explanation>
+</question>
+</quiz>
