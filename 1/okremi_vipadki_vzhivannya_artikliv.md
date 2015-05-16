@@ -57,3 +57,14 @@
  * *many* (many men, many nights)
  * *each* (each person, each child)
  * *several* (several hours, several years)
+  
+ 
+
+<quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="Оберіть правильну відповідь<br>This fact is ... universal idea." multiple>
+<answer correct>an</answer>
+<answer>a</answer>
+<answer>-</answer>
+<answer>the</answer>
+</question>
+</quiz>
