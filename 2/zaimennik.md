@@ -7,3 +7,5 @@
 A <b>pronoun</b> is a word that substitutes for a noun or noun phrase.
 </div>
 </div>
+
+Види займенників:
