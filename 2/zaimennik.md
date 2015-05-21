@@ -12,7 +12,7 @@ A <b>pronoun</b> is a word that substitutes for a noun or noun phrase.
 1. Особові (Personal)
 2. Присвійні (Possessive)
 3. Питальні (Inerrogative)
-4. Сполучні (Relatie/ Conjunctive)
+4. Сполучні (Relatie / Conjunctive)
 5. Зворотні (Reflexive)
 6. Вказівни (Demonstrative)
 7. Неозначені (Indefinie)
