@@ -8,4 +8,14 @@ A <b>pronoun</b> is a word that substitutes for a noun or noun phrase.
 </div>
 </div>
 
-Види займенників:
+<p1>Види займенників</p1>:
+1. Особові (Personal)
+2. Присвійні (Possessive)
+3. Питальні (Inerrogative)
+4. Сполучні (Relatie/ Conjunctive)
+5. Зворотні (Reflexive)
+6. Вказівни (Demonstrative)
+7. Неозначені (Indefinie)
+8. Заперечні (Negative)
+9. Взаємні (Reciprocal)
+10. Означальні (Defining)
