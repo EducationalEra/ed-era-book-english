@@ -7,7 +7,7 @@
    * [Означений артикль «the»](1/oznachenii_artikl_the.md)
    * [Нульовий артикль «zero article»](1/nulovii_artikl_zero_article.md)
    * [Окремi випадки вживання артиклiв](1/okremi_vipadki_vzhivannya_artikliv.md)
-* Займенник
+* [Займенник](2/zaimennik.md)
    * Особовi займенники
    * Присвiйнi займенники
    * Зворотнi займенники
