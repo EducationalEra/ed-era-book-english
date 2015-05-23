@@ -447,3 +447,8 @@ p1 {
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-timing-function: linear;
 }
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
