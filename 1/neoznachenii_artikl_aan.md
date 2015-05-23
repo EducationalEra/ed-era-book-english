@@ -2,8 +2,7 @@
 
 В англiйськiй мовi неозначений артикль роздiляють на два артиклi (але значення одне i те саме). Такий розподiл потрiбен лише для збереження милозвучностi. **Рiзниця у вживаннi <font color="#0F5181">a</font> та <font color="#0F5181">an</font> полягає у тому, перед якими звуками вони вживаються.**
 
-<div class="centered">
-<table class="centered-table">
+<table style="margin:0 auto">
 <tr>
 <th><p align="center">a</p></th>
 <th><p align="center">an</p></th>
@@ -23,4 +22,3 @@ a European</i>
 heir, an hour</i></td>
 </tr>
 </table>
-</div>
