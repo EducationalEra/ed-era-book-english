@@ -448,10 +448,9 @@ p1 {
 	-webkit-animation-timing-function: linear;
 }
 
-.centered {
-    text-align: center;
-}
+
 
 .centered-table {
     margin:auto;
+    
  }
