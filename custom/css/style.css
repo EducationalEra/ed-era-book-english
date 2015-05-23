@@ -448,7 +448,11 @@ p1 {
 	-webkit-animation-timing-function: linear;
 }
 
+.centered {
+    text-align: center;
+}
+
 table.center {
-    margin-left:15%; 
-    margin-right:15%;
-  }
+    margin-left:auto; 
+    margin-right:auto;
+ }
