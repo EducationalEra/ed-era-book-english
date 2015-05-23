@@ -452,7 +452,7 @@ p1 {
     text-align: center;
 }
 
-table.center {
+.centered-table {
     margin-left:auto; 
     margin-right:auto;
  }
