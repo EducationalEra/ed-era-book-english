@@ -453,6 +453,5 @@ p1 {
 }
 
 .centered-table {
-    margin-left:auto; 
-    margin-right:auto;
+    margin:auto;
  }
