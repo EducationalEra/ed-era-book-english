@@ -448,9 +448,16 @@ p1 {
 	-webkit-animation-timing-function: linear;
 }
 
+.centered {
+    text-align: center;
+}
 
+.centered-table-wrapper {
+    width: 100%;
+}
 
 .centered-table {
+    display: table !important;
+    width: inherit;
     margin:auto;
-    
  }
