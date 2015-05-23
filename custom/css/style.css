@@ -458,6 +458,6 @@ p1 {
 
 .centered-table {
     display: table !important;
-    width: inherit;
+    width: initial !important;
     margin:auto;
  }
