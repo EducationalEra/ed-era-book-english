@@ -16,7 +16,7 @@
  **The kitchen** is rather big (in our flat).
  * *the floor, the walls, the ceiling, the door* (певної кiмнати):<br>
  **The floor** is dirty.<br>
-{% modalYoutube %}https://www.youtube.com/embed/-TmHdyginBg|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+{% modalYoutube %}https://www.youtube.com/embed/-TmHdyginBg|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 2. <font color="#0F5181">**the**</font> вживаємо, коли ми знаємо, про який саме предмет йдеться
  * Can you pass **the** salt, please?<br>
   *Коментар*: Ми точно знаємо, що це сiль, що стоїть на столi
@@ -34,7 +34,7 @@
  *Коментар*: Знову ж таки, ми маємо на увазi не конкретний
 автомобiль, i навiть не марку машин, а машини взагалi, як
 окремик клас предметiв.<br>
-{% modalYoutube %}https://www.youtube.com/embed/s4JSMvn-c70|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+{% modalYoutube %}https://www.youtube.com/embed/s4JSMvn-c70|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 4. <font color="#0F5181">**the + прикметник**</font> (в значеннi "клас взагалi")
  * **the** rich — багатi, мається на увазi "багатi люди" – ми ще можемо перекласти багатiї
  * **the** poor — бiднi, маєтся на увазi бiдняки
@@ -58,13 +58,14 @@
 </tr>
 </table>
 
-<font color="#0F5181">**Phrases:**</font> *tell a lie/tell lies, tell the truth*  
+<font color="#0F5181">**Phrases:**</font> *tell a lie/tell lies, tell the truth*
 
 <quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-<question text="Оберіть правильну відповідь<br>Please give it to ... young girl I saw yesterday." multiple>
-<answer correct>the</answer>
-<answer>a</answer>
-<answer>an</answer>
-<answer>-</answer>
-</question>
+ <question text="" multiple>
+  <p>Оберіть правильну відповідь<br>Please give it to ... young girl I saw yesterday.</p>
+  <answer correct>the</answer>
+  <answer>a</answer>
+  <answer>an</answer>
+  <answer>-</answer>
+ </question>
 </quiz>

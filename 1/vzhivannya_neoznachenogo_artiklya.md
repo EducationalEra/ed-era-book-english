@@ -15,7 +15,7 @@
 <p>These apples are $2.40 a pound.</p>
 <p><i>Коментар</i>: Ми вживаємо <b>per</b> в значеннi за, але iнодi замiнюємо його на неозначений артикль, який в такому реченнi буде вживатися в значеннi "за". (I знову ж таки можемо згадати, що мається на увазi "один кiлограм", а ми вживаємо неозначений артикль також в значеннi "один").</p>
 
-{% modalYoutube %}https://www.youtube.com/embed/lslrP8SdndE|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+{% modalYoutube %}https://www.youtube.com/embed/lslrP8SdndE|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 
 <table>
 <tr>
@@ -49,10 +49,11 @@ I have a few interesting ideas.</p></li>
 
 
 <quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-<question text="Оберіть правильну відповідь<br>Shall I put on ... jacket?" multiple>
-<answer correct>a</answer>
-<answer>the</answer>
-<answer>an</answer>
-<answer>-</answer>
-</question>
+    <question text="" multiple>
+        <p>Оберіть правильну відповідь<br>Shall I put on ... jacket?</p>
+        <answer correct>a</answer>
+        <answer>the</answer>
+        <answer>an</answer>
+        <answer>-</answer>
+    </question>
 </quiz>

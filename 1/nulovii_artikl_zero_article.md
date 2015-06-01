@@ -35,20 +35,21 @@ There is a school near my house.
  * Trees are plants.<br>
  *Коментар*: В даному випадку ми говоримо не про якiсь конкретнi квiти або квiтку, а про квiти, як рослини, як iз того, що нам подобається, узагалi. Така сама ситуацiя як i з використанням означеного артиклю.
 
-{% modalYoutube %}https://www.youtube.com/embed/EMu2CSlJKPM|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/E101/eu101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+{% modalYoutube %}https://www.youtube.com/embed/EMu2CSlJKPM|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/E101/eu101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 
 <font color="#FAAF00">**Рiзниця у вживаннi полягає у тому що:**</font>
  1. Ми вживаємо означаний артикль, коли говоримо про
 узагальнену функцiю, якщо iменник в <font color="#0F5181">**ОДНИНI**</font>
  2. Ми <font color="#FAAF00">**не вижваємо**</font> жодного артиклю, коли говоримо про
 узагальнену функцiю, якщо iменник в <font color="#0F5181">**МНОЖИНI**</font>.
- 
+
 
 <quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-<question text="Оберіть правильну відповідь<br>Do you like  ... biology or ... grammar?" multiple>
-<answer correct>-</answer>
-<answer>a</answer>
-<answer>an</answer>
-<answer>the</answer>
-</question>
+ <question multiple>
+ <p>Оберіть правильну відповідь<br>Do you like  ... biology or ... grammar?</p>
+ <answer correct>-</answer>
+ <answer>a</answer>
+ <answer>an</answer>
+ <answer>the</answer>
+ </question>
 </quiz>
