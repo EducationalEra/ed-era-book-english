@@ -3,12 +3,24 @@
         "mathjax4us",
         "youtube",
         "addcssjs",
-        "modal-youtube-video"
+        "modal-youtube-video",
+        "quiz"
     ],
     "pluginsConfig": {
         "addcssjs": {
             "css": ["custom/css/style.css"],
-            "js": ["vendor/js/jquery/jquery-2.1.3.min.js", "custom/js/custom.js", "custom/js/quiz.js"]
-        }
+            "js": ["vendor/js/jquery/jquery-2.1.3.min.js", "custom/js/custom.js"]
+        },
+        "quiz": {
+            "labels": {
+                "showCorrect" : "Показати правильну відповідь",
+                "check"       : "Перевірити"
+            },
+            "text": {
+                "noChosen"    : "Не вибрано жодної відповіді",
+                "rightAnswer" : "Правильно!",
+                "wrongAnswer" : "Неправильно!"
+            }
+        }        
     }
 }
