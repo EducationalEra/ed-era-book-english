@@ -60,12 +60,12 @@
 
 
 
-<quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-    <question text="" multiple>
+<quiz name="Запитання" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
     <p>Оберіть правильну відповідь<br>This fact is ... universal idea.</p>
     <answer correct>a</answer>
     <answer>an</answer>
-    <answer>-</answer>
     <answer>the</answer>
+    <answer>-</answer>
     </question>
 </quiz>
