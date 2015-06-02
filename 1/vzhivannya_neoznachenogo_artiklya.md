@@ -48,8 +48,8 @@ I have a few interesting ideas.</p></li>
  * She is a teacher.
 
 
-<quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-    <question text="" multiple>
+<quiz name="Запитання" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
         <p>Оберіть правильну відповідь<br>Shall I put on ... jacket?</p>
         <answer correct>a</answer>
         <answer>the</answer>
