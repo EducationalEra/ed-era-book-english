@@ -44,12 +44,12 @@ There is a school near my house.
 узагальнену функцiю, якщо iменник в <font color="#0F5181">**МНОЖИНI**</font>.
 
 
-<quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
- <question multiple>
+<quiz name="Запитання" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+ <question text="">
  <p>Оберіть правильну відповідь<br>Do you like  ... biology or ... grammar?</p>
- <answer correct>-</answer>
  <answer>a</answer>
  <answer>an</answer>
  <answer>the</answer>
+ <answer correct>-</answer>
  </question>
 </quiz>
