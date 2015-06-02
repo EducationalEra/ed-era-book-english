@@ -60,8 +60,8 @@
 
 <font color="#0F5181">**Phrases:**</font> *tell a lie/tell lies, tell the truth*
 
-<quiz name="question" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
- <question text="" multiple>
+<quiz name="Запитання" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+ <question text="">
   <p>Оберіть правильну відповідь<br>Please give it to ... young girl I saw yesterday.</p>
   <answer correct>the</answer>
   <answer>a</answer>
