@@ -27,9 +27,7 @@
  * **The** butterfly is an insect.<br>
  *Коментар*: В даному випадку йдеться не конкретно про якогось окремого метелика, а про всiх метеликiв, як клас (просто позначаємо їх одниною).
  * **The** car is very important for the modern world.<br>
- *Коментар*: Знову ж таки, ми маємо на увазi не конкретний
-автомобiль, i навiть не марку машин, а машини взагалi, як
-окремик клас предметiв.<br>
+ *Коментар*: Знову ж таки, ми маємо на увазi не конкретний автомобiль, i навiть не марку машин, а машини взагалi, як окремик клас предметiв.<br>
 {% modalYoutube %}https://www.youtube.com/embed/s4JSMvn-c70|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 4. <font color="#0F5181">**the + прикметник**</font> (в значеннi "клас взагалi")
  * **the** rich — багатi, мається на увазi "багатi люди" – ми ще можемо перекласти багатiї
