@@ -35,8 +35,7 @@
  * **the** blind — слiпi, мається на увазi слiпцi
 5. <font color="#0F5181">**the + cinema, theatre, circus, sea, seaside, country, countryside, truth, radio**</font> (загальна функцiя цих предметiв та установ)<br>
  * We are going to **the cinema**.<br>
- *Коментар*: Ми йдемо до кiнотеатру (мається на увазi диви-
-тися фiльм).
+ *Коментар*: Ми йдемо до кiнотеатру (мається на увазi дивитися фiльм).
 6. <font color="#0F5181">**the + iменник**</font>, пiсля якого йде пояснення
  * He gave me **the hat** that I had bought yesterday.<br>
  *Коментар*: Коли пiсля iменника йде пояснення, як в даному
