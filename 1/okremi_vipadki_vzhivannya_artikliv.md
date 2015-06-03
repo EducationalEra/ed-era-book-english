@@ -16,7 +16,7 @@
 <td width="50%"><b>The</b> whole family<br> (цiла сiм’я, у повному зборi)<br>
 <b>The</b> central problem<br> (центральна проблема лише одна)<br>
 <b>The</b> right answer<br> (правильна вiдповiдь лише одна)<br>
-<b>The</b> only excuse<br> (єдине вибаченнi воно все таки єдине)<br>
+<b>The</b> only excuse<br> (єдине вибаченнi воно все-таки єдине)<br>
 <b>The</b> last letter<br> (останнiй лiст може бути лише один)</td>
 </tr>
 </table>
