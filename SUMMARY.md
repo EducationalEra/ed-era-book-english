@@ -1,6 +1,7 @@
 # Summary
 
 1. [Зміст](README.md)
+2. [Вступне слово](vstup.md)
 * [Артиклі](1/artikl.md)
    1. [Неозначений артикль «a/an»](1/neoznachenii_artikl_aan.md)
        1. [Вживання неозначеного артикля](1/vzhivannya_neoznachenogo_artiklya.md)
