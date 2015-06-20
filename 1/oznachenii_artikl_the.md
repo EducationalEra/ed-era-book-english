@@ -16,7 +16,14 @@
  **The kitchen** is rather big (in our flat).
  * *the floor, the walls, the ceiling, the door* (певної кiмнати):<br>
  **The floor** is dirty.<br>
-{% modalYoutube %}https://www.youtube.com/embed/-TmHdyginBg|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div>
+{% modalYoutube %}https://www.youtube.com/embed/-TmHdyginBg|
+<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-english/master/picsforvid/vzhivannya_article_the(1).png');">
+  <div id="youtube-logo">
+  </div>
+</div>
+|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+</div>
 2. <font color="#0F5181">**the**</font> вживаємо, коли ми знаємо, про який саме предмет йдеться
  * Can you pass **the** salt, please?<br>
   *Коментар*: Ми точно знаємо, що це сiль, що стоїть на столi
@@ -28,7 +35,14 @@
  *Коментар*: В даному випадку йдеться не конкретно про якогось окремого метелика, а про всiх метеликiв, як клас (просто позначаємо їх одниною).
  * **The** car is very important for the modern world.<br>
  *Коментар*: Знову ж таки, ми маємо на увазi не конкретний автомобiль, i навiть не марку машин, а машини взагалi, як окремий клас предметiв.<br>
-{% modalYoutube %}https://www.youtube.com/embed/s4JSMvn-c70|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div>
+{% modalYoutube %}https://www.youtube.com/embed/s4JSMvn-c70|
+<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-english/master/picsforvid/vzhivannya_article_the(2).png');">
+  <div id="youtube-logo">
+  </div>
+</div>
+|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+</div>
 4. <font color="#0F5181">**the + прикметник**</font> (в значеннi "клас взагалi")
  * **the** rich — багатi, мається на увазi "багатi люди" – ми ще можемо перекласти багатiї
  * **the** poor — бiднi, маєтся на увазi бiдняки
@@ -53,7 +67,7 @@
 
 <font color="#0F5181">**Phrases:**</font> *tell a lie/tell lies, tell the truth*
 
-<quiz name="Запитання" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
  <question text="">
   <p>Оберіть правильну відповідь<br>Please give it to ... young girl I saw yesterday.</p>
   <answer>a</answer>
