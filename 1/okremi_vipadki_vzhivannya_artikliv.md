@@ -23,7 +23,14 @@
 
 До <font color="#0F5181"><b>загальних прикметникiв</b></font>, що описують загальнi рядовi явища, якi зустрiчаються на кожному кроцi притягується неозначений артикль (в даному випадку спрацьовує правило вживання неозначеного артиклю в значеннi “один з багатьох”). До <font color="#0F5181"><b>специфiчних, прикметникiв, що надають iменнику винятковостi</b></font>, притягується означений артикль.
 
-{% modalYoutube %}https://www.youtube.com/embed/jT6CN7E38O8|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div>
+{% modalYoutube %}https://www.youtube.com/embed/jT6CN7E38O8|
+<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-english/master/picsforvid/vzhivannya_article.png');">
+  <div id="youtube-logo">
+  </div>
+</div>
+|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+</div>
 
 <p align="center"><b>Ми <font color="FAAF00">не вживаємо</font> артиклiв:</b></p>
 1. <b>У сполученнях <font color="#0F5181">iменника</font> та <font color="#0F5181">прийменника</font></b>:
