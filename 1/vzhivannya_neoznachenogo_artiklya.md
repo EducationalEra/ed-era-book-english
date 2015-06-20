@@ -55,7 +55,7 @@ I have a few interesting ideas.</p></li>
  * She is a teacher.
 
 
-<quiz name="Запитання" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Оберіть правильну відповідь<br>Shall I put on ... jacket?</p>
         <answer correct>a</answer>
