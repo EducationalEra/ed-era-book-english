@@ -35,7 +35,14 @@ There is a school near my house.
  * Trees are plants.<br>
  *Коментар*: В даному випадку ми говоримо не про якiсь конкретнi квiти або квiтку, а про квiти, як рослини, як iз того, що нам подобається, узагалi. Така сама ситуацiя як i з використанням означеного артиклю.
 
-{% modalYoutube %}https://www.youtube.com/embed/EMu2CSlJKPM|<img class="shake" src="../images/Oval 1.png" width="100"/>|<a href="https://study.ed-era.com/courses/EdEra/E101/eu101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div>
+{% modalYoutube %}https://www.youtube.com/embed/EMu2CSlJKPM|
+<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-english/master/picsforvid/nul_art.png');">
+  <div id="youtube-logo">
+  </div>
+</div>
+|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+</div>
 
 <font color="#FAAF00">**Рiзниця у вживаннi полягає у тому що:**</font>
  1. Ми вживаємо означаний артикль, коли говоримо про
