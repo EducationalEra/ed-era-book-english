@@ -82,4 +82,11 @@
     <answer>the/the</answer>
     <answer>-/the</answer>
     </question>
+    <question text="">
+    <p>Оберіть правильну відповідь<br>Take (1) armchair and make yourself as at (2) home.</p>
+    <answer correct>an/-</answer>
+    <answer>the/an</answer>
+    <answer>an/the</answer>
+    <answer>-/-</answer>
+    </question>
 </quiz>
