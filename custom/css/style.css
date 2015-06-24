@@ -436,20 +436,7 @@ default – "White"
     color: RGB(182,194,210);
 }
 
-.p2 {
- font-weight: bold;
- color: #0F5180;
-}
 
-.book.color-theme-1 .p1{
-    font-weight: bold;
-    color: RGB(112,66,20);
-}
-
-.book.color-theme-2 .p1{
-    font-weight: bold;
-    color: RGB(182,194,210);
-}
 
 @-webkit-keyframes spaceboots {
 	0% { -webkit-transform: translate(2px, 1px) rotate(0deg); }
