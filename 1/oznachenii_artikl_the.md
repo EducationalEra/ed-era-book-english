@@ -77,4 +77,15 @@
   <answer correct>the</answer>
   <answer>-</answer>
  </question>
+ <question text="">
+  <p>Слова sun, world, universe, sky вживаються з артиклем...</p>
+  <answer>З артиклем а</answer>
+  <answer>Без артикля</answer>
+  <answer correct>З артиклем the</answer>
+  <answer>Слово universe вживається з артиклем an, бо починається не з приголосної літери</answer>
+ </question>
+ <explanation>
+ Вказані слова вживаються з артиклем "the", оскільки вони єдині в своєму роді.
+ </explanation>
+ 
 </quiz>
