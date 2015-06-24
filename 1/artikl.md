@@ -17,9 +17,9 @@ Iснує три види артиклiв в англiйськiй мовi:
 Вже з назв артиклiв ми бачимо рiзницю мiж ними: один артикль щось визначає, а iнший нi.
 
 1. Вчора я побачив костюм.
-<p>Yesterday I saw <font color="#0F5181"><b>a</b></font> suit.</p>
+<p>Yesterday I saw <span class="p1">a</span> suit.</p>
 2. Хiба костюм вже продали?
-<p>Has <font color="#0F5181"><b>the</b></font> suit already been sold?</p>
+<p>Has <span class="p1">the</span> suit already been sold?</p>
 
 В першому випадку "вiн" побачив костюм. Вiн не наголошує на
 тому, який саме костюм вiн побачив (мається на увазi *якийсь* костюм).
