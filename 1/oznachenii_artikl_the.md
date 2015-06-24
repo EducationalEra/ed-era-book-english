@@ -24,6 +24,7 @@
 </div>
 |<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 </div><br>
+
 2. <span class="p1">**the**</span> вживаємо, коли ми знаємо, про який саме предмет йдеться
  * Can you pass **the** salt, please?<br>
   *Коментар*: Ми точно знаємо, що це сiль, що стоїть на столi
@@ -43,6 +44,7 @@
 </div>
 |<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 </div><br>
+
 4. <span class="p1">**the + прикметник**</span> (в значеннi "клас взагалi")
  * **the** rich — багатi, мається на увазi "багатi люди" – ми ще можемо перекласти багатiї
  * **the** poor — бiднi, маєтся на увазi бiдняки
