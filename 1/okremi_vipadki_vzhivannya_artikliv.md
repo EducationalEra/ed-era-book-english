@@ -75,4 +75,11 @@
     <answer>the</answer>
     <answer>-</answer>
     </question>
+    <question text="">
+    <p>Оберіть правильну відповідь<br>This is (1) answer to (2) question that Mr. Smith gave us.</p>
+    <answer correct>an/the</answer>
+    <answer>an/an</answer>
+    <answer>the/the</answer>
+    <answer>-/the</answer>
+    </question>
 </quiz>
