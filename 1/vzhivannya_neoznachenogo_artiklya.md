@@ -54,7 +54,6 @@ I have a few interesting ideas.</p></li>
  * He is a doctor.
  * She is a teacher.
 
-
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Оберіть правильну відповідь<br>Shall I put on ... jacket?</p>
@@ -62,5 +61,15 @@ I have a few interesting ideas.</p></li>
         <answer>the</answer>
         <answer>an</answer>
         <answer>-</answer>
+    </question>
+    <question multiple>
+        <p>В яких випадках ми вживаємо неозначений артикль а/аn? (Вкажіть усі правильні варіанти)</p>
+        <answer correct>Коли можна підставити слово any</answer>
+        <answer>Коли ми знаємо про який предмет йдеться</answer>
+        <answer>Коли це річ, що єдина в своєму роді</answer>
+        <answer correct>Коли це предмет один з багатьох</answer>
+        <answer correct>Коли ми можемо підставити one або per</answer>
+        <answer>Ми вживаємо артикль а/аn з іменниками в множині</answer>
+        <answer correct>Ми вживаємо артикль а/аn в виразах a little/ a few, a lot of</answer>
     </question>
 </quiz>
