@@ -47,10 +47,10 @@
  * **the** rich — багатi, мається на увазi "багатi люди" – ми ще можемо перекласти багатiї
  * **the** poor — бiднi, маєтся на увазi бiдняки
  * **the** blind — слiпi, мається на увазi слiпцi
-5. <font color="#0F5181">**the + cinema, theatre, circus, sea, seaside, country, countryside, truth, radio**</font> (загальна функцiя цих предметiв та установ)<br>
+5. <span class="p1">**the + cinema, theatre, circus, sea, seaside, country, countryside, truth, radio**</span> (загальна функцiя цих предметiв та установ)<br>
  * We are going to **the cinema**.<br>
  *Коментар*: Ми йдемо до кiнотеатру (мається на увазi дивитися фiльм).
-6. <font color="#0F5181">**the + iменник**</font>, пiсля якого йде пояснення
+6. <span class="p1">**the + iменник**</span>, пiсля якого йде пояснення
  * He gave me **the hat** that I had bought yesterday.<br>
  *Коментар*: Коли пiсля iменника йде пояснення, як в даному
 випадку, то ми точно знаємо, про який предмет йдеться i
@@ -59,13 +59,13 @@
 <table>
 <tr>
 <td>
-<font color="#0F5181"><b>the</b></font> вживається пiсля словосполучень <font color="#0F5181"><i>one of, some of</i></font><br><br>
+<span class="p1">the</span> вживається пiсля словосполучень <span class="p1"><i>one of, some of</i></span><br><br>
 <p align="center">One of <b>the</b> boys.</p>
 </td>
 </tr>
 </table>
 
-<font color="#0F5181">**Phrases:**</font> *tell a lie/tell lies, tell the truth*
+<span class="p1">**Phrases:**</span> *tell a lie/tell lies, tell the truth*
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
  <question text="">
