@@ -87,5 +87,14 @@
  <explanation>
  Вказані слова вживаються з артиклем "the", оскільки вони єдині в своєму роді.
  </explanation>
- 
+ <question multiple>
+        <p>Означений артикль the вживається в таких випадках:</p>
+        <answer correct>Коли можна замінити його словом this</answer>
+        <answer>Коли можна замінити його словом any</answer>
+        <answer correct>Коли ми знаємо, про який предмет йдеться</answer>
+        <answer correct>Коли предмет єдиний у своєму роді чи ситуації</answer>
+        <answer>Коли предмети один з багатьох</answer>
+        <answer correct>З прикметником найвищого ступеню</answer>
+        <answer correct>З прикметником, який позначає клас предметів взагалі</answer>
+    </question>
 </quiz>
