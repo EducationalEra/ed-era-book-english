@@ -46,7 +46,7 @@ I have a few interesting ideas.</p></li>
  * A week ago.
  * An hour later.
  * A kilo.
-2. З числiвниками <font color="#0F5181">**hundred**, **thousand**, **million**</font>, також з iменниками <font color="#0F5181">**dozen**, **score**</font>.
+2. З числiвниками <span class="p1">**hundred**, **thousand**, **million**</span>, також з iменниками <span class="p1">**dozen**, **score**</span>.
     * I think he knows a dozen languages!
     * This is a great score!
     * This is a million dollars!
