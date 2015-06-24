@@ -24,3 +24,13 @@ heir, an hour</i></td>
 </tr>
 </table>
 </div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Який артикль вживається перед приголосними звуками?</p>
+        <answer correct>a</answer>
+        <answer>the</answer>
+        <answer>an</answer>
+        <answer>-</answer>
+    </question>
+</quiz>
