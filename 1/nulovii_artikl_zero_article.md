@@ -59,4 +59,16 @@ There is a school near my house.
  <answer>the</answer>
  <answer correct>-</answer>
  </question>
+ <question multiple>
+        <p>В яких випадках ми вживаємо іменник без артикля? (декілька відповідей можуть бути правильними)</p>
+        <answer correct>з назвами спорту та ігор</answer>
+        <answer>коли ми чітко знаємо, про який предмет йдеться</answer>
+        <answer correct>з церквами, школами, лікарнями</answer>
+        <answer>коли ми можемо підставити слово one</answer>
+        <answer correct>з хворобами</answer>
+        <answer correct>з назвами навчальних предметів</answer>
+        <answer>коли після іменника стоїть of</answer>
+        <answer correct>з іменниками в множині,  коли йдеться про їх загальну функцію</answer>
+        <answer correct>з назвами пір року та їжею</answer>
+    </question>
 </quiz>
