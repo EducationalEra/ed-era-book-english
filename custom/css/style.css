@@ -474,56 +474,114 @@ default – "White"
     margin:auto;
  }
  
- /* Картинка для видео*/
-.popup {
-  margin: 0 auto;
-  height: 282px;
-  display:inline-block;
-  border: 1px solid
-  border: 1px solid #ddd;
-  box-shadow: inset 0 0 0 1px #eee;
-  border-radius: 3px;
+ /*video + description */
+.description {
+  display: block;
+  background-color: rgba(0, 0, 0, 0.7);
+  margin: -4px auto 10px auto;
+  box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.50);
 }
 
-@media only screen and (min-width:320px){
-.popup {
-      width: 320px;
-      height: 180px;
-      margin: 0 auto;
-      background-size: 320px;
-      clear: both;
+.text {
+  display: inline;
+  float: left;
+  color: white;
+  font-family: 'Open Sans', sans-serif !important;
 }
-#youtube-logo {
-      background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-dark.png');
-      height: 45px;
-      width: 64px;
-      position: absolute;
-      -ms-transform: translate(128px,68px); /* IE 9 */
-   	  -webkit-transform: translate(128px,68px); /* Safari */
-      transform: translate(128px,68px);
+
+.text a.knopka1 {
+  color: #FFBD0D !important;
+  font-weight: 600 !important;
 }
+
+
+.btn-knopka {
+  background-image: linear-gradient(0deg, #FFBD0D 0%, #FFFFFE 100%);
+  border: 1px solid #FFBD0D;
+  border-radius: 4px;
+  padding: 4px 3px;
 }
+
+.btn-knopka a.knopka {
+  text-decoration: none;
+  font-weight: 300;
+  color: #000000 !important;
+  transition: color 0.1s linear;
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+.btn-knopka a.knopka :hover {
+  color: #0F5181;
+  text-decoration: none;
+}
+
+
+@media only screen and (min-width:10px) and (max-width: 509px){
+  .fluidMedia {
+    position: relative;
+    padding-bottom: 56.25%; /* proportion value to aspect ratio 16:9 (9 / 16 = 0.5625 or 56.25%) */
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+  .fluidMedia iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+  .description {
+    position:relative
+    width: 100%;
+    height: 42px;
+  }
+  .text {
+    visibility: hidden;
+    width: 1px;
+    height: 1px;
+  }
+  .btn-knopka {
+    display: block;
+    position:relative;
+    width: 136px;
+    height: 30px;
+    text-align: center;
+    top: 6px;
+    margin: 4px auto;
+  }
+}
+
 
 @media only screen and (min-width:510px){
-    .popup {
-        width: 500px;
-        height: 282px;
-        margin: 0 auto;
-        background-size: 500px;
-        clear: both;
-    }
-    
-    #youtube-logo {
-      background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-dark.png');
-      height: 45px;
-      width: 64px;
-      position: absolute;
-      -ms-transform: translate(218px,118px); /* IE 9 */
-   	  -webkit-transform: translate(218px,118px); /* Safari */
-      transform: translate(218px,118px);
-}
-}
+  .fluidMedia {
+    width: 100%;
+  }
 
-.popup:hover #youtube-logo {
-      background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-red.png');
+  .fluidMedia iframe {
+    display:block;
+    margin: 0px auto;
+    width: 510px;
+    height: 287px;
+  }
+  .description {
+    width: 510px;
+    height: 62px;
+  }
+
+  .text {
+    margin: 10px 20px 10px 15px;
+    font-size: 15px;
+    width: 320px;
+  }
+
+  .btn-knopka {
+    position: absolute;
+    display: inline;
+    margin: 18.5px 10px 20px 0px;
+    padding: 4px 6px;
+    font-size: 15px;
+  }
 }
