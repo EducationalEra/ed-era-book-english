@@ -35,13 +35,10 @@ There is a school near my house.
  * Trees are plants.<br>
  *Коментар*: В даному випадку ми говоримо не про якiсь конкретнi квiти або квiтку, а про квiти, як рослини, як iз того, що нам подобається, узагалi. Така сама ситуацiя як i з використанням означеного артиклю.
 
-<div>
-{% modalYoutube %}https://www.youtube.com/embed/EMu2CSlJKPM|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-english/master/picsforvid/nul_art.png');">
-  <div id="youtube-logo">
-  </div>
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/EMu2CSlJKPM" frameborder="0" allowfullscreen></iframe>
 </div>
-|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div class="popup">
 </div>
 
 <font color="#FAAF00">**Рiзниця у вживаннi полягає у тому що:**</font>
