@@ -23,13 +23,10 @@
 
 До <span class="p1">загальних прикметникiв</span>, що описують загальнi рядовi явища, якi зустрiчаються на кожному кроцi притягується неозначений артикль (в даному випадку спрацьовує правило вживання неозначеного артиклю в значеннi “один з багатьох”). До <span class="p1">специфiчних, прикметникiв, що надають iменнику винятковостi</span>, притягується означений артикль.
 
-<div>
-{% modalYoutube %}https://www.youtube.com/embed/jT6CN7E38O8|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-english/master/picsforvid/vzhivannya_article.png');">
-  <div id="youtube-logo">
-  </div>
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/jT6CN7E38O8" frameborder="0" allowfullscreen></iframe>
 </div>
-|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div class="popup">
 </div>
 
 <p align="center"><b>Ми <font color="FAAF00">не вживаємо</font> артиклiв:</b></p>
