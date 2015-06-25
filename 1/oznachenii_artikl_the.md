@@ -16,15 +16,12 @@
  **The kitchen** is rather big (in our flat).
  * *the floor, the walls, the ceiling, the door* (певної кiмнати):<br>
  **The floor** is dirty.<br>
-<div>
-{% modalYoutube %}https://www.youtube.com/embed/-TmHdyginBg|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-english/master/picsforvid/vzhivannya_article_the(1).png');">
-  <div id="youtube-logo">
-  </div>
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/-TmHdyginBg" frameborder="0" allowfullscreen></iframe>
 </div>
-|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
-</div><br>
-
+<div class="popup">
+</div>
+<br>
 2. <span class="p1">**the**</span> вживаємо, коли ми знаємо, про який саме предмет йдеться
  * Can you pass **the** salt, please?<br>
   *Коментар*: Ми точно знаємо, що це сiль, що стоїть на столi
