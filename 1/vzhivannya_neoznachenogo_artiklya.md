@@ -15,13 +15,10 @@
 <p>These apples are $2.40 a pound.</p>
 <p><i>Коментар</i>: Ми вживаємо <b>per</b> в значеннi за, але iнодi замiнюємо його на неозначений артикль, який в такому реченнi буде вживатися в значеннi "за". (I знову ж таки можемо згадати, що мається на увазi "один кiлограм", а ми вживаємо неозначений артикль також в значеннi "один").</p>
 
-<div>
-{% modalYoutube %}https://www.youtube.com/embed/lslrP8SdndE|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-english/master/picsforvid/neoz_art.png');">
-  <div id="youtube-logo">
-  </div>
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/lslrP8SdndE" frameborder="0" allowfullscreen></iframe>
 </div>
-|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div class="popup">
 </div>
 
 <table>
