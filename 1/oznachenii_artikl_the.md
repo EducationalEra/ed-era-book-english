@@ -33,15 +33,12 @@
  *Коментар*: В даному випадку йдеться не конкретно про якогось окремого метелика, а про всiх метеликiв, як клас (просто позначаємо їх одниною).
  * **The** car is very important for the modern world.<br>
  *Коментар*: Знову ж таки, ми маємо на увазi не конкретний автомобiль, i навiть не марку машин, а машини взагалi, як окремий клас предметiв.<br>
-<div>
-{% modalYoutube %}https://www.youtube.com/embed/s4JSMvn-c70|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-english/master/picsforvid/vzhivannya_article_the(2).png');">
-  <div id="youtube-logo">
-  </div>
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/s4JSMvn-c70" frameborder="0" allowfullscreen></iframe>
 </div>
-|<a href="https://study.ed-era.com/courses/EdEra/E101/e101/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
-</div><br>
-
+<div class="popup">
+</div>
+<br>
 4. <span class="p1">**the + прикметник**</span> (в значеннi "клас взагалi")
  * **the** rich — багатi, мається на увазi "багатi люди" – ми ще можемо перекласти багатiї
  * **the** poor — бiднi, маєтся на увазi бiдняки
