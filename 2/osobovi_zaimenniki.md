@@ -44,9 +44,18 @@ Tom is 6. He goes to school.<br>
         Tom’s as clever as <b>me</b>.<br>
     * У коротких неформальних віповідях:<br>
         -I’m so tired.<br>
-        -<b>Me</b> too.
+        -<b>Me</b> too.<br>
 
-        
+<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr>
+Якщо раніше існувала думка, що щоб замінити назви тварин ми вживаємо лише it, то зараз ми  також можемо вживати he або she для тварин (cats, dogs, horses), інколи для транспортних засобів (motorbikes, cars, boats). Країна/Country завжди замінюється займенником  it.
+</tr>
+</table>
+</div>
+
+
+  
 
     
 
