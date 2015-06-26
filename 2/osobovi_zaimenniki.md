@@ -36,6 +36,19 @@
 Розглянемо вживання відмінків у реченні:
 
 * <span class="p1">Називний відмінок</span> (Subject pronoun):<br>
-Називний відмінок особового займенника вживається у ролі підмета (замінює іменник).
+Називний відмінок особового займенника вживається у ролі підмета (замінює іменник).<br>
+Tom is 6. He goes to school.<br>
+* <span class="p1">Обєктивний відмінок</span> (Objective pronoun):<br>
+    * Після слів <i>than/as</i>:<br>
+        She is more beautiful then <b>her</b>.<br>
+        Tom’s as clever as <b>me</b>.<br>
+    * У коротких неформальних віповідях:<br>
+        -I’m so tired.<br>
+        -<b>Me</b> too.
+
+        
+
+    
+
 
 
