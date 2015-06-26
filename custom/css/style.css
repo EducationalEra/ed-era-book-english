@@ -436,30 +436,6 @@ default – "White"
     color: RGB(182,194,210);
 }
 
-
-
-@-webkit-keyframes spaceboots {
-	0% { -webkit-transform: translate(2px, 1px) rotate(0deg); }
-	10% { -webkit-transform: translate(-1px, -2px) rotate(-1deg); }
-	20% { -webkit-transform: translate(-3px, 0px) rotate(1deg); }
-	30% { -webkit-transform: translate(0px, 2px) rotate(0deg); }
-	40% { -webkit-transform: translate(1px, -1px) rotate(1deg); }
-	50% { -webkit-transform: translate(-1px, 2px) rotate(-1deg); }
-	60% { -webkit-transform: translate(-3px, 1px) rotate(0deg); }
-	70% { -webkit-transform: translate(2px, 1px) rotate(-1deg); }
-	80% { -webkit-transform: translate(-1px, -1px) rotate(1deg); }
-	90% { -webkit-transform: translate(2px, 2px) rotate(0deg); }
-	100% { -webkit-transform: translate(1px, -2px) rotate(-1deg); }
-}
-.shake:hover,
-.shake:focus {
-	-webkit-animation-name: spaceboots;
-	-webkit-animation-duration: 0.8s;
-	-webkit-transform-origin:50% 50%;
-	-webkit-animation-iteration-count: infinite;
-	-webkit-animation-timing-function: linear;
-}
-
 .centered {
     text-align: center;
 }
@@ -496,23 +472,38 @@ default – "White"
 
 
 .btn-knopka {
-  background-image: linear-gradient(0deg, #FFBD0D 0%, #FFFFFE 100%);
-  border: 1px solid #FFBD0D;
+  /*background-image: linear-gradient(0deg, #FFBD0D 0%, #FFFFFE 100%);*/
+  moz-linear-gradient(top,#fff 0,#ffe6a0 2%,#ffba00 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#fff),color-stop(2%,#ffe6a0),color-stop(100%,#ffba00));
+  background: -webkit-linear-gradient(top,#fff 0,#ffe6a0 2%,#ffba00 100%);
+  background: -o-linear-gradient(top,#fff 0,#ffe6a0 2%,#ffba00 100%);
+  background: #ffba00 -ms-linear-gradient(top,#fff 0,#ffe6a0 2%,#ffba00 100%);
+  background: #ffba00 linear-gradient(top,#fff 0,#ffe6a0 2%,#ffba00 100%);
+  transition: background 0.1s linear;
+  border: 1px solid #ffba00;
   border-radius: 4px;
   padding: 4px 3px;
 }
 
+.btn-knopka:hover {
+  moz-linear-gradient(top,#FFE48D 0,#FFDE6E 2%,#ffba00 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#FFE48D),color-stop(2%,#FFDE6E),color-stop(100%,#ffba00));
+  background: -webkit-linear-gradient(top,#FFE48D 0,#FFDE6E 2%,#ffba00 100%);
+  background: -o-linear-gradient(top,#FFE48D 0,#FFDE6E 2%,#ffba00 100%);
+  background: -ms-linear-gradient(top,#FFE48D 0,#FFDE6E 2%,#ffba00 100%);
+  background: linear-gradient(top,#FFE48D 0,#FFDE6E 2%,#ffba00 100%);
+}
+
+
 .btn-knopka a.knopka {
-  text-decoration: none;
-  font-weight: 300;
+  font-weight: 500;
   color: #000000 !important;
-  transition: color 0.1s linear;
   font-family: 'Open Sans', sans-serif !important;
 }
 
-.btn-knopka a.knopka :hover {
+.btn-knopka a.knopka:hover {
   color: #0F5181;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 
@@ -546,11 +537,12 @@ default – "White"
   .btn-knopka {
     display: block;
     position:relative;
-    width: 136px;
+    width: 140px;
     height: 30px;
     text-align: center;
     top: 6px;
     margin: 4px auto;
+    padding: 2px 3px;
   }
 }
 
