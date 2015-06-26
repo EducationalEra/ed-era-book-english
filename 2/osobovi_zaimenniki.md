@@ -49,7 +49,7 @@ Tom is 6. He goes to school.<br>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr>
-Якщо раніше існувала думка, що щоб замінити назви тварин ми вживаємо лише it, то зараз ми  також можемо вживати he або she для тварин (cats, dogs, horses), інколи для транспортних засобів (motorbikes, cars, boats). Країна/Country завжди замінюється займенником  it.
+Якщо раніше існувала думка, що для заміни назви тварин ми вживаємо лише <span class="p1">it</span>, то зараз ми також можемо вживати <span class="p1">he</span> або <span class="p1">she</span> для тварин (<i>cats, dogs, horses</i>), інколи для транспортних засобів (<i>motorbikes, cars, boats</i>). Країна (<i>сountry</i>) завжди замінюється займенником <span class="p1">it</span>.
 </tr>
 </table>
 </div>
