@@ -2,7 +2,7 @@
 
 Існують особові займенники двох відмінків, а саме <span class="p1">називний</span> (<i>Subject pronoun</i>) та <span class="p1">об'єктивний</span> (<i>Object pronoun</i>).
 
-Порівняємо їх:
+Розглянемо їх детальніше:
 
 <div class="centered-table-wrapper">
 <table class="centered-table">
@@ -34,4 +34,8 @@
 </div>
 
 Розглянемо вживання відмінків у реченні:
+
+* <span class="p1">Називний відмінок</span> (Subject pronoun):<br>
+Називний відмінок особового займенника вживається у ролі підмета (замінює іменник).
+
 
