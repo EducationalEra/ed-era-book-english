@@ -10,7 +10,7 @@ A <b>pronoun</b> is a word that substitutes for a noun or noun phrase.
 </div>
 </div>
 
-<p1>Види займенників</p1>:
+<span class="p1">Види займенників</span>:
 1. Особові (<i>Personal</i>)
 2. Присвійні (<i>Possessive</i>)
 3. Питальні (<i>Inerrogative</i>)
