@@ -2,7 +2,7 @@
 
 Існують особові займенники двох відмінків, а саме називний (Subject pronoun) та об'єктивний (Object pronoun).
 
-Далі розглянемо їх детальніше.
+Порівняємо їх:
 
 <div class="centered-table-wrapper">
 <table class="centered-table">
