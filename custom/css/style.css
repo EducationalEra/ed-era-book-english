@@ -506,7 +506,7 @@ default – "White"
 }
 
 
-@media only screen and (min-width:10px) and (max-width: 509px){
+@media only screen and (min-width:10px) and (max-width: 820px){
   .fluidMedia {
     position: relative;
     padding-bottom: 56.25%; /* proportion value to aspect ratio 16:9 (9 / 16 = 0.5625 or 56.25%) */
@@ -547,7 +547,7 @@ default – "White"
 }
 
 
-@media only screen and (min-width:510px){
+@media only screen and (min-width:821px){
   .fluidMedia {
     width: 100%;
   }
