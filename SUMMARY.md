@@ -31,7 +31,7 @@
    * [Ступенi порiвняння](4/stupeni_porivnyannya.md)
        * [Односкладовi прикметники](4/odnoskladovi_prikmetniki.md)
        * [Двоскладовi прикметники на –y, -e, -ow, -er](4/dvoskladovi_prikmetniki_na_y,_-e,_-ow,_-er.md)
-       * [Двоскладовi та багатоскладовi прикметники](4/dvoskladovi_ta_bagatoskladovi_prikmetniki.md)
+       * [Багатоскладовi прикметники](4/dvoskladovi_ta_bagatoskladovi_prikmetniki.md)
    * Порiвняння прикметникiв
        * Like / as
        * Схожi прикметники
