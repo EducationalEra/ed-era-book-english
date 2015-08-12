@@ -30,7 +30,7 @@
    * [Порядок прикметникiв у реченнi](4/poryadok_prikmetnikiv_u_rechenni.md)
    * [Ступенi порiвняння](4/stupeni_porivnyannya.md)
        * [Односкладовi прикметники](4/odnoskladovi_prikmetniki.md)
-       * Двоскладовi прикметники на –y, -e, -ow, -er
+       * [Двоскладовi прикметники на –y, -e, -ow, -er](4/dvoskladovi_prikmetniki_na_y,_-e,_-ow,_-er.md)
        * Двоскладовi та багатоскладовi прикметники
    * Порiвняння прикметникiв
        * Like / as
