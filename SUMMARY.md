@@ -25,13 +25,13 @@
    * Кiлькiсть
    * Складнi iменники
    * Пpисвiйний вiдмiнок
-* [Прикментик](4/prikmentik.md)
-   * [Типи прикметникiв](4/tipi_prikmetnikiv.md)
-   * [Порядок прикметникiв у реченнi](4/poryadok_prikmetnikiv_u_rechenni.md)
-   * [Ступенi порiвняння](4/stupeni_porivnyannya.md)
-       * [Односкладовi прикметники](4/odnoskladovi_prikmetniki.md)
-       * [Двоскладовi прикметники на –y, -e, -ow, -er](4/dvoskladovi_prikmetniki_na_y,_-e,_-ow,_-er.md)
-       * [Багатоскладовi прикметники](4/dvoskladovi_ta_bagatoskladovi_prikmetniki.md)
+* Прикментик
+   * Типи прикметникiв
+   * Порядок прикметникiв у реченнi
+   * Ступенi порiвняння
+       * Односкладовi прикметники
+       * Двоскладовi прикметники на –y, -e, -ow, -er
+       * Багатоскладовi прикметники
    * Порiвняння прикметникiв
        * Like / as
        * Схожi прикметники
