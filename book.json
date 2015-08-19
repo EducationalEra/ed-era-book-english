@@ -27,17 +27,18 @@
         "gtm": {
             "token": "GTM-N86M5F"
         },
-    "variables": {
-      "basePath": "http://english.ed-era.com"
-    },
-    "links": {
-        "gitbook": false,
-        "sidebar": {
-          "Перейти до бібліотеки EdEra": "https://www.books.ed-era.com",
-          "Англійська мова: морфологія": "https://www.ed-era.com/books/english"
+        "variables": {
+          "basePath": "http://english.ed-era.com"
         },
-        "sharing": {
-            "vk":true
-        }        
+        "links": {
+            "gitbook": false,
+            "sidebar": {
+              "Перейти до бібліотеки EdEra": "https://www.books.ed-era.com",
+              "Англійська мова: морфологія": "https://www.ed-era.com/books/english"
+            },
+            "sharing": {
+                "vk":true
+            }        
+        }
     }
 }
