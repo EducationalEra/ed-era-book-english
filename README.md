@@ -1,5 +1,5 @@
 # Зміст
-[Вступне слово](vstup.md)
+* [Вступне слово](vstup.md)
 1. [Артиклі](1/artikl.md) 
     1. [Неозначений артикль «a/an»](1/neoznachenii_artikl_aan.md)
     2. [Вживання неозначеного артикля](1/vzhivannya_neoznachenogo_artiklya.md)
