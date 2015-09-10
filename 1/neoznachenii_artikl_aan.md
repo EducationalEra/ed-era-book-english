@@ -32,5 +32,8 @@ heir, an hour</i></td>
         <answer>the</answer>
         <answer>an</answer>
         <answer>-</answer>
+        <explanation>
+        Неозначений артикль «а»  вживається перед приголоснуми звуками, а артикль «an» - перед голосними.
+        </explanation>
     </question>
 </quiz>
