@@ -6,7 +6,8 @@
         "addcssjs",
         "modal-youtube-video",
         "quiz",
-        "gtm"
+        "gtm",
+        "ga"
     ],
     "pluginsConfig": {
         "addcssjs": {
@@ -27,6 +28,9 @@
         },
         "gtm": {
             "token": "GTM-N86M5F"
+        },
+        "ga": {
+            "token": "UA-67450509-7"
         }
     },
     "variables": {
