@@ -78,10 +78,10 @@
   <answer>Без артикля</answer>
   <answer correct>З артиклем the</answer>
   <answer>Слово universe вживається з артиклем an, бо починається не з приголосної літери</answer>
- </question>
  <explanation>
  Вказані слова вживаються з артиклем "the", оскільки вони єдині в своєму роді.
  </explanation>
+  </question>
  <question multiple>
         <p>Означений артикль the вживається в таких випадках:</p>
         <answer correct>Коли можна замінити його словом this</answer>
