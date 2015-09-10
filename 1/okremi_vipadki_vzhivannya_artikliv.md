@@ -71,6 +71,8 @@
     <answer>an</answer>
     <answer>the</answer>
     <answer>-</answer>
+    <explanation>
+    а -  через те що універсальних ідей може бути багато, це лише одна з багатьох. До того ж нам нічого не відомо про цю ідею. Правильна відповідб не an, через те що звук  [i]  - напівприголосний, переж ним вживається артикль а, a не an</explanation>
     </question>
     <question text="">
     <p>Оберіть правильну відповідь<br>This is (1) answer to (2) question that Mr. Smith gave us.</p>
@@ -78,6 +80,7 @@
     <answer>an/an</answer>
     <answer>the/the</answer>
     <answer>-/the</answer>
+    <explanation>an/the – an: це лише одна відповідь з багатьох, the: питання, яке нам задав містер Сміт, ми знаємо що це за питання, після іменника іде пояснення до нього.</explanation>
     </question>
     <question text="">
     <p>Оберіть правильну відповідь<br>Take (1) armchair and make yourself as at (2) home.</p>
@@ -85,5 +88,6 @@
     <answer>the/an</answer>
     <answer>an/the</answer>
     <answer>-/-</answer>
+    <explanation>an/- - an: мається на увазі не якесь конкретне крісло на яке я вказую (а то було б the), а якесь крісло, яке хочеш, мовляв обирай. Також можемо підставити any - бери будь–яке крісло, яке хочеш, zero article: у сталому словосполученні at home іменник home вживається без артиклю. </explanation>
     </question>
 </quiz>
