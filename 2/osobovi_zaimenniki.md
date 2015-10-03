@@ -8,7 +8,7 @@
 <table class="centered-table">
 <tr>
 <th><p align="center">Називний відмінок</p></th>
-<th><p align="center">Обєктивний відмінок</p></th>
+<th><p align="center">Об'єктивний відмінок</p></th>
 </tr>
 <tr>
 <td>
@@ -38,9 +38,9 @@
 * <span class="p1">Називний відмінок</span> (Subject pronoun):<br>
     * Називний відмінок особового займенника вживається у ролі підмета (замінює іменник).<br>
 Tom is 6. He goes to school.<br>
-* <span class="p1">Обєктивний відмінок</span> (Objective pronoun):<br>
+* <span class="p1">Об'єктивний відмінок</span> (Objective pronoun):<br>
     * Після слів <i>than/as</i>:<br>
-        She is more beautiful then <b>her</b>.<br>
+        She is more beautiful than <b>her</b>.<br>
         Tom’s as clever as <b>me</b>.<br>
     * У коротких неформальних віповідях:<br>
         -I’m so tired.<br>
