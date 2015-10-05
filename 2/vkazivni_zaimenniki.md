@@ -38,11 +38,11 @@
 
 * <b><i>Such</i> i <i>same</i> – незмінні.</b>
 
-* <b><i>the (same)</i>, як правило, вживається з означеним артиклем.</b><br>
-<i>It's all the same to me.</i>
+* <b><i>(the) same</i>, як правило, вживається з означеним артиклем.</b><br>
+<i>It's all <b>the same</b> to me.</i>
 
 * <b>Злічуваний іменник в однині з <i>such</i> вживається з неозначеним артиклем.</b><br>
-<i>Such a beautiful day.</i> 
+<i><b>Such</b> a beautiful day.</i> 
 
 * <b>Злічуваний іменник в множині або незлічуваний іменник з <i>such</i> вживаються без артикля (<i>zero article</i>).</b><br>
- <i>I have never tried such tasty cakes!</i>
+ <i>I have never tried <b>such</b> tasty cakes!</i>
