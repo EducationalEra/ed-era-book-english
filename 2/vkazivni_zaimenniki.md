@@ -39,7 +39,7 @@
 * <b><i>Such</i> i <i>same</i> – незмінні.</b>
 
 * <b><i>the (same)</i>, як правило, вживається з означеним артиклем.</b><br>
-<i>(It's all the same to me)</i>
+<i>It's all the same to me.</i>
 
 * <b>Злічуваний іменник в однині з <i>such</i> вживається з неозначеним артиклем.</b><br>
 <i>Such a beautiful day.</i> 
