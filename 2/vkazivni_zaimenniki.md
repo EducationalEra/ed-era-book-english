@@ -21,8 +21,8 @@
 <b><i>These</i></b> are girls – <i>це дівчата</i>. <b><i>Those</i></b> are my sisters – <i>то мої сестри</i>.<br>
 <b><i>Those</i></b> girls are my sisters – <i>ті дівчата – мої сестри</i>.<br>
 
-<span class="p1"><b>This/That – is/was</b></span><br>
-<span class="p1"><b>These/Those – are/were</b></span><br>
+<span class="p1"><b><i>This/That</i> – is/was</b></span><br>
+<span class="p1"><b><i>These/Those</i> – are/were</b></span><br>
 
 
 <span class="p1"><b>Вживання:</b></span>
