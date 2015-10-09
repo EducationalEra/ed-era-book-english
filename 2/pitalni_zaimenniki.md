@@ -19,19 +19,19 @@
 <span class="p1"><b><li><i>Whose</i> – Чий?</b></span>
  <b><i>Whose</i></b> присвійний відмінок від <b><i>who</i></b>.<br>
  Може вживатися як самостійно так і поряд з іменником. <br>
- <i><b>Whose</b> book is this? <b>Whose</b> (-) is this book?</i>
+ <i><b>Whose</b> book is this? <b>Whose</b> (–) is this book?</i>
 </li>
-<span class="p1"><b><li><i>Which</i> -  Який? Котрий?</b></span>
+<span class="p1"><b><li><i>Which</i> –  Який? Котрий?</b></span>
 <b><i>Which</i></b> може називати як істоту так і неістоту. <br>
 <b><i>Which</i></b> of these <b>girls</b> do you like? <b>girls</b> - істоти.<br>
-<b><i>Which</i></b> <b>flowers</b> do you prefer? <b>flowers</b> - неістоти.<br>
+<b><i>Which</i> flowers</b> do you prefer? <b>flowers</b> - неістоти.<br>
 <b><i>Which</i></b> може бути залежним від іменника, а може й вживатися самостійно<br>
-<i><b>Which</b> pencil did you take ? <b>Which</b> (-) of pencils did you take?</i>
+<i><b>Which</b> pencil did you take ? <b>Which</b> (–) of pencils did you take?</i>
 </li>
-<span class="p1"><b><li><i>What</i> - Що?</b></span>
--<b><i> What</i></b> може бути незалежним від іменника, але в такому випадку він називає  неістоти.<br>
-<i><b>What</b> is this?- Що це?</i><br>
--<b><i> What</i></b> може бути залежним від іменнка, тоді він може називати як істоти так і неістоти.<br>
+<span class="p1"><b><li><i>What</i> – Що?</b></span>
+–<b><i> What</i></b> може бути незалежним від іменника, але в такому випадку він називає  неістоти.<br>
+<i><b>What</b> is this? – Що це?</i><br>
+–<b><i> What</i></b> може бути залежним від іменнка, тоді він може називати як істоти так і неістоти.<br>
 <i><b>What</b> kind of tea do you like? – Який вид чаю тобі подобається? (вид чаю – неістоти)</i><br>
 <i><b>What</b> woman doesn’t like flowers? – Якій жінці не подобаються квіти? (жінка – істота)</i><Br><br>
 Важливо пам'ятати про різницю між <b><i>which</i></b> та <b><i>what</i></b>. У цілому, якщо вживати замість <b><i>which what</i></b> та навпаки – помилки не буде, але, все таки, варто  вживати <b><i>which</i></b>, якщо у нас існує певний вибір і можна передбачити, який варіант буде обраний, а <b><i>what</i></b>, в свою чергу, навпаки, якщо ми не можемо передбачити відповіді. Наприклад, уявімо ситуацію, що ми купуємо морозиво, продавець питає: <br>
