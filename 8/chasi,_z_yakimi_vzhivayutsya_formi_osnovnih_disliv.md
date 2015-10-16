@@ -37,3 +37,14 @@
 
 ##Утворення форми Present participle (VI форми дієслова)
 
+<p>В 4-й формі <b>Present Participle/Participle I</b> ми додаємо закінчення -ing до основної форми дієслова.</p>
+
+<ol>
+<li>Якщо дієслово закінчується на <i>-e</i>, ми відкидаємо його і додаємо закінчення <i>-ing</i>.</li>
+<p><i>take $$/rightarrow$$ take + ing $$/rightarrow$$ <b>taking</b></i></p>
+<p><i>make $$/rightarrow$$ make + ing $$/rightarrow$$ <b>making</b></i></p>
+<li>Якщо дієслово закінчується на буквосполучення <i>-ie</i> (die, lie, tie), змінюємо його на  «y» та додаємо <i>-ing</i>:</li>
+<p><i>die $$/rightarrow$$ d<s>ie</s> + y + ing $$/rightarrow$$ <b>dying</b></i></p>
+<p><i>lie $$/rightarrow$$ l<s>ie</s> + y + ing $$/rightarrow$$ <b>lying</b></i></p>
+</ol>
+
