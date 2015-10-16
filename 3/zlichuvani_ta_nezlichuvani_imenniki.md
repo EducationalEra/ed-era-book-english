@@ -71,3 +71,16 @@
 <td width="50%"><b>advertising</b> —  мається на увазі рекламування, діяльність:<br> <i>They spend much money on advertising</i>.</td>
 </tr>
 </table>
+
+<p>В однині з незлічуваними іменниками ми використовуємо:</p>
+<ul>
+<li><b>a bag of/spoonful/ton of</b> flour</li>
+<li><b>one/two grains of</b> sand</li>
+<li><b>a piece of</b> advice/information/news/music/furniture</li>
+<li><b>a slice of</b> cake/meat/bread</li>
+<li><b>a flash of</b> lightning</li>
+<li><b>a loaf of</b> bread</li>
+<li><b>a pair of</b> pants</li>
+</ul>
+
+
