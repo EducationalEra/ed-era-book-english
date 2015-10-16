@@ -12,10 +12,21 @@
 </ol>
 
 <div class="space">
-<div class="eoz-wrap">
-<span class="eoz">Означення</span>
-<div class="eoz-text">
-<b>Прикметник</b> — це частина мови, яка вказує на ознаку предмета. Тобто в англійській мові прикметник виконує ту ж саму функцію, як і в українській. Однак, в англійській мові прикметники не змінюються ні за своєю формою, ні за числами, ні за родами, ні за відмінками, на відміну від української. Вони змінюються лише за ступенями порівняння.
+<div class="alg-wrap">
+<span class="alg">Запам'ятайте</span>
+<div class="alg-text">
+<p>Порівнювати прикметники ми можемо як в хороший бік так і в поганий. Нище наведено ступені порівняння прикметників, які існують, а також їх позначення англійською мовою.</p>
+<p><b>Позначення порівняння прекметників:</b></p>
+<p>Comparative degree (>): <i>better, more interesting</i></p>
+<p><b>Вищий ступінь порівняння</b></p>
+<p>Superlative degree (+): <i>the best, the most interesting</i></p>
+<p><b>Найвищий ступінь порівняння у кращий бік</b></p>
+<p>Equal comparative (=): <i>as good as, as interesting as</i></p>
+<p><b>Рівність</b></p>
+<p>Inferior comparative (<): <i>less good, less interesting</i></p>
+<p><b>Порівняння в гірший бік</b></p>
+<p>Inferior superlative (-): <i>the least good, the least interesting</i></p>
+<p><b>Порівнння в найгірший бік</b></p>
 </div>
 </div>
 </div>
