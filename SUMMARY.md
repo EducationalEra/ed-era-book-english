@@ -71,7 +71,7 @@
    * Will, would
    * Dare
    * Be + to
-* [Iнфiнiтив](9/infinitiv.md)
+* Iнфiнiтив
    * Форми iнфiнiтиву
    * Функцiї iнфiнiтива в реченнi
    * Вживання iнфiнiтиву
