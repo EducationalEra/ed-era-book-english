@@ -10,3 +10,4 @@
 <p><i>Peter is the tallest in his class. — Порівнюємо одного Пітера з рештою дітей у класі.</i></p>
 <p><i>This day is the worst day in my life. — Порівнюємо один день з рештою днів.</i></p>
 </ol>
+
