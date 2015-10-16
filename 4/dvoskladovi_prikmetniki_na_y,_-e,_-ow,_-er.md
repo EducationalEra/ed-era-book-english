@@ -39,3 +39,5 @@
 
 <p>Також існує одне виключення для прикметника <i>polite</i>. Він змінюється як звичайні двоскладові та багатоскладові прикметники.</p> 
 
+<p align="center"><b>polite — politer/more polite — the politest/most polite</b></p>
+
