@@ -19,6 +19,17 @@
 ![](132_p3.png)
 
 
-
+<div class="space">
+<div class="alg-wrap">
+<span class="alg">Запам'ятайте</span>
+<div class="alg-text">
+<p>Well може бути як прислівником так і прикметником.</p>
+<ol>
+<li>well – прислівник (в значенні “good”):</br> <i>She plays piano well. – Вона добре грає на фортепіано.</i></li>
+<li>well – прикметник ( в занченні “in good health”):</br> <i>How are you today? I’m well. —Як ти себе почуваєш сьогодні? – Добре.</i></li>
+</ol>
+</div>
+</div>
+</div>
 
 
