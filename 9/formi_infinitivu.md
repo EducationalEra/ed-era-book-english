@@ -123,13 +123,49 @@
 
 ##Неперехідні дієслова
 
-<span class="p1">Тривала перфектна форма</span>
+<span class="p1">Звичайна форма</span>
 <table>
 <tr>
-<td><b>Звичайна форма</b></td>
+<td><b>Активний стан</b></td>
 <td>to go</td>
 <td>to come</td>
 <td>to live</td>
 </tr>
 </table>
+
+<span class="p1">Тривала форма</span>
+<table>
+<tr>
+<td><b>Активний стан</b></td>
+<td>to be going</td>
+<td>to be comming</td>
+<td>to be living</td>
+</tr>
+</table>
+
+<p>допоміжне дієслово to be та основне дієслово в 4-й формі (тобто з закінченням -ing</p>
+
+<span class="p1">Перфектна форма</span>
+<table>
+<tr>
+<td><b>Активний стан</b></td>
+<td>to have gone</td>
+<td>to have come</td>
+<td>to have lived</td>
+</tr>
+</table>
+
+<p>допоміжне дієслово to have та основне дієслово в 3-й формі</p>
+
+<span class="p1">Тривала перфектна форма</span>
+<table>
+<tr>
+<td><b>Активний стан</b></td>
+<td>to have been going</td>
+<td>to have been comming</td>
+<td>to have been</td>
+</tr>
+</table>
+
+<p>допоміжне дієслово to have, допоміжне дієслово to be в 3-й формі та основне дієслово в 4-й формі (тобто з закінченням -ing)</p>
 
