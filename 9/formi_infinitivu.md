@@ -59,62 +59,77 @@
 <span class="p1">Звичайна форма</span>
 <table>
 <tr>
-<td><b>Активний стан:</b></td>
+<td><b>Активний стан</b></td>
 <td>to drink</td>
 <td>to take</td>
 <td>to make</td>
 </tr>
 <tr>
-<td><b>Пасивний стан:</b></td>
+<td><b>Пасивний стан</b></td>
 <td>to be drunk</td>
 <td>to be taken</td>
 <td>to be made</td>
 </tr>
 </table>
 
-<p>(допоміжне слово to be та основне дієслово в 3-й формі)</p>
+<p>допоміжне слово to be та основне дієслово в 3-й формі</p>
 
 <span class="p1">Тривала форма</span>
 <table>
 <tr>
-<td><b>Активний стан:</b></td>
+<td><b>Активний стан</b></td>
 <td>to be drinking</td>
 <td>to be taking</td>
 <td>to be making</td>
 </tr>
 </table>
 
-<p>(допоміжне дієслово to be та основне дієслово в 4-й формі (тобто з закінченням -ing)</p>
+<p>допоміжне дієслово to be та основне дієслово в 4-й формі (тобто з закінченням -ing</p>
 
 <span class="p1">Перфектна форма</span>
 <table>
 <tr>
-<td><b>Активний стан:</b></td>
+<td><b>Активний стан</b></td>
 <td>to have drunk</td>
 <td>to have taken</td>
 <td>to have made</td>
 </tr>
 </table>
-<p>(допоміжне дієслово to have та основне дієслово в 3-й формі)</p>
+
+<p>допоміжне дієслово to have та основне дієслово в 3-й формі</p>
+
 <table>
 <tr>
-<td><b>Пасивний стан:</b></td>
+<td><b>Пасивний стан</b></td>
 <td>to have been drunk</td>
 <td>to have been taken</td>
 <td>to have been made</td>
 </tr>
 </table>
 
-<p>(допоміжне дієслово  to have, допоміжне дієслово to be в 3-й формі та основне дієслово в 3-й формі)</p>
+<p>допоміжне дієслово  to have, допоміжне дієслово to be в 3-й формі та основне дієслово в 3-й формі</p>
 
 <span class="p1">Тривала перфектна форма</span>
 <table>
 <tr>
-<td><b>Активний стан:</b></td>
+<td><b>Активний стан</b></td>
 <td>to have been drinking</td>
 <td>to have been taking</td>
 <td>to have been making</td>
 </tr>
 </table>
+
 <p>допоміжне дієслово to have, допоміжне дієслово to be в 3-й формі та основне дієслово в 4-й формі (тобто з закінченням -ing)</p>
+
+##Неперехідні дієслова
+
+<span class="p1">Тривала перфектна форма</span>
+<table>
+<tr>
+<td><b>Звичайна форма</b></td>
+<td>to go</td>
+<td>to come</td>
+<td>to live</td>
+</tr>
+</table>
 
