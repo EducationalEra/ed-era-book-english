@@ -67,5 +67,5 @@
 <li>For–to infinitive construction + S + V</li>
 <p><i>For me to do this is not hard.</i></p>
 <li>S + V + For–to infinitive construction</li>
-<p><i>S + V + For – to infinitive construction</i></p>
+<p><i>S + V + For–to infinitive construction</i></p>
 </ol>
