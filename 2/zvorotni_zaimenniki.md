@@ -92,7 +92,7 @@ I did this <b><i>by myself</i></b>. (<i>Я сам це зробив</i>.)<br>
 </table>
 </div>
 <b><font color="red">$$\Large!$$ Важливо запам’ятати $$\Large!$$</font></b><br>
-1.Зворотні займенники не вживаються після: <b><i>feel, concentrate, relax</i></b>.</br>
+Зворотні займенники не вживаються після: <b><i>feel, concentrate, relax</i></b>.</br>
 Зазвичай вони не вживаються й після: <b><i>behave, wash, shave, dress</i></b>.
 </li>
 </ol>
@@ -154,3 +154,20 @@ I did this <b><i>by myself</i></b>. (<i>Я сам це зробив</i>.)<br>
 </tr>
 </table>
 </div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Ми вживаємо зворотні займенники:</p>
+        <answer>Можемо вжити їх будь-коли, якщо хочемо вжити займенник.</answer>
+        <answer correct>Для того, щоб підкреслити предмет або особу, до яких відноситься інформація.</answer>
+        <answer>Замість підмета в реченні.</answer>
+        <answer>Замість означення в реченні.</answer>
+    </question>
+    <question text="">
+        <p>До яких займенників відносяться: myself himself itself?</p>
+        <answer correct>Зворотні</answer>
+        <answer>Вказівні</answer>
+        <answer>Особові</answer>
+        <answer>Взаємні</answer>
+    </question>
+</quiz>
