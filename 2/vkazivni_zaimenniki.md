@@ -46,3 +46,14 @@
 
 * <b>Злічуваний іменник в множині або незлічуваний іменник з <i>such</i> вживаються без артикля (<i>zero article</i>).</b><br>
  <i>I have never tried <b>such</b> tasty cakes!</i>
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Множина від займенника this:</p>
+        <answer>Those</answer>
+        <answer>Не існує множини від this</answer>
+        <answer correct>These</answer>
+        <answer>That</answer>
+    </question>
+</quiz>
