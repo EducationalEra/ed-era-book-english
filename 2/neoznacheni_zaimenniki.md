@@ -55,3 +55,15 @@
 <i>He did this <b>without any</b> difficulty. I refuse to give him <b>any</b> help. - Він зробив це без <b>якихось</b> складнощів. Я не буду йому допомагати.</i>
 <br>
 Займенники, що закінчуються на <b><i>-body/-one</i></b> можуть вживатися в присвійному відмінку: <b><i>someone’s, anybody’s, anyone’s etc.</i></b>
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question multiple>
+        <p>У яких випадках вживається some? (можливо декілька відповідей можуть бути правильними)</p>
+        <answer correct>Коли очікуємо на позитивну відповідь</answer>
+        <answer>В питальних реченнях</answer>
+        <answer>В питальних та заперечних реченнях</answer>
+        <answer>Тільки в заперечних реченнях</answer>
+        <answer correct>В розповідних (стверджувальних) реченнях</answer>
+    </question>
+</quiz>
