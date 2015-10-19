@@ -45,3 +45,22 @@
 <i><b>Neither</b> answer was correct. – <b>Жодна</b> з відповідей (мається на увазі з двох) <b>не була правильною</b>.</i> 
 <br>
 <i>Do you want coffee or tea? - <b>Neither</b>. – Бажаєте чаю чи кави? – <b>Нічого</b>. (Маємо вибір з двох предметів.)</i>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question multiple>
+        <p>Вкажіть, яке речення утворено правильно: (можливо декілька відповідей можуть бути правильними)</p>
+        <answer>I don’t know nothing about that situation.</answer>
+        <answer correct>I don’t know anything about that situation.</answer>
+        <answer correct>I know nothing about that situation.</answer>
+        <answer>I know anything about that situation.</answer>
+    </question>
+    <question multiple>
+        <p>Про взаємні займенники ми знаємо, що... (можливо декілька відповідей можуть бути правильними)</p>
+        <answer correct>Їх лише два</answer>
+        <answer>Вони не утворюють присвійний відмінок</answer>
+        <answer correct>Вони утворюють присвійний відмінок</answer>
+        <answer correct>Виражають двосторонній зворотній зв’язок</answer>
+        <answer>Не виражають жодних зв’язків</answer>
+        <answer correct>Вживаються в ролі додатку або означення</answer>
+    </question>
+</quiz>
