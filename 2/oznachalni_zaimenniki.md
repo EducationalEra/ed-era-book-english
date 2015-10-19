@@ -58,3 +58,17 @@
 <i><b>Everybody</b> knows that fact. - <b>Кожен</b> знає цей факт.</i>
 <br>
 <i><b>Everything</b> is fine. - <b>Все</b> добре.</i>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question multiple>
+        <p>Займенник Whole: (можливо декілька відповідей можуть бути правильними)</p>
+        <answer>Вживається з іменниками в однині</answer>
+        <answer>Вживається зі злічуваним іменником в множині</answer>
+        <answer correct>Вживається частіше за все з артиклем</answer>
+        <answer>Артикль стоїть після нього</answer>
+        <answer correct>Артикль стоїть перед ним</answer>
+        <answer>Вживається з незлічуваними іменниками</answer>
+        <answer correct>Вживається зі злічуваним іменником в однині</answer>
+        <answer correct>Вживається  з назвами місць</answer>
+    </question>
+</quiz>
