@@ -477,7 +477,7 @@ default – "White"
 
 .btn-knopka {
   /*background-image: linear-gradient(0deg, #FFBD0D 0%, #FFFFFE 100%);*/
-  moz-linear-gradient(top,#fff 0,#ffe6a0 2%,#ffba00 100%);
+  background: -moz-linear-gradient(top,#fff 0,#ffe6a0 2%,#ffba00 100%);
   background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#fff),color-stop(2%,#ffe6a0),color-stop(100%,#ffba00));
   background: -webkit-linear-gradient(top,#fff 0,#ffe6a0 2%,#ffba00 100%);
   background: -o-linear-gradient(top,#fff 0,#ffe6a0 2%,#ffba00 100%);
@@ -490,7 +490,7 @@ default – "White"
 }
 
 .btn-knopka:hover {
-  moz-linear-gradient(top,#FFE48D 0,#FFDE6E 2%,#ffba00 100%);
+  background: -moz-linear-gradient(top,#fff 0,#ffe6a0 2%,#ffba00 100%);
   background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#FFE48D),color-stop(2%,#FFDE6E),color-stop(100%,#ffba00));
   background: -webkit-linear-gradient(top,#FFE48D 0,#FFDE6E 2%,#ffba00 100%);
   background: -o-linear-gradient(top,#FFE48D 0,#FFDE6E 2%,#ffba00 100%);
