@@ -10,7 +10,7 @@
    * [Окремi випадки вживання артиклiв](1/okremi_vipadki_vzhivannya_artikliv.md)
 * [Займенник](2/zaimennik.md)
    * [Особовi займенники](2/osobovi_zaimenniki.md)
-   * Присвiйнi займенники
+   * [Присвiйнi займенники](2/prisviini_zaimenniki.md)
    * Зворотнi займенники
    * Вказiвнi займенники
    * Питальнi займенники
