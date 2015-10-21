@@ -71,7 +71,7 @@
 * [Iнфiнiтив](9/infinitiv.md)
    * [Форми iнфiнiтива](9/formi_infinitivu.md)
    * [Функцiї iнфiнiтива в реченнi](9/funktsi_infinitiva_v_rechenni.md)
-   * Вживання iнфiнiтива
+   * [Вживання iнфiнiтива](9/vzhivannya_infinitiva.md)
    * Інфінітив без частки «to»
    * Iнфiнiтивнi конструкцiї
 * Герундiй
