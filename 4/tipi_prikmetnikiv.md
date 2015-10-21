@@ -18,6 +18,12 @@
 <p><span class="p1">Призначення</span> (з якою ціллю було зроблено цей предмет, навіщо він потрібен, яке його призначення)</p>
 </ul>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/r8GY3GwgpN0" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question multiple>
         <p>Що таке якісні прикметники? (може бути декілька правильних відповідей)</p>
