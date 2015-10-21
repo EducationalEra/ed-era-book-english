@@ -59,7 +59,7 @@
    * [Часи, з якими вживаються форми основних дiєслiв](8/chasi,_z_yakimi_vzhivayutsya_formi_osnovnih_disliv.md)
    * [Форми дiєслова та його функцiї](8/formi_dislova_ta_iogo_funktsi.md)
 * [Модальнi дiєслова](11/modalni_dislova.md)
-   * Can (be able to)
+   * [Can (be able to)](11/can_be_able_to.md)
    * [May, might](11/may.md)
    * Must
    * Have to
