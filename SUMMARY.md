@@ -36,7 +36,7 @@
    * [Прикметники на -ing та -ed](4/prikmetniki_na_-ing_ta_-ed.md)
 * [Прислiвник](5/prislivnik.md)
    * [Cтупенi порiвняння прислiвникiв](5/ctupeni_porivnyannya_prislivnikiv.md)
-   * Практичне вживання та мiсце в реченнi прислiвникiв
+   * [Практичне вживання та мiсце в реченнi прислiвникiв](5/praktichne_vzhivannya_ta_mistse_v_rechenni_prislivnikiv.md)
    * Рiзниця мiж вживаннями прислiвникiв та прикметникiв
 * Числiвник
    * Числiвник
