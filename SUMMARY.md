@@ -70,7 +70,7 @@
    * [Be + to](11/be_+_to.md)
 * [Iнфiнiтив](9/infinitiv.md)
    * [Форми iнфiнiтива](9/formi_infinitivu.md)
-   * Функцiї iнфiнiтива в реченнi
+   * [Функцiї iнфiнiтива в реченнi](9/funktsi_infinitiva_v_rechenni.md)
    * Вживання iнфiнiтива
    * Інфінітив без частки «to»
    * Iнфiнiтивнi конструкцiї
