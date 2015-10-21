@@ -15,6 +15,12 @@
 
 <div align="center"><img src="e11_p4.png"/></div>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/fJO39Vgy8Hc" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
  <question multiple>
  <p>Різниця між must та have to в тому, що</p>
