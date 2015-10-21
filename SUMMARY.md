@@ -12,7 +12,7 @@
    * [Особовi займенники](2/osobovi_zaimenniki.md)
    * [Присвiйнi займенники](2/prisviini_zaimenniki.md)
    * [Зворотнi займенники](2/zvorotni_zaimenniki.md)
-   * Вказiвнi займенники
+   * [Вказiвнi займенники](2/vkazivni_zaimenniki.md)
    * Питальнi займенники
    * Сполучнi займенники
    * Неозначенi займенники
