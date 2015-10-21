@@ -30,3 +30,19 @@
 <p>Такі займенники як : <i>somebody, anybody, someone, anyone, other, another, each other, one: somebody's book, someone's child</i>.</p>
 </ol>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Як утворювати присвійний відмінок від іменників, які стоять у множині?</p>
+        <answer>'s</answer>
+        <answer correct>s'</answer>
+        <answer>s</answer>
+        <answer>N + of (sth.)</answer>
+    </question>
+    <question text="">
+        <p>Як утворювати присвійний відмінок неправильних іменників у формі множини?</p>
+        <answer correct>'s</answer>
+        <answer>s'</answer>
+        <answer>s</answer>
+        <answer>N + of (sth.)</answer>
+    </question>
+</quiz>
