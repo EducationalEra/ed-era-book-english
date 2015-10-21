@@ -60,7 +60,7 @@
    * [Форми дiєслова та його функцiї](8/formi_dislova_ta_iogo_funktsi.md)
 * Модальнi дiєслова
    * Can (be able to)
-   * May, might
+   * [May, might](11/may.md)
    * Must
    * Have to
    * Should, ought to
