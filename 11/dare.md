@@ -18,3 +18,13 @@
 <li>Має закiнчення -s в 3-й особi однини.</li>
 <li>Має допомiжнi дiєслова при утвореннi заперечень та запитань.</li>
 </ul>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+ <question multiple>
+ <p>Dare перекладається як</p>
+ <answer>Могти</answer>
+ <answer correct>Посміти, мати наглість</answer>
+ <answer>Запитати, попросити</answer>
+ <answer>Заборонити</answer>
+ </question>
+ </quiz>
