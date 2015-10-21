@@ -37,6 +37,12 @@
 <p>Також існує певна категорія іменників, яку ми називаємо «неправильні іменники». Їх форма множини не підпорядковується загальним правилом, а утворюється за власною моделлю. Це такі іменники як:</p>
 <p><i>Man-men, woman-women, mouse-mice, louse-lice, foot-feet, tooth-teeth, goose-geese, child-children, ox-oxen, person–people</i></p>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/eFkHV_FAw2c" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 ## Відсутність множини
 
 <p>Також існують іменники, що мають одну форму для однини та множини. Вони є злічуваними, але в формі множини вони не змінюються. Давайте розглянемо вживання деяких іменників окремо:</p>
