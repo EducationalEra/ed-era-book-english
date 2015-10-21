@@ -67,7 +67,7 @@
    * [Need](11/need.md)
    * [Shall, will, would](11/shall,_will,_would.md)
    * [Dare](11/dare.md)
-   * Be + to
+   * [Be + to](11/be_+_to.md)
 * Iнфiнiтив
    * Форми iнфiнiтива
    * Функцiї iнфiнiтива в реченнi
