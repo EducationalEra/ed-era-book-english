@@ -19,6 +19,12 @@
 <li>Має допомiжнi дiєслова при утвореннi заперечень та запитань.</li>
 </ul>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/4qdsphkpYjs" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
  <question multiple>
  <p>Dare перекладається як</p>
