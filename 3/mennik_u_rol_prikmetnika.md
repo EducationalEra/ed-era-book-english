@@ -10,3 +10,9 @@
 </ol>
 
 <p>Отже, ми бачимо що обидва слова – це іменники, але перший іменник характеризує другий, тобто виконує функції прикметника, все одно залишаючись при цьому іменником, не змінюючи своєї форми.</p>
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/-Z2Rc4VUl4Q" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
