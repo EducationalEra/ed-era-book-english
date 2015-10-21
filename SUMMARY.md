@@ -32,7 +32,7 @@
        * [Односкладовi прикметники](4/odnoskladovi_prikmetniki.md)
        * [Двоскладовi прикметники на –y, -e, -ow, -er](4/dvoskladovi_prikmetniki_na_y,_-e,_-ow,_-er.md)
        * [Багатоскладові прикметники](4/dvoskladovi_ta_bagatoskladovi_prikmetniki.md)
-   * Порiвняння прикметникiв
+   * [Порiвняння прикметникiв](4/porivnyannya_prikmetnikiv.md)
    * Прикметники на -ing та -ed
 * Прислiвник
    * Cтупенi порiвняння прислiвникiв
