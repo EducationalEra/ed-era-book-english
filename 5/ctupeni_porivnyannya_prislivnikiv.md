@@ -9,7 +9,7 @@
 <p>Ступені порівняння у прислівниках — прикметниках утворюються так само, як і у прикметниках. Ми додаємо закінчення –er для вищого ступеня порівняння та –est у найвищому ступені (+ означений артикль the).</p>
 </ul>
 
-![](132_p1.png)
+<div align="center"><img src="132_p1.png"/></div>
 
 <ul>
 <li>Неправильні прислівники (Irregular adverbs)</li>
@@ -32,4 +32,12 @@
 </div>
 </div>
 
-
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Як утворюються ступені порівняння прислівників?</p>
+        <answer>+est; +er</answer>
+        <answer>+er; the... +est</answer>
+        <answer correct>+er (more); the... +est (the most)</answer>
+        <answer>ly = i + es; ly = i + ed</answer>
+    </question>
+</quiz>
