@@ -54,6 +54,16 @@
 
 <p>А тепер ми з вами на прикладі декількох дієслів розглянемо утворення усіх чотирьох форм інфінітиву.</p>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Інфінітив має такі форми</p>
+        <answer>Тривалі, перфектні</answer>
+        <answer>Тривалі перфектні, перфектні, тривалі</answer>
+        <answer correct>Загальні, тривалі, перфектні, тривалі перфектні</answer>
+        <answer>Тривалі перфектні, тривалі</answer>
+    </question>
+</quiz>
+
 ##Перехідні дієслова
 
 <span class="p1">Звичайна форма</span>
