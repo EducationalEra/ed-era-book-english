@@ -45,3 +45,13 @@
 <p>Активний (Active)</i></p>
 </ul>
 </ul>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Герундій має ознаки:</p>
+        <answer>Іменника та прикметника</answer>
+        <answer>Прикметника та дієслова</answer>
+        <answer correct>Іменника та дієслова</answer>
+        <answer>Дієслова та дієприкметника</answer>
+    </question>
+</quiz>
