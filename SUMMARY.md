@@ -62,7 +62,6 @@
 * Модальнi дiєслова
    * Can (be able to)
    * [May](11/may.md)
-   * Might
    * Must
    * Have to
    * Should, ought to
