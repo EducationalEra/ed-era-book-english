@@ -17,7 +17,7 @@
    * [Сполучнi займенники](2/spoluchni_zaimenniki.md)
    * [Неозначенi займенники](2/neoznacheni_zaimenniki.md)
    * [Взаємнi займенники](2/vzamni_zaimenniki.md)
-   * Заперечнi займенники
+   * [Заперечнi займенники](2/zaperechni_zaimenniki.md)
    * Означальнi займенники
 * Iменник
    * Злiчуванi та незлiчуванi iменники
