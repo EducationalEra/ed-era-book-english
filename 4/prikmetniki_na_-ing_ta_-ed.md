@@ -15,3 +15,13 @@
 <li>Прикметники на -ing  вживаються перед іменником  (an interesting story), але можна сказати <i>а story is very interesting</i>. У даному випадку вживається дієслово – зв'язка to be після якого ми можемо вжити активний прикметник, який все ще характеризує сам предмет безпосередньо.</li>
 <li>Прикметники на -ed вживаються після дієслова. <i>I'm interested in this story</i>.</li>
 </ol>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Прикметники на -ing...</p>
+        <answer correct>Походять від Participle I</answer>
+        <answer>Походять від Participle II</answer>
+        <answer>Походять від герундія</answer>
+        <answer>Походять від прислівників</answer>
+    </question>
+</quiz>
