@@ -19,3 +19,10 @@
 <p><i>What we are to do? Що нам треба робити?</i></p>
 <p>Тобто ми чекаємо на iнструкцiю, що нам треба робити.</p>
 </ol>
+
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/4qdsphkpYjs" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
