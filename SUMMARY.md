@@ -57,7 +57,7 @@
    * Слова-зв’язки
 * [Дiєслово](8/dislovo.md)
    * [Часи, з якими вживаються форми основних дiєслiв](8/chasi,_z_yakimi_vzhivayutsya_formi_osnovnih_disliv.md)
-   * Форми дiєслова та його функцiї
+   * [Форми дiєслова та його функцiї](8/formi_dislova_ta_iogo_funktsi.md)
 * Модальнi дiєслова
    * Can (be able to)
    * May, might
