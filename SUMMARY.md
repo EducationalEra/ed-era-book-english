@@ -67,7 +67,7 @@
    * Should, ought to
    * Need
    * Shall, will, would
-   * [Dare](11/dare.md)
+   * Dare
    * Be + to
 * Iнфiнiтив
    * Форми iнфiнiтива
