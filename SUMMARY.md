@@ -27,7 +27,7 @@
    * [Іменник у ролі прикметника](3/mennik_u_rol_prikmetnika.md)
 * [Прикментик](4/prikmentik.md)
    * [Типи прикметникiв](4/tipi_prikmetnikiv.md)
-   * Порядок прикметникiв у реченнi
+   * [Порядок прикметникiв у реченнi](4/poryadok_prikmetnikiv_u_rechenni.md)
    * Ступенi порiвняння
        * Односкладовi прикметники
        * Двоскладовi прикметники на –y, -e, -ow, -er
