@@ -69,3 +69,13 @@
 <li>S + V + For–to infinitive construction</li>
 <p><i>S + V + For–to infinitive construction</i></p>
 </ol>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Які існують інфінітивні кострукції?</p>
+        <answer>Абсолютна, дієслівна</answer>
+        <answer>Абсолютна, суб’єктивна, об’єктивна</answer>
+        <answer correct>Cуб’єктивна, об’єктивна, for-to інфінітивна конструкція</answer>
+        <answer>Об’єктивна, дієслівна</answer>
+    </question>
+</quiz>
