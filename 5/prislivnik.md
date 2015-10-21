@@ -114,4 +114,12 @@
         <answer correct>Прості, похідні, складні та складені</answer>
         <answer>Прислівники на -ed, -ing</answer>
     </question>
+    <question multiple>
+        <p>Прислівник утворюється такими шляхами (можливо декілька правильних відповідей)</p>
+        <answer correct>Adjective + ly = Adverb</answer>
+        <answer>Adjective + ing = Adverb</answer>
+        <answer>Adjective + ed= Adverb</answer>
+        <answer correct>Adverb = Adverb</answer>
+        <answer>Noun + ly = Adverb</answer>
+    </question>
 </quiz>
