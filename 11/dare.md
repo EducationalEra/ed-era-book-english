@@ -3,15 +3,18 @@
 <p><span class="p2">Dare</span> <b>виражає</b>:</p>
 
 <ol>
-<li><span class="p1">Фiзичну або ментальну можливiсть (здiбнiсть) </span> (Physical or mental ability)</li>
-<p><i>I can speak English.</i></p>
-<p><i>I can dance well.</i></p>
-<li><span class="p1">Можливість</span> (Possibility)</li>
-<p><i>It can happen tomorrow.</i></p>
-<li><span class="p1">Дозвіл</span> (Permission)</li>
-<p><i>Can I come in?</i></p>
-<li><span class="p1">Прохання</span> (Request or asking)</li>
-<p><i>Can you help me?</i></p>
-<li><span class="p1">Заборону (в запереченнях)</span> (Prohibition)</li>
-<p><i>You can't smoke here.</i></p>
+<li><span class="p1">Смiливiсть</span></li>
+<p><i>How dare you? Да як ти смiєш?</i></p>
+<p><i>Don’t you dare! Навiть i не смiй!</i></p>
+<li><span class="p1">Значення</span></li>
+<p>Мати право.</p>
+<p>Мати наглiсть.</p>
+<p>Могти.</p>
 </ol>
+
+<p>Модальне дiєслово <span class="p2">dare</span>:</p>
+
+<ul>
+<li>Має закiнчення -s в 3-й особi однини.</li>
+<li>Має допомiжнi дiєслова при утвореннi заперечень та запитань.</li>
+</ul>
