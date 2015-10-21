@@ -1,6 +1,6 @@
 # Shall, will, would
 
-<p><span class="p2">Can</span> <b>виражає</b>:</p>
+<p><span class="p2">Shall</span> <b>виражає</b>:</p>
 
 <ol>
 <li><span class="p1">Пропозiцiя</span> (Offer)</li>
