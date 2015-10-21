@@ -75,7 +75,7 @@
    * [Інфінітив без частки «to»](9/nfntiv_bez_chastki_to.md)
    * [Iнфiнiтивнi конструкцiї](9/infinitivni_konstruktsi.md)
 * [Герундiй](10/gerundii.md)
-   * Форми герундiя
+   * [Форми герундiя](10/formi_gerundiya.md)
    * Функцiї герундiя у реченнi
    * Вживання герундiя
 * Дiєприкметник
