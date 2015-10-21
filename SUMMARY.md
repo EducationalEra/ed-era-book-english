@@ -9,7 +9,7 @@
    * [Нульовий артикль «zero article»](1/nulovii_artikl_zero_article.md)
    * [Окремi випадки вживання артиклiв](1/okremi_vipadki_vzhivannya_artikliv.md)
 * Займенник
-   * Особовi займенники
+   * [Особовi займенники](2/osobovi_zaimenniki.md)
    * Присвiйнi займенники
    * Зворотнi займенники
    * Вказiвнi займенники
