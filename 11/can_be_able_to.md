@@ -22,3 +22,27 @@
 <p><i>You can't smoke here.</i></p>
 </ol>
 
+<div align="center"><img src="e11_p1.png"/></div>
+
+<p>З таким змістом вживається лише в <b><i>питальних</i></b> та <b><i>заперечних</i></b> реченнях.</p>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+ <question multiple>
+ <p>Be able to вживається (мое бути декілька варіантів відповіді)</p>
+ <answer correct>Замість can у майбутньому</answer>
+ <answer correct>Має таке ж саме значення, що й can</answer>
+ <answer>Не може замінити can</answer>
+ <answer>Замість can у минулому</answer>
+ </question>
+ <question multiple>
+ <p>Які спільні значення виражають Can та Could (мое бути декілька варіантів відповіді)</p>
+ <answer>Фізична можливість</answer>
+ <answer>Ментальна та фізична можливість</answer>
+ <answer>Подив, недовіра</answer>
+ <answer correct>Дозвіл</answer>
+ <answer correct>Можливість</answer>
+ <answer correct>Прохання</answer>
+ <answer>Пропозиція</answer>
+ <answer correct>Заборона в запереченнях</answer>
+ </question>
+ </quiz>
