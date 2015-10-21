@@ -25,6 +25,12 @@
 <li>не потребують допоміжних дієслів, аби побудувати запитальні або заперечні форми.</li>
 </ul>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/N4CeOovNSAI" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
  <question multiple>
  <p>Напівмодальними вважають дієслова</p>
