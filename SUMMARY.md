@@ -20,7 +20,7 @@
    * [Заперечнi займенники](2/zaperechni_zaimenniki.md)
    * [Означальнi займенники](2/oznachalni_zaimenniki.md)
 * [Iменник](3/imennik.md)
-   * Злiчуванi та незлiчуванi iменники
+   * [Злiчуванi та незлiчуванi iменники](3/zlichuvani_ta_nezlichuvani_imenniki.md)
    * Утворення множини
    * Кiлькiсть
    * Пpисвiйний вiдмiнок
