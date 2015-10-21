@@ -53,3 +53,13 @@
 <p><b>Але ми скажемо</b> many fishes, якщо говоримо про види риб (kinds of).</p>
 <li>Іменник fruit (фрукти) є незлічуваним і вживається з дієсловом в однині. Але якщо ми говоримо про <b>види фруків</b> (kinds of), то можемо вживати його у множині.</li>
 </ol>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Як множина утворюється в іменниках?</p>
+        <answer>Від іменників ми не можемо утворити множину</answer>
+        <answer>Шляхом додавання закінчення -s</answer>
+        <answer>Кожен іменник має свою власну форму множини</answer>
+        <answer correct>Шляхом додавання закінчення -s або -es</answer>
+    </question>
+</quiz>
