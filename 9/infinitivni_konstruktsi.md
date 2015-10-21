@@ -27,6 +27,12 @@
 <p><i>order, ask, allow, advice, request, recommend</i></p>
 </ol>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/v4CKCRZSWeU" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 ##Суб’єктивна конструкція (Subjective infinitive construction)
 
 <p><b>Суб’єктивна конструкція будується за такою формулою:</b></p>
