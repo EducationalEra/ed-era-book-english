@@ -56,6 +56,14 @@
 
 ![](181_p1.png)
 
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/l4D_6K3h25s" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Функція основних дієслів в реченнях:</p>
