@@ -18,3 +18,22 @@
 <p><span class="p1">Призначення</span> (з якою ціллю було зроблено цей предмет, навіщо він потрібен, яке його призначення)</p>
 </ul>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question multiple>
+        <p>Що таке якісні прикметники? (може бути декілька правильних відповідей)</p>
+        <answer>Всі прикметники якісні</answer>
+        <answer correct>Ті, що вказують на ознаку предмета</answer>
+        <answer correct>Вони змінюються за ступенями порівняння</answer>
+        <answer>Ті, що вказують на ознаку предмета по відношенню до матеріалу, явища або особи</answer>
+        <answer>Ті, що утворені від Participle I</answer>
+    </question>
+    <question multiple>
+        <p>Які бувають типи прикметників? (може бути декілька правильних відповідей)</p>
+        <answer>Особові, означальні, заперечні</answer>
+        <answer correct>Означені та неозначені</answer>
+        <answer>Описові</answer>
+        <answer>Прикметники - прислівники</answer>
+        <answer correct>Ті, що виражають власну думку</answer>
+        <answer correct>Якісні та відносні</answer>
+    </question>
+</quiz>
