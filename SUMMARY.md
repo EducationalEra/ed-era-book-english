@@ -34,7 +34,7 @@
        * [Багатоскладові прикметники](4/dvoskladovi_ta_bagatoskladovi_prikmetniki.md)
    * [Порiвняння прикметникiв](4/porivnyannya_prikmetnikiv.md)
    * [Прикметники на -ing та -ed](4/prikmetniki_na_-ing_ta_-ed.md)
-* Прислiвник
+* [Прислiвник](5/prislivnik.md)
    * Cтупенi порiвняння прислiвникiв
    * Неправильнi прислiвники
    * Практичне вживання та мiсце в реченнi прислiвникiв
