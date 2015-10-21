@@ -24,6 +24,12 @@
 
 <p>Всі ці дієслова, не дивлячисьна відсутність частки «to», все одно є інфінітивами.</p>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/rvbeB2u_Qhw" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question multiple>
         <p>Інфінітив без частки to вживається (може бути декілька правильних відповідей)</p>
