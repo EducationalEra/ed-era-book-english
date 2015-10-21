@@ -71,6 +71,12 @@
 
 <p>Щодо <b>функції безособових дієслів у реченні</b>, вони можуть виступати будь-яким членом речення, але <b>не присудком</b>.</p>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/V9V530DWURc" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Герундій, інфінітив, дієприкметники – це...</p>
