@@ -29,7 +29,7 @@
    * [Типи прикметникiв](4/tipi_prikmetnikiv.md)
    * [Порядок прикметникiв у реченнi](4/poryadok_prikmetnikiv_u_rechenni.md)
    * [Ступенi порiвняння](4/stupeni_porivnyannya.md)
-       * Односкладовi прикметники
+       * [Односкладовi прикметники](4/odnoskladovi_prikmetniki.md)
        * Двоскладовi прикметники на –y, -e, -ow, -er
        * Багатоскладовi прикметники
    * Порiвняння прикметникiв
