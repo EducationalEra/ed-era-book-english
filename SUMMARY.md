@@ -72,7 +72,7 @@
    * [Форми iнфiнiтива](9/formi_infinitivu.md)
    * [Функцiї iнфiнiтива в реченнi](9/funktsi_infinitiva_v_rechenni.md)
    * [Вживання iнфiнiтива](9/vzhivannya_infinitiva.md)
-   * Інфінітив без частки «to»
+   * [Інфінітив без частки «to»](9/nfntiv_bez_chastki_to.md)
    * [Iнфiнiтивнi конструкцiї](9/infinitivni_konstruktsi.md)
 * Герундiй
    * Форми герундiя
