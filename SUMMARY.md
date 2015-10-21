@@ -22,7 +22,7 @@
 * [Iменник](3/imennik.md)
    * [Злiчуванi та незлiчуванi iменники](3/zlichuvani_ta_nezlichuvani_imenniki.md)
    * [Утворення множини](3/utvorennya_mnozhini.md)
-   * Кiлькiсть
+   * [Кiлькiсть](3/kilkist.md)
    * Пpисвiйний вiдмiнок
    * Іменник у ролі прикметника
 * Прикментик
