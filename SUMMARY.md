@@ -11,7 +11,7 @@
 * [Займенник](2/zaimennik.md)
    * [Особовi займенники](2/osobovi_zaimenniki.md)
    * [Присвiйнi займенники](2/prisviini_zaimenniki.md)
-   * Зворотнi займенники
+   * [Зворотнi займенники](2/zvorotni_zaimenniki.md)
    * Вказiвнi займенники
    * Питальнi займенники
    * Сполучнi займенники
