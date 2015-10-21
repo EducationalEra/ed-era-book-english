@@ -56,6 +56,25 @@
 
 ![](181_p1.png)
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Функція основних дієслів в реченнях:</p>
+        <answer correct>Присудок</answer>
+        <answer>Підмет</answer>
+        <answer>Додаток</answer>
+        <answer>Означення</answer>
+    </question>
+    <question multiple>
+        <p>Дієслова бувають:</p>
+        <answer correct>Правильні</answer>
+        <answer correct>Неправильні</answer>
+        <answer>Складені </answer>
+        <answer correct>Особові</answer>
+        <answer correct>Безособові<answer>
+        <answer>Зворотні</answer>
+    </question>
+</quiz>
+
 ##Основні дієслова
 
 <p>Основні дієслова є найважливішими дієсловами, вони найчастіше використовуються в усному та письмовому мовленні, саме тому ми більш детально на них зупинимось.</p>
