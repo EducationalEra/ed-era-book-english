@@ -76,7 +76,7 @@
    * [Iнфiнiтивнi конструкцiї](9/infinitivni_konstruktsi.md)
 * [Герундiй](10/gerundii.md)
    * [Форми герундiя](10/formi_gerundiya.md)
-   * Функцiї герундiя у реченнi
+   * [Функцiї герундiя у реченнi](10/funktsi_gerundiya_u_rechenni.md)
    * Вживання герундiя
 * Дiєприкметник
    * Загальні відомості
