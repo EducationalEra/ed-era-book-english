@@ -89,4 +89,24 @@
 <li><b>a pair of</b> pants</li>
 </ul>
 
-
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question multiple>
+        <p>Які є категорії іменників?</p>
+        <answer correct>Конкретні</answer>
+        <answer correct>Абстрактні</answer>
+        <answer correct>Власні назви</answer>
+        <answer>Присвійні</answer>
+        <answer>Зворотні</answer>
+        <answer correct>Злічувані</answer>
+        <answer>Взаємні</answer>
+        <answer correct>Незлічувані</answer>
+        <answer>Особові</answer>
+        <answer correct>Прості</answer>
+    </question>
+    <question text="">
+        <p>Злічувані іменники можуть бути в формі?</p>
+        <answer>лише однини</answer>
+        <answer>лише множини</answer>
+        <answer correct>однини та множини</answer>
+    </question>
+</quiz>
