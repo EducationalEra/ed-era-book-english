@@ -63,7 +63,7 @@
    * Can (be able to)
    * May, might
    * Must
-   * [Have to](11/have_to.md)
+   * Have to
    * Should, ought to
    * Need
    * Shall
