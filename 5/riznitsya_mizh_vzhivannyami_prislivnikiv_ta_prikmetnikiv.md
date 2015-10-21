@@ -36,3 +36,13 @@
 <td>He is doing quite well after that accident.</td>
 </tr>
 </table>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Прислівник характеризує:</p>
+        <answer>Дієслова, іменники, прикметники</answer>
+        <answer>Іменники, дієслова відчуттів</answer>
+        <answer correct>Дієслова, прикметники, інші прислівники</answer>
+        <answer>Числівники, займенники, дієслова</answer>
+    </question>
+</quiz>
