@@ -66,7 +66,7 @@
    * Have to
    * Should, ought to
    * Need
-   * Shall, will, would
+   * [Shall, will, would](11/shall,_will,_would.md)
    * Dare
    * Be + to
 * Iнфiнiтив
