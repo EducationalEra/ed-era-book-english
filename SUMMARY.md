@@ -69,7 +69,7 @@
    * [Dare](11/dare.md)
    * [Be + to](11/be_+_to.md)
 * [Iнфiнiтив](9/infinitiv.md)
-   * Форми iнфiнiтива
+   * [Форми iнфiнiтива](9/formi_infinitivu.md)
    * Функцiї iнфiнiтива в реченнi
    * Вживання iнфiнiтива
    * Інфінітив без частки «to»
