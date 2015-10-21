@@ -23,7 +23,7 @@
    * [Злiчуванi та незлiчуванi iменники](3/zlichuvani_ta_nezlichuvani_imenniki.md)
    * [Утворення множини](3/utvorennya_mnozhini.md)
    * [Кiлькiсть](3/kilkist.md)
-   * Пpисвiйний вiдмiнок
+   * [Пpисвiйний вiдмiнок](3/ppisviinii_vidminok.md)
    * Іменник у ролі прикметника
 * Прикментик
    * Типи прикметникiв
