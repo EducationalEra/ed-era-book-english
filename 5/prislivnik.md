@@ -36,6 +36,12 @@
 <p><i>Tom walks fast.</i></p>
 </ol>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/9-Ztkp0zPKI" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question multiple>
         <p>Оберіть правильні позиції прислівника по відношенню до інших частин мови (можливо декілька правильних відповідей)</p>
