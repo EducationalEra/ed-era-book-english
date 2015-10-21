@@ -30,3 +30,20 @@
 </div>
 </div>
 </div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Як утворити ступені порівняння двоскладових прикметників?</p>
+        <answer>+s; +'s</answer>
+        <answer>+es</answer>
+        <answer>more; the most</answer>
+        <answer correct>+er; the ... +est</answer>
+    </question>
+    <question text="">
+        <p>Як утворити ступінь порівняння багатоскладових прикметників?</p>
+        <answer>+s; +'s</answer>
+        <answer>+es</answer>
+        <answer correct>more; the most</answer>
+        <answer>+er; the ... +est</answer>
+    </question>
+</quiz>
