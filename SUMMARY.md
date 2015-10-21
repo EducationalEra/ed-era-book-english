@@ -74,7 +74,7 @@
    * [Вживання iнфiнiтива](9/vzhivannya_infinitiva.md)
    * [Інфінітив без частки «to»](9/nfntiv_bez_chastki_to.md)
    * [Iнфiнiтивнi конструкцiї](9/infinitivni_konstruktsi.md)
-* Герундiй
+* [Герундiй](10/gerundii.md)
    * Форми герундiя
    * Функцiї герундiя у реченнi
    * Вживання герундiя
