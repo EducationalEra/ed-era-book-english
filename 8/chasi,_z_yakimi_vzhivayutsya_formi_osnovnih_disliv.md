@@ -48,3 +48,26 @@
 <p><i>lie $$\rightarrow$$ l<s>ie</s> + y + ing $$\rightarrow$$ <b>lying</b></i></p>
 </ol>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Скільки форм мають основні дієслова?</p>
+        <answer>2</answer>
+        <answer>3</answer>
+        <answer correct>4</answer>
+        <answer>5</answer>
+    </question>
+    <question text="">
+        <p>4 форма дієслова має закінчення:</p>
+        <answer>-s</answer>
+        <answer correct>-ing</answer>
+        <answer>-ed</answer>
+        <answer>не змінюється</answer>
+    </question>
+    <question text="">
+        <p>Неправильні дієслова в 2–й та 3–й формі зімнюються таким чином:</p>
+        <answer>Мають закінчення -ed</answer>
+        <answer correct>Мають власні форми змінювання</answer>
+        <answer>Не змінюються</answer>
+        <answer>Мають закінчення -ing</answer>
+    </question>
+</quiz>
