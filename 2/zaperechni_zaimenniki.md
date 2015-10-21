@@ -46,6 +46,12 @@
 <br>
 <i>Do you want coffee or tea? - <b>Neither</b>. – Бажаєте чаю чи кави? – <b>Нічого</b>. (Маємо вибір з двох предметів.)</i>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/Hg5HtbUvfcc" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question multiple>
         <p>Вкажіть, яке речення утворено правильно: (можливо декілька відповідей можуть бути правильними)</p>
@@ -62,3 +68,4 @@
         <answer correct>Вживається у вузькому значенні, в значенні «жоден з двох».</answer>
     </question>
 </quiz>
+
