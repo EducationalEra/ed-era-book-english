@@ -46,9 +46,6 @@
         <answer correct>Прислівники (rarely, often, never, always) + дієслово</answer>
         <answer>Числівник + прислівник</answer>
         <answer correct>Прислівник + прикметник</answer>
-        <explanation>
-        Неозначений артикль «а»  вживається перед приголоснуми звуками, а артикль «an» - перед голосними.
-        </explanation>
     </question>
 </quiz>
 
@@ -109,3 +106,12 @@
 <p><i>long, briefly, temporarily, forever</i></p>
 </ul>
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Які бувають прислівники?</p>
+        <answer>Прості, складні</answer>
+        <answer>Утворені від Participle I/II</answer>
+        <answer correct>Прості, похідні, складні та складені</answer>
+        <answer>Прислівники на -ed, -ing</answer>
+    </question>
+</quiz>
