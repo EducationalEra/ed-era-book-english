@@ -14,3 +14,13 @@
 </ol>
 
 <div align="center"><img src="e11_p4.png"/></div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+ <question multiple>
+ <p>Різниця між must та have to в тому, що</p>
+ <answer correct>Must виражає необхідність в значенні «повинен», а have to виражає необхідність видповідно до ситуації</answer>
+ <answer correct>Have to та must виражають необхідність згідно з певною ситуацією, різниці немає</answer>
+ <answer>Have to виражає необхідність, а must обов’язок</answer>
+ <answer>Have to виражає суворий наказ, а мust використовується в запереченнях в значенні «не потрібно»</answer>
+ </question>
+</quiz>
