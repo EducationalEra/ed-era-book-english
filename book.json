@@ -1,5 +1,4 @@
 {
-    "gitbook": "2.3.0",
     "plugins": [
         "mathjax4us",
         "youtube",
