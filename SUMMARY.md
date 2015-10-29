@@ -39,7 +39,6 @@
    * [Практичне вживання та мiсце в реченнi прислiвникiв](5/praktichne_vzhivannya_ta_mistse_v_rechenni_prislivnikiv.md)
    * [Рiзниця мiж вживаннями прислiвникiв та прикметникiв](5/riznitsya_mizh_vzhivannyami_prislivnikiv_ta_prikmetnikiv.md)
 * Числiвник
-   * Числiвник
    * Дроби
    * Вживання нуля
    * Дати
