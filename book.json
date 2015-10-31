@@ -1,15 +1,27 @@
 {
     "plugins": [
-        "mathjax4us",
+        "mathjax",
         "youtube",
         "addcssjs",
         "modal-youtube-video",
         "quiz",
         "gtm",
         "ga",
-        "anchor-navigation"
+        "-search",
+        "disqus"
     ],
     "pluginsConfig": {
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "weibo": false,
+            "instapaper": false,
+            "vk": true,
+            "all": [
+                "facebook", "google", "twitter","vk"
+            ]
+        },
         "addcssjs": {
             "css": ["custom/css/style.css"],
             "js": ["vendor/js/jquery/jquery-2.1.3.min.js", "custom/js/popup.js", "custom/js/custom.js"]
@@ -44,9 +56,6 @@
         "sidebar": {
           "Зв'язатися з нами: info@ed-era.com": "mailto:info@ed-era.com",
           "Перейти до бібліотеки EdEra": "https://www.ed-era.com/books"
-        },
-        "sharing": {
-            "vk":true
-        }        
+        }      
     }
 }
