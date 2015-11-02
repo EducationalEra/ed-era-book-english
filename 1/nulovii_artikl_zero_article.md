@@ -22,7 +22,7 @@
  * Autumn is too cold for me!
 7. <span class="p1">no article + church / college / court / hospital / prison / school / university</span> (установа або заклад, коли мова йдеться про їх функцiю)
  * My little sister goes to school.<br>
- *Коментар*: Мається на увазi, що сестричка ходить не в школу, як фiзичний об’єкт (будiвля), а ходить до школи, щоб
+ <i>Коментар</i>: Мається на увазi, що сестричка ходить не в школу, як фiзичний об’єкт (будiвля), а ходить до школи, щоб
 навчатися.<br>
 <font color="#FAAF00"><b>BUT!!!</b></font><br>
  <span class="p1"><i>a/the + school/hospital (фiзичний об’єкт)</i></span><br>
@@ -33,7 +33,7 @@ There is a school near my house.
 9. <span class="p1">no article + N множина</span> (узагальнена функцiя)
  * I like flowers (квiти взагалi).
  * Trees are plants.<br>
- *Коментар*: В даному випадку ми говоримо не про якiсь конкретнi квiти або квiтку, а про квiти, як рослини, як iз того, що нам подобається, узагалi. Така сама ситуацiя як i з використанням означеного артиклю.
+ <i>Коментар</i>: В даному випадку ми говоримо не про якiсь конкретнi квiти або квiтку, а про квiти, як рослини, як iз того, що нам подобається, узагалi. Така сама ситуацiя як i з використанням означеного артиклю.
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/EMu2CSlJKPM" frameborder="0" allowfullscreen></iframe>
@@ -41,10 +41,10 @@ There is a school near my house.
 <div class="popup">
 </div>
 
-<font color="#FAAF00">**Рiзниця у вживаннi полягає у тому що:**</font>
+<font color="#FAAF00">Рiзниця у вживаннi полягає у тому що:</font>
  1. Ми вживаємо означаний артикль, коли говоримо про
 узагальнену функцiю, якщо iменник в <span class="p1">ОДНИНI</span>
- 2. Ми <font color="#FAAF00">**не вижваємо**</font> жодного артиклю, коли говоримо про
+ 2. Ми <font color="#FAAF00">не вижваємо</font> жодного артиклю, коли говоримо про
 узагальнену функцiю, якщо iменник в <span class="p1">МНОЖИНI</span>.
 
 
