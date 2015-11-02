@@ -1,6 +1,6 @@
 # Займенник
 
-<div class="space">
+
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
@@ -8,7 +8,10 @@
 A <b>pronoun</b> is a word that substitutes for a noun or noun phrase.
 </div>
 </div>
+
+<div class="space">
 </div>
+
 В англійській мові існує аж 10 видів займенників, і кожен вид має свої певні особливості та правила вживання.<br>
 <span class="p1">Види займенників</span>:
 1. Особові (<i>Personal</i>)
