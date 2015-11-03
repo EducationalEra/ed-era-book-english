@@ -14,4 +14,25 @@
 <li><span class="p1">zero – в науці</span>:</li>
 <p>Zero inflation – Нульова інфляція</p>
 </ul>
+<li><span class="p1">‘O’/[ou]</span></li>
+<ul>
+<li><span class="p1">в телефонних номерах</span>:</li>
+<p>5306709 – five three o [ou] six seven o [ou] nine</p>
+<li><span class="p1">іноді в роках</span>:</li>
+<p>1905 – nineteen «о» [ou] five</p>
+<p>1707 – seventeen «о» [ou] seven</p>
+</ul>
+<li><span class="p1">Nil</span></li>
+<ul>
+<li><span class="p1">голи в спорті</span>:</li>
+<p>Newcastle United won four nil (by four goals to nil)= (4 – 0)</p>
+<li><span class="p1">в значенні ‘nothing’ (можна також вживати «zero»)</span>:</li>
+<p>Production was reduced to nil/zero. Виробництво було скорочене до нуля.</p>
+</ul>
+<li><span class="p1">Love</span></li>
+<ul>
+<li><span class="p1">в тенісі</span>:</li>
+<p>Через французьке слово L’oeuf – яйце, яким назвали 0 через схожість форми.</p>
+<p>Sharapova leads forty-love.</p>
+</ul>
 </ol>
