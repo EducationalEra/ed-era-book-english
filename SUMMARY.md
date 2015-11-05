@@ -40,7 +40,7 @@
    * [Рiзниця мiж вживаннями прислiвникiв та прикметникiв](5/riznitsya_mizh_vzhivannyami_prislivnikiv_ta_prikmetnikiv.md)
 * [Числiвник](6/chislivnik.md)
    * [Дроби](6/drobi.md)
-   * Вживання нуля
+   * [Вживання нуля](6/vjivannya_nulya.md)
    * Дати
    * Арифметичні підрахунки
 * [Прийменник](7/priimennik.md)
