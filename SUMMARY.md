@@ -77,7 +77,7 @@
    * [Форми герундiя](10/formi_gerundiya.md)
    * [Функцiї герундiя у реченнi](10/funktsi_gerundiya_u_rechenni.md)
    * [Вживання герундiя](10/vzhivannya_gerundiya.md)
-* Дiєприкметник
+* [Дiєприкметник](12/diprikmetnik.md)
    * Participle I
    * Participle II
    * Конструкцiї з Participle
