@@ -79,6 +79,6 @@
    * [Вживання герундiя](10/vzhivannya_gerundiya.md)
 * Дiєприкметник
    * Participle I
-   * Participle II
+   * [Participle II](12/participle_ii.md)
    * Конструкцiї з Participle
 
