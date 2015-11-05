@@ -47,7 +47,7 @@
    * [Позицiя та вживання in, at та on](7/pozitsiya_ta_vzhivannya_in,_at_ta_on.md)
    * Прийменники часу
    * [Вживання прийменникiв (та сполучникiв) часу](7/vzhivannya_priimennikiv_ta_spoluchnikiv_chasu.md)
-   * Прийменники з рiзними частинами мови
+   * [Прийменники з рiзними частинами мови](7/priimenniki_z_riznimi_chastinami_movi.md)
 * [Сполучник](7/spoluchnik.md)
    * [Пiдряднi сполучники](7/pidryadni_spoluchniki.md)
    * [Слова-зв’язки](7/slova-zvyazki.md)
