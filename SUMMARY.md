@@ -80,5 +80,5 @@
 * Дiєприкметник
    * Participle I
    * Participle II
-   * Конструкцiї з Participle
+   * [Конструкцiї з Participle](12/konstruktsi_z_participle.md)
 
