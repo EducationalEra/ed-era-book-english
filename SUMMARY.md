@@ -49,7 +49,7 @@
    * Вживання прийменникiв (та сполучникiв) часу
    * Прийменники з рiзними частинами мови
 * [Сполучник](7/spoluchnik.md)
-   * [Пiдряднi сполучники](pidryadni_spoluchniki.md)
+   * [Пiдряднi сполучники](7/pidryadni_spoluchniki.md)
    * Слова-зв’язки
 * [Дiєслово](8/dislovo.md)
    * [Часи, з якими вживаються форми основних дiєслiв](8/chasi,_z_yakimi_vzhivayutsya_formi_osnovnih_disliv.md)
