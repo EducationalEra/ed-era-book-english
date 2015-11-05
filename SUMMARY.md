@@ -50,7 +50,7 @@
    * Прийменники з рiзними частинами мови
 * [Сполучник](7/spoluchnik.md)
    * [Пiдряднi сполучники](7/pidryadni_spoluchniki.md)
-   * Слова-зв’язки
+   * [Слова-зв’язки](7/slova-zvyazki.md)
 * [Дiєслово](8/dislovo.md)
    * [Часи, з якими вживаються форми основних дiєслiв](8/chasi,_z_yakimi_vzhivayutsya_formi_osnovnih_disliv.md)
    * [Форми дiєслова та його функцiї](8/formi_dislova_ta_iogo_funktsi.md)
