@@ -54,7 +54,7 @@
 </ul>
 </ul>
 
-![](181_p1.png)
+<div align="center"><img src="181_p1.png"/></div>
 
 
 <div class="fluidMedia">
