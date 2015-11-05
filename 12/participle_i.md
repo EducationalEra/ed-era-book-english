@@ -67,7 +67,7 @@
         <answer>Past Participle, активний дієприкметник</answer>
     </question>
     <question text="">
-        <p>Які бувають форми Present Participle</p>
+        <p>Які бувають форми Present Participle?</p>
         <answer>Загальна та тривала</answer>
         <answer>Загальна, тривала та перфектна тривала</answer>
         <answer correct>Загальна та перфектна</answer>
