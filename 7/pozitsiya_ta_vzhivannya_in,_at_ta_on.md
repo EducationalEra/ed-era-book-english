@@ -142,3 +142,101 @@
         <answer correct>on + public transport/bicycle, in + car/taxi</answer>
     </question>
 </quiz>
+
+## Вживання in, at та on у контексті
+
+<ol>
+<li><span class="p1">Вживання at</span></li>
+<ul>
+<li><b>At</b> ми вживаємо з часом, коли називаємо конкретний час (години, хвилини), а також іменниками, що позначають конкретний часовий проміжок, який ми можемо визначити:</li>
+<p></p>
+<p>at 8 a.m., at 9 o`clock</p>
+<p>at noon (ми знаємо, що це 12 дня)</p>
+<p>at midnight (ми знаємо, що це 12 ночі)</p>
+<p>at dinner time (ми знаємо, що це приблизно 7 вечора)</p>
+<li><b>At</b> ми вживаємо з іменниками, що позначають конкретний період свят:</li>
+<p></p>
+<p>at Christmas (мається на увазі період різдвяних свят)</p>
+<p>at Easter (мається на увазі період пасхальних свят)</p>
+<li>А також в таких виразах:</li>
+<p></p>
+<p>At the weekend – на вихідних</p>
+<p>At the moment – в даний момент</p>
+<p>At present – тепер, в даний момент</p>
+<p>At the age of – у віці ...</p>
+<p>At the same time – в той же час</p>
+</ul>
+<li><span class="p1">Вживання on</span></li>
+<ul>
+<li><b>On</b> ми вживаємо з датами</li>
+<p></p>
+<p>On the $$4^{\text{th}}$$ of July, on the second of May</p>
+<li><b>On</b> вживаємо з днями тижня</li>
+<p></p>
+<p>On Monday, on Friday</p>
+<li><b>On</b> використовуємо зі святами, але не з періодами свят, а з конкретним святковим днем</li>
+<p></p>
+<p>On the New Year Eve, on Christmas day</p>
+<li><b>On</b> вживаємо у словосполученнях з днями тижня</li>
+<p></p>
+<p>On Friday morning</p>
+<p>On Wednesday evening</p>
+</ul>
+<li><span class="p1">Вживання in</span></li>
+<ul>
+<li><b>In</b> вживаємо з довшими періодами часу: місяцями, порами року, роками, століттями</li>
+<p></p>
+<p>In may</p>
+<p>In spring</p>
+<p>In $$1987$$</p>
+<p>In the $$20^{\text{th}}$$ century</p>
+<li><b>In</b> вживають також з частинами дня</li>
+<p></p>
+<p>In the morning, in the afternoon, in the evening</p>
+<p>Але пам’ятаємо, що якщо перед цими частинами дня стоїть день тижня, то вживаємо <b>On</b></p>
+<p>Також існує ще одне виключення – <b>at night</b>, це просто потрібно запам’ятати.</p>
+</ul>
+</ol>
+
+<p>Розглянемо ще декілька особливостей вживання <b>at, in</b> та <b>on</b>:</p>
+
+<ul>
+<li>Ми не вживаємо прийменників <b>at/on/in</b> перед <span class="p1">last (минулий)/next (наступний)</span>:</li>
+<p></p>
+<p>Last Friday</p>
+<p>Next Christmas</p>
+<li><b>In</b> вживається в значенні «через деякий період часу»</li>
+<p></p>
+<p>In a day. – Через день</p>
+<p>In a week. – Через тиждень</p>
+<li>Коли ми кажемо «на початку» або «в кінці», то вживаємо прийменник <b>at:</b></li>
+<p></p>
+<p>at the end of summer</p>
+<p>at the beginning the concert</p>
+<p><b>Але</b> ми кажемо <i>In the end</i> в значенні «finally» (тобто врешті-решт), адже це ідіоматичний вираз.</p>
+</ul>
+
+<p>Щодо вживання виразу «<b>вчасно</b>»:</p>
+
+<p>В англійській мові можна сказати вчасно двома виразами «<b>in time</b>» та «<b>on time</b>»</p>
+
+<p><b>On time</b> ми вживаємо в значенні «punctual, not late» тобто просто «вчасно»</p>
+
+<p>Will you be on time? – Ти будеш вчасно?</p>
+
+<p>In time ми вживаємо коли мається на увазі «<b>вчасно, для чогось</b>» (to do/for(smth)):</p>
+
+<p>I’ll be in time to keep you company. – Я буду вчасно, щоб скласти тобі компанію.</p>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question multiple>
+        <p>Ми вживаємо прийменник at (Можливо декілька варіантів відповіді)</p>
+        <answer correct>З періодами свят</answer>
+        <answer correct>З часом (теперішній момент)</answer>
+        <answer correct>Слово «night»</answer>
+        <answer>Morning / Evening</answer>
+        <answer>З датами</answer>
+        <answer correct>З словом «weekend»</answer>
+        <answer correct>З словосполученнями «the same time», «the age of»</answer>
+    </question>
+</quiz>
