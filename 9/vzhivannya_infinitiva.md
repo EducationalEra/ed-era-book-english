@@ -4,9 +4,9 @@
 
 ##Iнфiнiтив з дiєсловами
 
-![](191_p4.png)
+<div align="center"><img src="191_p4.png"/></div>
 
-##Iнфiнiтив з прикметниками
+##Інфінітив з прикметниками
 
-![](191_p5.png)
+<div align="center"><img src="191_p5.png"/></div>
 
