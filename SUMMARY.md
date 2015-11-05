@@ -42,7 +42,7 @@
    * [Дроби](6/drobi.md)
    * [Вживання нуля](6/vjivannya_nulya.md)
    * [Дати](6/dati.md)
-   * Арифметичні підрахунки
+   * [Арифметичні підрахунки](6/arifmetichni_pidrahunki.md)
 * [Прийменник](7/priimennik.md)
    * [Позицiя та вживання in, at та on](7/pozitsiya_ta_vzhivannya_in,_at_ta_on.md)
    * [Вживання прийменникiв (та сполучникiв) часу](7/vzhivannya_priimennikiv_ta_spoluchnikiv_chasu.md)
