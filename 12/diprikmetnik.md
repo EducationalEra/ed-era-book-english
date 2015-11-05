@@ -20,3 +20,13 @@
 
 <p>Ми окремо з вами розглянемо Participle I,  Participle II, а також Participle Constructions.</p>
 
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Дієприкметник має властивості:</p>
+        <answer>Іменника та дієслова</answer>
+        <answer>Дієслова та прикметника</answer>
+        <answer correct>Дієслова, прикметника, прислівника</answer>
+        <answer>Іменника та прикметника</answer>
+    </question>
+</quiz>
