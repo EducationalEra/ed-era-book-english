@@ -131,3 +131,14 @@
 </div>
 <div class="popup">
 </div>
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Коли у нас є запитання «Де ми подорожуємо»"</p>
+        <answer>in + car/taxi/bicycle</answer>
+        <answer>on + car/taxi/public transport</answer>
+        <answer>in + public transport</answer>
+        <answer correct>on + public transport/bicycle, in + car/taxi</answer>
+    </question>
+</quiz>
