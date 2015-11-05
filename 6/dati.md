@@ -13,7 +13,7 @@
 <p>seven hundred, three million, seven thousand.</p>
 
 <div class="fluidMedia">
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/Ct-9uiMWz_o" frameborder="0" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/H1gbM4FIVhQ" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="popup">
 </div>
@@ -31,6 +31,13 @@
 <p>day/month/year (British);  24/02/2014</p>
 <p>month/day/year (American);  02/24/2014</p>
 </ul>
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/Ct-9uiMWz_o" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <li><span class="p1">Століття можуть записуватися як цифрами так і словами</span>:</li>
 <p>The nineteenth century/the $$19^{\text{th}}$$ century</p>
 <li><span class="p1">Десятиліття</span>:</li>
