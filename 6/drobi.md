@@ -23,6 +23,13 @@
 <p>$$\dfrac{1}{4}$$ – a quarter (чверть)</p>
 <p>$$1\dfrac{1}{4}$$ – one and a quarter (одна ціла і чверть)</p>
 <li><span class="p1">Десяткові дроби</span> (<i>Decimals</i>)</li>
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/udrIEp2m2LE" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <p>Десяткові дроби утворюються дуже просто, ми лише <b>називаємо цифри, що стоять у дробі, використовуючи кількісні числівники і називаємо крапку між ними, відділяючи десяті, соті, тисячні тощо</b>.</p>
 <p>$$2.4$$ – two point four</p>
 <p>$$2.25$$ – two point forty–five</p>
