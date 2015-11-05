@@ -11,6 +11,13 @@
 <p>Можемо як вживати так і не вживати сполучник and.</p>
 <p>Зразу варто зазначити, коли ми вживаємо <b>hundred, thousand, million, dozen</b> з іншими числівниками, тобто ніби рахуємо, то не додаємо закінчення -s. В українській мові ми скажемо 500 – п’ять сотень (сотні у множині), але англійською – five hundred (no -s)</p>
 <p>seven hundred, three million, seven thousand.</p>
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/Ct-9uiMWz_o" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <li><span class="p1">Коли позначаємо конкретну дату (день, місяць)</span>:</li>
 <p>Позначаючи дату (яке сьогодні число), використовуємо порядкові числівник.</p>
 <p>Існує відмінність між британським та американським варіантом. В Україні використовують британський варіант.</p>
