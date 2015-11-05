@@ -20,7 +20,7 @@
 </ul>
 </ol>
 
-![](191_p1.png)
+<div align="center"><img src="191_p1.png"/></div>
 
 <p><b>Інфінітив має:</b></p>
 <ol>
