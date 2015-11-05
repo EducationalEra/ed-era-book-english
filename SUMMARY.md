@@ -41,7 +41,7 @@
 * [Числiвник](6/chislivnik.md)
    * [Дроби](6/drobi.md)
    * [Вживання нуля](6/vjivannya_nulya.md)
-   * Дати
+   * [Дати](6/dati.md)
    * Арифметичні підрахунки
 * [Прийменник](7/priimennik.md)
    * [Позицiя та вживання in, at та on](7/pozitsiya_ta_vzhivannya_in,_at_ta_on.md)
