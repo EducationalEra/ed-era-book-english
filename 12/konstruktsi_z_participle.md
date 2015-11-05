@@ -79,6 +79,8 @@
 
 <p>Мати, що дозволяє Томмі піти на прогулянку. (Дослівно: Мати, дозволяюча Томмі піти на прогулянку.)</p>
 
+<p>Дієприкметник відноситься до підмета, що стоїть перед ним.</p>
+
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/_IGq0cJcBVc" frameborder="0" allowfullscreen></iframe>
 </div>
