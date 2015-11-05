@@ -79,6 +79,12 @@
 
 <p>Мати, що дозволяє Томмі піти на прогулянку. (Дослівно: Мати, дозволяюча Томмі піти на прогулянку.)</p>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/_IGq0cJcBVc" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>З Participle бувають такі конструкції:</p>
