@@ -79,3 +79,78 @@
         <answer>While</answer>
     </question>
 </quiz>
+
+## By/until(till)
+
+<ol>
+<li><span class="p1">By</span></li>
+<p><b>By</b> ми також можемо вживати в контексті часу. <b>By</b> вживається з періодом часу, щоб показати, що щось станеться до певного моменту і відповідає на питання «коли? when?»</p>
+<p>By Sunday</p>
+<p>By 5 o`clock</p>
+<p>By November</p>
+<p>Mary will recive the letter by Sunday</p>
+<li><span class="p1">Untill/till</span></li>
+<p><b>Untill/till</b> ми також вживаємо з проміжком часу, але коли даємо відповідь на питання <b>як довго? how long?</b></p>
+<p>She won`t be here until Sunday</p>
+<p>I can stay till tomorrow</p>
+</ol>
+
+## Вживання By/With
+
+<p>Нижче у таблиці ви можете розглянути різницю між вживанням <b>by</b> та <b>with</b>.</p>
+
+<ol>
+<li>By ми вживємо</li>
+<ul>
+<li>коли зазначаємо яким саме способом ми пересуваємося, подорожуємо</li>
+<li>коли зазначаємо яким способом щось було зроблене (вживається з герундієм)</li>
+<li>в окремих виразах</li>
+</ul>
+<li>With ми вживаємо, коли зазначаємо, що щось було зроблено за допомогою якогось інструменту або частини тіла</li>
+<table>
+<tr>
+<td><b>BY</b></td>
+<td><b>BY</b></td>
+<td><b>BY</b></td>
+<td><b>WITH</b></td>
+</tr>
+<tr>
+<td>пересування, яким способом ми подорожуємо?</td>
+<td>вирази</td>
+<td>як щось зроблено? яким способом? + герундій</td>
+<td>інструменти або частини тіла</td>
+</tr>
+<tr>
+<td>пересування, яким способом ми подорожуємо?</td>
+<td>вирази</td>
+<td>як щось зроблено? яким способом? + герундій</td>
+<td>інструменти або частини тіла</td>
+</tr>
+<tr>
+<td>by plane<br>
+by boat/train/car/bus<br>
+by underground</td>
+<td>by chance<br>
+by choice<br>
+by mistake<br>
+by check (pay)<br>
+by hand</td>
+<td>it was done:...<br>
+...by counting<br>
+...by listening<br>
+...by trying</td>
+<td>with a hand (touch smb)<br>
+with a hand (touch smb)<br>
+with a vacuum cleaner (clean)<br>
+with a spoon/fork (eat)</td>
+</tr>
+<tr>
+<td>means of  communication:<br>
+by mail/phone/fax/e-mail<br>
+by air/land/sea</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+</ol>
