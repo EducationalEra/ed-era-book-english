@@ -76,5 +76,5 @@
 * [Дiєприкметник](12/diprikmetnik.md)
    * [Participle I](12/participle_i.md)
    * [Participle II](12/participle_ii.md)
-   * Конструкцiї з Participle
+   * [Конструкцiї з Participle](12/konstruktsi_z_participle.md)
 
