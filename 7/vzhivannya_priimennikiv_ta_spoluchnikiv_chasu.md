@@ -177,3 +177,33 @@ by air/land/sea</td>
         <answer>with</answer>
     </question>
 </quiz>
+
+## Окремі випадки вживання прийменників
+
+<ol>
+<li><b>into</b> — входити в середину (синонім: enter inside)</li>
+<p>Go/come/run  into the room/shop/building</p>
+<p>Мається наувазі входити в середину кімнати, магазину, будівлі.</p>
+<li><b>onto</b> – на (мається на увазі напрямок по горизонтальній поверхні (on + to))</li>
+<p>He ran onto the motorway. — Він їхав по дорозі.</p>
+<li><b>Beside/besides</b></li>
+<p>Два дуже схожих прийменника, але з абсолютно різними значеннями.</p>
+<ul>
+<li><b>Beside</b> — поряд</li>
+<p>Beside me – поряд зі мною</p>
+<li><b>Besides</b> – крім/окрім</li>
+<p>Everybody was there besides me. – Крім мене (крім того, що там був я), там були всі.</p>
+</ul>
+<li><b>Besides/except</b></li>
+<p><b>Besides</b> – вживається у позитивному значенні (+)</p>
+<p>There were three more friends  besides Tom (Tom and others were there).</p>
+<p>Крім Тома там було ще троє друзів. (Усього їх було четверо, бо Том також був там (+))</p>
+<p><b>Except</b> – вживається в негативному значенні (-)</p>
+<p>Everybody was there except Tom.</p>
+<p>Все були там, окрім Тома (Тома з ними не було (-))</p>
+<li><b>Among/between</b></li>
+<p><b>Among – серед</b>: вживається, коли ми маємо багато предметів</p>
+<p>Among those 15 girls she was the most beautiful.</p>
+<p><b>Between – серед, між</b>: вживається, коли ми маємо лише 2 предмета</p>
+<p>You shoud chose between Mary and Alice.</p>
+</ol>
