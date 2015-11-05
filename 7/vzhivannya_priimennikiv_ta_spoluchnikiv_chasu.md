@@ -154,3 +154,26 @@ by air/land/sea</td>
 </tr>
 </table>
 </ol>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>We dry our face ... a towel.</p>
+        <answer>by</answer>
+        <answer correct>with</answer>
+    </question>
+    <question text="">
+        <p>We dig holes ... a shovel.</p>
+        <answer>by</answer>
+        <answer correct>with</answer>
+    </question>
+    <question text="">
+        <p>I go to school ... bus.</p>
+        <answer correct>by</answer>
+        <answer>with</answer>
+    </question>
+    <question text="">
+        <p>Sorry, I didn’t mean it. I made it ... mistake.</p>
+        <answer correct>by</answer>
+        <answer>with</answer>
+    </question>
+</quiz>
