@@ -39,8 +39,8 @@
 <li>
 <span class="p1"><b>Називний відмінок (<i>Subject pronoun</i>):</span></b><br>
 Окрім того, що називний відмінок відповідає на питання «хто? що?», він ще вживається у ролі підмета (замінює іменник). Наприклад: <br>
-Mary goes to school every day. $\rightarrow$ <b>She</b> goes to school every day. <br>
-Tom likes icecream. $\rightarrow$ <b>He</b> likes icecream.<br>
+Mary goes to school every day. $$\rightarrow$$ <b>She</b> goes to school every day. <br>
+Tom likes icecream. $$\rightarrow$$ <b>He</b> likes icecream.<br>
 
 Тож логічно, що якщо займенник замінює особу, що виступає підметом, то автоматично також стає підметом. 
 </li>
