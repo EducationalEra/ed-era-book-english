@@ -78,14 +78,7 @@
    * [Функцiї герундiя у реченнi](10/funktsi_gerundiya_u_rechenni.md)
    * [Вживання герундiя](10/vzhivannya_gerundiya.md)
 * Дiєприкметник
-   * Загальні відомості
    * Participle I
-       * Будова Participle I
-       * Функцiї у реченнi
    * Participle II
-       * Функцiї у реченнi
    * Конструкцiї з Participle
-       * Об’єктивна конструкцiя
-       * Суб’єктивна конструкцiя
-       * Абсолютна конструкцiя
 
