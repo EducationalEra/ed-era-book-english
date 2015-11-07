@@ -13,7 +13,7 @@
 
 Давайте розглянемо вживання означальних займенників:
 
-<span class="p1"><b>1. Уживання <i>all/everybody/everything</i></b></span>
+<span class="p1"><b>1. Вживання <i>all/everybody/everything</i></b></span>
 
 * <b><i>All</i></b> вживається з іменниками у множині. (<b><i>All + (of) Noun</i></b> у множині) 
 
