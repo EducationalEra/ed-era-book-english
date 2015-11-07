@@ -7,7 +7,7 @@
 <ul type="circle">
  <li> To my mind, English is easier than Chinese.<br>
   <font color="#FAAF00"><b>BUT!!!</b></font><br>
-  <span class="p1"><i>the + English (Spanish/French/etc) + language</i></span></li>
+  <span class="p1"><i>the + English (Spanish/French/etc) + language</i></span>
 <ul>
 2. <span class="p1">no article + sports and games</span> (назви спорту та iгор)
  * He plays football every day.
@@ -25,7 +25,7 @@
  <i>Коментар</i>: Мається на увазi, що сестричка ходить не в школу, як фiзичний об’єкт (будiвля), а ходить до школи, щоб
 навчатися.<br>
 <font color="#FAAF00"><b>BUT!!!</b></font><br>
- <span class="p1"><i>a/the + school/hospital (фiзичний об’єкт)</i></span><br>
+ <span class="p1"><i>a/the + school/hospital (фiзичний об’єкт)</i><br>
 There is a school near my house.
 8. <span class="p1">no article + meals</span> (назва прийомiв їжi)
  * Have lunch/dinner.
