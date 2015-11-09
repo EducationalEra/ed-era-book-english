@@ -3,10 +3,10 @@
 Це такі займенники як <b><i>some, any, somebody, anybody, something, anything, someone, anyone, one</i></b> і позначають щось невизначене. Вони перекладаються як <b><i>якийсь, щось, хтось, що-небудь, хто-небудь тощо.</i></b>
 
 
-Найважливіше, що нам потрібно знати про неозначені займенники – це різниця між <b><i>some, any</i></b> і займенниками, що починаються на <b><i>some-</i></b> та <b><i>any- (somebody/anybody, something/anything, somewhere/anywhere):</i></b>
+Найважливіше, що нам потрібно знати про неозначені займенники – це різниця між <b><i>some, any</i></b> і займенниками, що починаються на <b><i>some-</i></b> та <b><i>any (somebody/anybody, something/anything, somewhere/anywhere):</i></b>
 <br>
 <br>
-<b>1.<i> Some- (somebody, something, somewhere)</i> вживаємо в стверджувальних реченнях:</b>
+<b>1.<i> Some (somebody, something, somewhere)</i> вживаємо в стверджувальних реченнях:</b>
 <br>
 <i><b>Somebody</b> is screaming on the street. – <b>Хтось</b> кричить на вулиці.</i>
 <br>
