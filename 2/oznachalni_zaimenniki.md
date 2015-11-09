@@ -54,10 +54,8 @@
 <b>Дуже важливо запам’ятати</b>, що коли <b><i>everybody/everyone/everything</i></b> виступають у ролі підмета, дієслово вживається у формі однини <i>(<b>singular form</b>)</i>:
 <br>
 <i><b>Everyone</b> has to get good medical help. -Кожен повинен отримати хорошу медичну допомогу.</i>
-<br>
-<i><b>Everybody</b> knows that fact. -<b>Кожен</b> знає цей факт.
-<br>
-<i><b>Everything</b>is fine.-<b>Все</b> добре</i>.
+<p><i><b>Everybody</b> knows that fact. -<b>Кожен</b> знає цей факт.</i></p>
+<p><i><b>Everything</b>is fine.-<b>Все</b> добре</i>.</p>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question multiple>
