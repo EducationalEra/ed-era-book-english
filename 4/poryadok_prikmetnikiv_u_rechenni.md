@@ -8,7 +8,7 @@
 <div class="space">
 <table>
 <tr width="100%">
-<td><b>general/opinion</b></td>
+<td><b>general / opinion</b></td>
 <td><b>specific</b></td>
 <td><b>size</b></td>
 <td><b>age</b></td>
