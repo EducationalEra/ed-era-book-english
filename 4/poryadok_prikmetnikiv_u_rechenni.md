@@ -7,7 +7,7 @@
 <p align="center">1. перше враження + 2. специфіка + 3. розмір + 4. вік + 5. форма + 6. колір + 7. походження + 8. матеріал + 9. призначення</p>
 <div class="space">
 <table>
-<tr width="100%">
+<tr width="90%">
 <td><b>general<br> opinion</b></td>
 <td><b>specific</b></td>
 <td><b>size</b></td>
@@ -19,7 +19,7 @@
 <td><b>past participle</b></td>
 <td><b>purpose + NOUN</b></td>
 </tr>
-<tr width="100%">
+<tr width="90%">
 <td><i>nice</i></td>
 <td><i>comfortable</i></td>
 <td><i>small</i></td>
