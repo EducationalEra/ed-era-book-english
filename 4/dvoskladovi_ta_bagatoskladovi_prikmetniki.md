@@ -15,7 +15,7 @@
 
 <ol>
 <li>Good – better – the best</li>
-<li>Bad - worse – the worst</li>
+<li>Bad – worse – the worst</li>
 <li>Far – farther – the farthest</li>
 <li>Far – further – the furthest</li>
 <li>Many – more – the most</li>
