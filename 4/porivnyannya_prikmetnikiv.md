@@ -17,15 +17,15 @@
 <div class="alg-text">
 <p>Порівнювати прикметники ми можемо як в хороший бік так і в поганий. Нище наведено ступені порівняння прикметників, які існують, а також їх позначення англійською мовою.</p>
 <p><b>Позначення порівняння прекметників:</b></p>
-<p>Comparative degree (>): <i>better, more interesting</i></p>
+<p><span class="p1">Comparative degree (>)</span>: <i>better, more interesting</i></p>
 <p><b>Вищий ступінь порівняння</b></p>
-<p>Superlative degree (+): <i>the best, the most interesting</i></p>
+<p><span class="p1">Superlative degree (+)</span>: <i>the best, the most interesting</i></p>
 <p><b>Найвищий ступінь порівняння у кращий бік</b></p>
-<p>Equal comparative (=): <i>as good as, as interesting as</i></p>
+<p><span class="p1">Equal comparative (=)</span>: <i>as good as, as interesting as</i></p>
 <p><b>Рівність</b></p>
-<p>Inferior comparative (<): <i>less good, less interesting</i></p>
+<p><span class="p1">Inferior comparative (<)</span>: <i>less good, less interesting</i></p>
 <p><b>Порівняння в гірший бік</b></p>
-<p>Inferior superlative (-): <i>the least good, the least interesting</i></p>
+<p><span class="p1">Inferior superlative (-)</span>: <i>the least good, the least interesting</i></p>
 <p><b>Порівнння в найгірший бік</b></p>
 </div>
 </div>
