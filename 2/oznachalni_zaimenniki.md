@@ -57,7 +57,7 @@
 <br>
 <i><b>Everybody</b> knows that fact. -<b>Кожен</b> знає цей факт.</i>
 <br>
-<i><b>Everything</b></i> <i>is fine.</i> <i>-<b>Все</b> добре</i>.
+<i><b>Everything</b>is fine.-<b>Все</b> добре</i>.
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question multiple>
