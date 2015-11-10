@@ -6,7 +6,7 @@
 <li><b><i>Be able to</i></b> вживається у <b><i>Future</i></b></li>
 </ul>
 
-<p><span class="p2">Can</span> <b>виражає</b>:</p>
+<p><span class="p1">Can</span> <b>виражає</b>:</p>
 
 <ol>
 <li><span class="p1">Фiзичну або ментальну можливiсть (здiбнiсть) </span> (Physical or mental ability)</li>
