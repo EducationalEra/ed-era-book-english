@@ -16,7 +16,7 @@
 
 <p>В англійській мові виділяють такі модальні дієслова: <span class="p1">can, could, must, may, might, should, ought to, would, shall, will, need, dare</span>. Також до модальних слів англійської мови відносять <span class="p1">have to</span> та <span class="p1">to + be</span>, але їх називають напівмодальними</p>
 
-<p>Модальні дієслова:</p>
+<p><span class="p1">Модальні дієслова</span>:</p>
 <ul>
 <li>не переймають на себе закінчення -s у третій особі однини;</li>
 <li>у них немає дієслівних або аналітичних форм;</li>
@@ -24,6 +24,8 @@
 <li>вони також супроводжуються так званим без-інфінітивом (без to) (крім ought to)</li>
 <li>не потребують допоміжних дієслів, аби побудувати запитальні або заперечні форми.</li>
 </ul>
+
+<div class="space"></div>
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/N4CeOovNSAI" frameborder="0" allowfullscreen></iframe>
