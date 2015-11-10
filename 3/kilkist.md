@@ -4,7 +4,7 @@
 
 <p>Наприклад: <i>A number of us are worried about it</i>.</p>
 
-<p>Якщо ми вживаємо фразу more than з іменником, то дієслово вживається у формі <b>одинин</b> (is).</p>
+<p>Якщо ми вживаємо фразу more than з іменником, то дієслово вживається у формі <b>одинини</b> (is).</p>
 
 <p>Наприклад: <i>More than one person disagrees</i>.</p>
 
