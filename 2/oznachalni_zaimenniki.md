@@ -1,15 +1,18 @@
 # Означальні займенники
-В англійські мові розрізняють наступні означальні займенники:
-* <span class="p1"><b><i>Each</i></b></span>
-* <span class="p1"><b><i>Every</i></b></span>
-* <span class="p1"><b><i>Everybody</i></b></span>
-* <span class="p1"><b><i>Everyone</i></b></span>
-* <span class="p1"><b><i>Everything</i></b></span>
-* <span class="p1"><b><i>All</i></b></span>
-* <span class="p1"><b><i>Either</i></b></span>
-* <span class="p1"><b><i>Both</i></b></span>
-* <span class="p1"><b><i>Other</i></b></span>
-* <span class="p1"><b><i>Another</i></b></span>
+<p>В англійські мові розрізняють наступні означальні займенники:</p>
+
+<ul>
+<li><span class="p1"><b><i>Each</i></b></span></li>
+<li><span class="p1"><b><i>Every</i></b></span></li>
+<li><span class="p1"><b><i>Everybody</i></b></span></li>
+<li><span class="p1"><b><i>Everyone</i></b></span></li>
+<li><span class="p1"><b><i>Everything</i></b></span></li>
+<li><span class="p1"><b><i>All</i></b></span></li>
+<li><span class="p1"><b><i>Either</i></b></span></li>
+<li><span class="p1"><b><i>Both</i></b></span></li>
+<li><span class="p1"><b><i>Other</i></b></span></li>
+<li><span class="p1"><b><i>Another</i></b></span></li>
+</ul>
 
 Давайте розглянемо вживання означальних займенників:
 
