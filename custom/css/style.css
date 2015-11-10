@@ -10,7 +10,9 @@ default – "White"
 .book.color-theme-2 – "Night"
 .book.color-theme-1 – "Sepia"
 */
-
+.red {
+    color: red;
+}
 /*Означення*/
 .eoz-wrap{
     margin-bottom:1em;
