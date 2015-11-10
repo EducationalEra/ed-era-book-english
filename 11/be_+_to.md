@@ -1,6 +1,6 @@
 # Be + to
 
-<p><span class="p2">Be + to</span> <b>виражає</b>:</p>
+<p><span class="p1">Be + to</span> <b>виражає</b>:</p>
 
 <ol>
 <li><span class="p1">Домовленність</span> (Arrangement)</li>
