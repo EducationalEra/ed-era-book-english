@@ -95,7 +95,7 @@
 <td>on a farm</td>
 </tr>
 <tr>
-<td>in the street/in the sky/in an armchair !!! on the street – американський варіант</td>
+<td>in the street/in the sky/in an armchair<br> !!! on the street – американський варіант</td>
 <td>at + event: at a meeting/party/concert/show</td>
 <td>on foot</td>
 </tr>
