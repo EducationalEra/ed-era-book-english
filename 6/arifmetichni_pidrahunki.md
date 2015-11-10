@@ -12,8 +12,8 @@ $$12 : 6 = 2:\quad$$ <b>twelve</b> <span class="p2">divided by</span> <b>six <i>
 
 <p><b>Отже, математичні дії англійcькою мовою ми позначаємо наступним чином:</b></p>
 
-<p>Додавання – plus або and</p>
-<p>Віднімання – minus або from</p>
-<p>Множення – «number» times</p>
-<p>Ділення – divided by або into</p>
-<p>Дорівнює – is, equals, або goes</p>
+<p>Додавання – <b>plus</b> або <b>and</b></p>
+<p>Віднімання – <b>minus</b> або <b>from</b></p>
+<p>Множення – <b>«number» times</b></p>
+<p>Ділення – <b>divided by</b> або <b>into</b></p>
+<p>Дорівнює – <b>is, equals,</b> або <b>goes</b></p>
