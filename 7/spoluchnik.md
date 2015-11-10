@@ -3,7 +3,7 @@
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<b>Сполучник</b> вживається для зв'язку членів речення та цілих речень/clauses у складних реченнях/sentences: <i>and, because, but, or, that, if, so, however, therefore, not only ... but also, etc</i>.
+<b>Сполучник</b> вживається для зв'язку членів речення та цілих речень у складних реченнях: <i>and, because, but, or, that, if, so, however, therefore, not only ... but also, etc</i>.
 </div>
 </div>
 
