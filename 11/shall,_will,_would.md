@@ -1,6 +1,6 @@
 # Shall, will, would
 
-<p><span class="p2">Shall</span> <b>виражає</b>:</p>
+<p><span class="p1">Shall</span> <b>виражає</b>:</p>
 
 <ol>
 <li><span class="p1">Пропозiцiя</span> (Offer)</li>
@@ -13,7 +13,7 @@
 <p><i>The contract shall be signed. Контракт буде пiдписаний.</i></p>
 </ol>
 
-<p><span class="p2">Will та would</span> <b>виражають</b>:</p>
+<p><span class="p1">Will та would</span> <b>виражають</b>:</p>
 
 <ol>
 <li><span class="p1">Бажання, намiр</span> (Wish, intention)</li>
