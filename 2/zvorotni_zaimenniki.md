@@ -1,162 +1,98 @@
 # Зворотнi займенники
 
-<p><span class="p1">Зворотні займенники</span> – це такі займенники, які перекладаються як «себе». В українській мові також існують зворотні займенники – «сам» і «себе».</p>
 
-<p>В англійській мові існують такі зворотні займенники:</p>
+<span class="p1">Зворотні займенники</span> – це такі займенники, які перекладаються як «себе». В українській мові також існують зворотні займенники – «сам» і «себе».
 
-<div class="centered-table-wrapper">
-<table class="centered-table">
-<tr>
-<th><p align="center">Іменники</p></th>
-<th><p align="center">Зворотні займенники</p></th>
-</tr>
-<tr>
-<td>
-<p align="center">I</p>
-<p align="center">You</p>
-<p align="center">He</p>
-<p align="center">She</p>
-<p align="center">It</p>
-<p align="center">We</p>
-<p align="center">They</p>
-</td>
-<td>
-<p align="center">Myself</p>
-<p align="center">Yourself</p>
-<p align="center">Himself</p>
-<p align="center">Herself</p>
-<p align="center">Itself</p>
-<p align="center">Ourselves</p>
-<p align="center">Themselves</p>
-</td>
-</tr>
-</table>
-</div>
+В англійській мові існують такі зворотні займенники:
 
-<p>Давайте розглянемо, в яких випадках ми вживаємо звороні займенники:</p>
+|Іменники|Зворотні займенники|
+|---|---|
+| I | Myself |
+| You | Yourself |
+| He | Himself |
+| She | Herself |
+| It | Itself |
+| We | Ourselves |
+| They | Themselves |
 
-<ol>
-<li><b>Коли нам потрібно підкреслити, що дія була виконана підметом:</b></li>
-<p>It’s best if <b>you</b> (підмет) do it <b><i>yourself</i></b>.</p>
-<p>(<i>Буде краще, якщо ти зробиш це сам.</i> Тобто, у нас є підмет <b>you</b> і ми підкреслюємо, що «наш підмет» зробив це сам.)</p>
-<p>I have written this article <b>myself</b></p>
-<p>(<i>Я сам написав цю статтю.</i> Тобто, знову ж таки, ми зазначили, що «я написав цю статтю», але підкреслюємо, що «я сам написав».)</p>
-<li><b>Для посилення підмету або додатку:</b></li>
-<p>I’ll see the President (додаток) <b>himself</b> if necessary.</p>
-<p>(<i>Я буду бачитись з самим президентом, якщо буде потрібно.</i> У даному випадку ми підсилюємо додаток за допомогою зворотнього займенника.)</p>
-<p>The house <b>itself</b> is nice, but the garden is small.</p>
-<p>(<i>Будинок сам по собі гарний, але сад – маленький.</i> У даному випадку ми підсилюємо підмет.)</p>
-<li><b>Після прийменників:</b></li>
-<p>Ми вживаємо зворотні займенники після примейнників <b>to, at etc</b>:</p>
-<p>Am I talking <b>to myself</b> now? <br>(<i>Я зараз розмовляю сам з собою?</i> Коли ми використовуємо прийменняк <b>to</b> в такому контексті, то завжди вживаємо саме звороні займенники. Вживання інших видів займенників буде помилкою. Ми не можемо сказати <b>Am I talking to me/I</b>.)</p>
-<p>Look at <b>yourself</b>, your suit is so dirty!</p>
-<p>(<i>Подивись на себе, твій костюм такий брудний!</i>)</p>
-<li><b>Для того, щоб підкреслити предмет або особу, до яких відноситься інформація</b></li>
-<p>Only <b>yourself</b> know what you have to do.</p> 
-<p>(<i>Лише ти сам знаешь, що потрібно робити.</i> У даному випадку ми підкреслюємо, що інформація, яка надається у другій частині речення, відноситься до підмета.)</p>
-<li><b>Після <i>like, as, than, by</i></b></li>
-<p>Ми вживаємо зворотні займенники після таких слів як <b>like, as, than, by</b>:</p>
-<p>I did this <b>by myself</b>. (<i>Я сам це зробив</i>.)</p>
-<p><b>Like himself</b> I started to do exercises every morning.</p>
-<p>(<i>Як і він, я почав робити вправи кожного ранку</i>.)</p>
-<li><b>У зворотніх дієсловах:</b></li>
-<p>Коли ми перекладаємо такі звороти на українську мову, то займенник перекладається як «себе» (та в його інших відмінках в українській мові).</p>
-<div class="centered-table-wrapper">
-<table class="centered-table">
-<tr>
-</tr>
-<tr>
-<td>
-<p align="center">behave yourself</p>
-<p align="center">believe in yourself</p>
-<p align="center">blame yourself</p>
-<p align="center">burn / cut yourself</p>
-</td>
-<td>
-<p align="center">enjoy yourself</p>
-<p align="center">feel sorry for yourself</p>
-<p align="center">help yourself</p>
-<p align="center">hurt yourself</p>
-</td>
-<td>
-<p align="center">introduce yourself</p>
-<p align="center">make yourself at home</p>
-<p align="center">be proud of yourself</p>
-<p align="center">take care of yourself</p>
-<p align="center">pinch yourself</p>
-</td>
-<td>
-<p align="center">talk to yourself</p>
-<p align="center">teach yourself</p>
-<p align="center">tell yourself</p>
-<p align="center">work for yourself</p>
-<p align="center">wish yourself</p>
-</td>
-</tr>
-</table>
-</div>
-<b><font color="red">$$\Large!$$ Важливо запам’ятати $$\Large!$$</font></b><br>
-Зворотні займенники не вживаються після: <b><i>feel, concentrate, relax</i></b>.</br>
-Зазвичай вони не вживаються й після: <b><i>behave, wash, shave, dress</i></b>.
-</ol>
-<div class="centered-table-wrapper">
-<table class="centered-table">
-<tr>
-<th><p align="center">Personal (subject) pronouns</p></th>
-<th><p align="center">Personal (object) pronouns</p></th>
-<th><p align="center">Possessive adjectives</p></th>
-<th><p align="center">Possessive pronouns</p></th>
-<th><p align="center">Reflexive pronouns</p></th>
-</tr>
-<tr>
-<td>
-<p align="center">I</p>
-<p align="center">You</p>
-<p align="center">He</p>
-<p align="center">She</p>
-<p align="center">It</p>
-<p align="center">We</p>
-<p align="center">They</p>
-</td>
-<td>
-<p align="center">Me</p>
-<p align="center">You</p>
-<p align="center">Him</p>
-<p align="center">Her</p>
-<p align="center">It</p>
-<p align="center">Us</p>
-<p align="center">Them</p>
-</td>
-<td>
-<p align="center">My</p>
-<p align="center">Your</p>
-<p align="center">His</p>
-<p align="center">Her</p>
-<p align="center">Its</p>
-<p align="center">Our</p>
-<p align="center">Their</p>
-</td>
-<td>
-<p align="center">Mine</p>
-<p align="center">Yours</p>
-<p align="center">His</p>
-<p align="center">Hers</p>
-<p align="center">Its</p>
-<p align="center">Ours</p>
-<p align="center">Theirs</p>
-</td>
-<td>
-<p align="center">Myself</p>
-<p align="center">Yourself/yourselves</p>
-<p align="center">Himself</p>
-<p align="center">Herself</p>
-<p align="center">Itself</p>
-<p align="center">Ourselves</p>
-<p align="center">Themselves</p>
-</td>
-</tr>
-</table>
-</div>
+Давайте розглянемо, в яких випадках ми вживаємо зворотні займенники
+
+* **Коли нам потрібно підкреслити, що дія була виконана підметом:**
+
+    It’s best if **_you_** (підмет) do it **_yourself_**
+    
+    (_Буде краще, якщо ти зробиш це сам._ Тобто, у нас є підмет **_you_** і ми підкреслюємо, що «наш підмет» зробив це сам.)
+    
+    I have written this article **_myself_**
+    
+    (_Я сам написав цю статтю._ Тобто, знову ж таки, ми зазначили, що «я написав цю статтю», але підкреслюємо, що «я сам написав».)
+
+* **Для посилення підмету або додатку:**
+
+    I’ll see the President (додаток) **_himself_** if necessary.
+
+    (_Я буду бачитись з самим президентом, якщо буде потрібно._ У даному випадку ми підсилюємо додаток за допомогою зворотнього займенника.)
+    
+    The house **_itself_** is nice, but the garden is small.
+    
+    (_Будинок сам по собі гарний, але сад – маленький._ У даному випадку ми підсилюємо підмет.)
+    
+* **Після прийменників:**
+
+    Ми вживаємо зворотні займенники після примейнників **_to, at etc_**:
+
+    Am I talking **_to myself_** now? 
+    
+    (_Я зараз розмовляю сам з собою?_ Коли ми використовуємо прийменняк **_to_** в такому контексті, то завжди вживаємо саме звороні займенники. Вживання інших видів займенників буде помилкою. Ми не можемо сказати **_Am I talking to me/I_**.)
+    
+    Look at **_yourself_**, your suit is so dirty!
+    
+    (_Подивись на себе, твій костюм такий брудний!_)
+    
+* **Для того, щоб підкреслити предмет або особу, до яких відноситься інформація*
+
+    Only **_yourself_** know what you have to do.
+    
+    (_Лише ти сам знаєш, що потрібно робити._ У даному випадку ми підкреслюємо, що інформація, яка надається у другій частині речення, відноситься до підмета.)
+    
+* **Після _like, as, than, by_**
+
+    Ми вживаємо зворотні займенники після таких слів як **_like, as, than, by_**:
+    
+    I did this **_by myself_**. (_Я сам це зробив_.)
+    
+    **_Like himself_** I started to do exercises every morning.
+
+    (_Як і він, я почав робити вправи кожного ранку_.)
+
+* **У зворотніх дієсловах:**
+
+    Коли ми перекладаємо такі звороти на українську мову, то займенник перекладається як «себе» (та в його інших відмінках в українській мові).
+    
+    
+behave yourself | enjoy yourself | introduce yourself | talk to yourself
+--- | --- | ---
+believe in yourself | feel sorry for yourself | make yourself at home | teach yourself
+blame yourself | help yourself | be proud of yourself | tell yourself
+burn / cut yoursel | hurt yourself | take care of yourself | work for yourself
+ |  | pinch yourself | wish yourself
+    
+   <div class="red">$$\Large!$$ Важливо запам’ятати $$\Large!$$</div>
+   
+Зворотні займенники не вживаються після: **_feel, concentrate, relax_**.
+    
+Зазвичай вони не вживаються й після: **_behave, wash, shave, dress_**. 
+
+|Personal (subject) pronouns|Personal (object) pronouns|Possessive adjectives|Possessive pronouns|Reflexive pronouns|
+|---|---|---|---|---|
+|I|Me|My|Mine|Myself|
+|You|You|Your|Yours|Yourself/yourselves|
+|He|Him|His|His|Himelf|
+|She|Her|Her|Hers|Herself|
+|It|It|Its|Its|Itself|
+|We|Us|Our|Ours|Ourself|
+|They|Them|Their|Theirs|Theirself|
+
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
