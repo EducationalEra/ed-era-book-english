@@ -13,7 +13,7 @@
 
 #Might
 
-<p><span class="p2">Might</span> <b>виражає</b>:</p>
+<p><span class="p1">Might</span> <b>виражає</b>:</p>
 
 <ol>
 <li><span class="p1">Можливість</span> (Possibility)</li>
