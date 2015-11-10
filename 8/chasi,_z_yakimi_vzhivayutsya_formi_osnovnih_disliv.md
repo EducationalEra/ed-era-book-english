@@ -1,7 +1,7 @@
 # Часи, з якими вживаються форми основних дiєслiв
 
 <ul>
-<li>1 форма (Infinitive) — Present/ Future Simple</li>
+<li>1 форма (Infinitive) — Present/Future Simple</li>
 <li>2 форма (Past simple) — Past Simple</li>
 <li>3 форма (Past participle) — Present/Past/Future Perfect, Passive Construction</li>
 <li>4 форма (Present participle) — Present/Past/Future Continuous, Present/Past/Future Perfect Continuous</li>
@@ -9,7 +9,7 @@
 
 <p>Основні дієслова поділяються на: <span class="p1">правильні</span> (<i>regular</i>) та <span class="p1">неправильні</span> (<i>irregular</i>)</p>
 
-![](181_p2.png)
+<div align="center"><img src="181_p2.png"/></div>
 
 <p align="center">Утворення форми <b>Past simple</b>:</p>
 
