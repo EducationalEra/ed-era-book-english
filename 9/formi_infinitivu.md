@@ -24,21 +24,21 @@
 
 <p><b>Інфінітив має:</b></p>
 <ol>
-<li>Звичайну форму <i>Indefinite form</i></li>
+<li><b>Звичайну форму</b> <i>Indefinite form</i></li>
 <ul>
 <li>Активний стан (Active voice)</li>
 <li>Пасивний стан (Passive voice)</li>
 </ul>
-<li>Тривалу форму <i>Continuous form</i></li>
+<li><b>Тривалу форму</b> <i>Continuous form</i></li>
 <ul>
 <li>Активний стан (Active voice)</li>
 </ul>
-<li>Перфектну форму <i>Perfect form</i></li>
+<li><b>Перфектну форму</b> <i>Perfect form</i></li>
 <ul>
 <li>Активний стан (Active voice)</li>
 <li>Пасивний стан (Passive voice)</li>
 </ul>
-<li>Перфектну тривалу форму <i>Perfect continuous form</i></li>
+<li><b>Перфектну тривалу форму</b> <i>Perfect continuous form</i></li>
 <ul>
 <li>Активний стан (Active voice)</li>
 </ul>
