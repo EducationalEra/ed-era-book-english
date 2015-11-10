@@ -4,7 +4,7 @@
 
 $$11 + 15 = 26:\quad$$ <b>eleven</b> <span class="p1">plus/and</span> <b>fifteen <i>is/equals</i> twenty six</b>;
 
-$$15 – 11 = 4:\quad$$ <b>fifteen</b> <span class="p1">minus</span> <b>eleven/eleven</b> <span class="p1">from</span> <b>fifteen <i>is/equals</i> four</b>;
+$$15 - 11 = 4:\quad$$ <b>fifteen</b> <span class="p1">minus</span> <b>eleven/eleven</b> <span class="p1">from</span> <b>fifteen <i>is/equals</i> four</b>;
 
 $$2 \cdot 6 = 12:\quad$$ <span class="p1">twice</span> <b>six <i>is/equals</i> twelve/two</b> <span class="p1">times</span> <b>six <i>is/equals</i> twelve</b>;
 
