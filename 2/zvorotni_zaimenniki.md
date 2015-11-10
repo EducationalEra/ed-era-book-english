@@ -87,7 +87,7 @@ burn / cut yoursel | hurt yourself | take care of yourself | work for yourself
 |---|---|---|---|---|
 |I|Me|My|Mine|Myself|
 |You|You|Your|Yours|Yourself/yourselves|
-|He|Him|His|His|Himelf|
+|He|Him|His|His|Himself|
 |She|Her|Her|Hers|Herself|
 |It|It|Its|Its|Itself|
 |We|Us|Our|Ours|Ourself|
