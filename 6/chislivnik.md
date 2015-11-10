@@ -4,7 +4,7 @@
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<b>Числівник</b> — це самостійна частина мови, що позначає кількість предметів, або їх порядок при лічбі, відповідає на питання скільки? Котрий?
+<b>Числівник</b> — це самостійна частина мови, що позначає кількість предметів, або їх порядок при лічбі, відповідає на питання скільки? котрий?
 </div>
 </div>
 </div>
@@ -41,7 +41,7 @@
 
 <p>Five – ve $$\rightarrow$$ f $$\rightarrow$$ the + fif + th = the fifth (<i>п’ятий</i>)</p>
 
-<p>Twelve – ve $$\rightarrow$$ f $$\rightarrow$$ twelf + th = the twelfth</p>
+<p>Twelve – ve $$\rightarrow$$ f $$\rightarrow$$ twelf + th = the twelfth (<i>дванадцятий</i>)</p>
 
 <p>З десятками вживаються в тій же формі:</p>
 
