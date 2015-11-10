@@ -1,6 +1,6 @@
 # Need
 
-<p><span class="p2">Need</span> <b>виражає</b>:</p>
+<p><span class="p1">Need</span> <b>виражає</b>:</p>
 
 <ol>
 <li><span class="p1">Необхiднiсть</span> (Necessity)</li>
