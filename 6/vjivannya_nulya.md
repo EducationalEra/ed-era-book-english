@@ -12,7 +12,7 @@
 <li><span class="p1">zero – коли ми щось вимірюємо</span>:</li>
 <p>It is 5 degrees below zero. П’ять градусів нижче нуля.</p>
 <li><span class="p1">zero – в науці</span>:</li>
-<p>Zero inflation – Нульова інфляція</p>
+<p>Zero inflation. – Нульова інфляція.</p>
 </ul>
 <li><span class="p1">‘O’/[ou]</span></li>
 <ul>
