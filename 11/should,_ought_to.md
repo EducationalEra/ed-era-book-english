@@ -1,6 +1,6 @@
 # Should, ought to
 
-<p><span class="p2"><p><span class="p2">Can</span> <b>виражають</b>:</p>
+<p><span class="p1">Can</span> <b>виражають</b>:</p>
 
 <ol>
 <li><span class="p1">Порада, особиста порада</span> (Advice)</li>
