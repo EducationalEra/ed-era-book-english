@@ -16,7 +16,7 @@
 <p><b>Особа/Person</b></p>
 <table>
 <tr>
-<td>I</td>
+<td width="25%">I</td>
 <td>am</td>
 <td>love</td>
 </tr>
