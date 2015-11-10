@@ -1,6 +1,6 @@
 # Have to
 
-<p><span class="p2">Have to</span> <b>виражає</b>:</p>
+<p><span class="p1">Have to</span> <b>виражає</b>:</p>
 
 <ol>
 <li><span class="p1">Обов’язок</span> (Obligation)</li>
