@@ -1,6 +1,6 @@
 # Must
 
-<p><span class="p2">Must</span> <b>виражає</b>:</p>
+<p><span class="p1">Must</span> <b>виражає</b>:</p>
 
 <ol>
 <li><span class="p1">Суворий наказ</span> (Strict order)</li>
