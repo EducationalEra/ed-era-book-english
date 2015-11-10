@@ -9,7 +9,7 @@
 <li><span class="p1">Необхідність</span> (Necessity)</li>
 <p><i>I have to stay longer because she needs my help. Я повинен ще залишитись, бо вона потребує моєї допомоги.</i></p>
 <p>Тобто, існує така необхідність, щоб я залишився, обставини скалалися таким чином, що необхідна моя присутність.</p>
-<li><span class="p1">-	В запереченнях в значенні «не потрібно»</span> (no need)</li>
+<li><span class="p1">В запереченнях в значенні «не потрібно»</span> (no need)</li>
 <p><i>You don't have to wake up so early, tomorrow is Saturday. Тобі не потрібно прокидатися так рано, завтра субота.</i></p>
 </ol>
 
