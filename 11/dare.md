@@ -1,6 +1,6 @@
 # Dare
 
-<p><span class="p2">Dare</span> <b>виражає</b>:</p>
+<p><span class="p1">Dare</span> <b>виражає</b>:</p>
 
 <ol>
 <li><span class="p1">Смiливiсть</span></li>
