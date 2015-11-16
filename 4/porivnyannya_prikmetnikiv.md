@@ -23,7 +23,7 @@
 <p><b>Найвищий ступінь порівняння у кращий бік</b></p>
 <p><span class="p1">Equal comparative (=)</span>: <i>as good as, as interesting as</i></p>
 <p><b>Рівність</b></p>
-<p>Inferior comparative (<): <i>less good, less interesting</i></p>
+<p><span class="p1">Inferior comparative (<)</span>: <i>less good, less interesting</i></p>
 <p><b>Порівняння в гірший бік</b></p>
 <p><span class="p1">Inferior superlative (-)</span>: <i>the least good, the least interesting</i></p>
 <p><b>Порівнння в найгірший бік</b></p>
