@@ -8,13 +8,9 @@
         "gtm",
         "ga",
         "-search",
-        "disqus",
-        "insert-md"
+        "disqus"
     ],
     "pluginsConfig": {
-        "insert-md": {
-          "md": "---\nШановні користувачі, EdEra бере участь у конкурсі стартапів від «Радіо Аристократи». Підтримайте нас у народному голосуванні на [сайті конкурсу](http://aristocrats.fm/startups/). Наперед дякуємо та бажаємо приємного навчання!\n[![](https://scontent-frt3-1.xx.fbcdn.net/hphotos-xfp1/t31.0-8/s2048x2048/10986917_989122651131242_3863889850745983675_o.png)](http://aristocrats.fm/startups/)\n---\n"  
-        },
         "sharing": {
             "facebook": true,
             "twitter": true,
