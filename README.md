@@ -37,23 +37,18 @@
    1. [Cтупенi порiвняння прислiвникiв](5/ctupeni_porivnyannya_prislivnikiv.md)
    * [Практичне вживання та мiсце в реченнi прислiвникiв](5/praktichne_vzhivannya_ta_mistse_v_rechenni_prislivnikiv.md)
    * [Рiзниця мiж вживаннями прислiвникiв та прикметникiв](5/riznitsya_mizh_vzhivannyami_prislivnikiv_ta_prikmetnikiv.md)
-* Числiвник
-   1. Числiвник
-   * Дроби
-   * Вживання нуля
-   * Дати
-   * Арифметичні підрахунки
-* Прийменник та cполучник
-   1. Прийменник
-       1. Tипи прийменникiв в англiйськiй мовi
-       * Позицiя та вживання in, at та on
-       * Прийменники часу
-       * Вживання прийменникiв (та сполучникiв) часу
-       * Прийменники з рiзними частинами мови
-   * Сполучник
-       1. Типи сполучникiв
-       * Пiдряднi сполучники
-   * Слова-зв’язки
+* [Числiвник](6/chislivnik.md)
+   1. [Дроби](6/drobi.md)
+   * [Вживання нуля](6/vjivannya_nulya.md)
+   * [Дати](6/dati.md)
+   * [Арифметичні підрахунки](6/arifmetichni_pidrahunki.md)
+* [Прийменник](7/priimennik.md)
+   1. [Позицiя та вживання in, at та on](7/pozitsiya_ta_vzhivannya_in,_at_ta_on.md)
+   * [Вживання прийменникiв (та сполучникiв) часу](7/vzhivannya_priimennikiv_ta_spoluchnikiv_chasu.md)
+   * [Прийменники з рiзними частинами мови](7/priimenniki_z_riznimi_chastinami_movi.md)
+* [Сполучник](7/spoluchnik.md)
+   1. [Пiдряднi сполучники](7/pidryadni_spoluchniki.md)
+   * [Слова-зв’язки](7/slova-zvyazki.md)
 * [Дiєслово](8/dislovo.md)
    1. [Часи, з якими вживаються форми основних дiєслiв](8/chasi,_z_yakimi_vzhivayutsya_formi_osnovnih_disliv.md)
    * [Форми дiєслова та його функцiї](8/formi_dislova_ta_iogo_funktsi.md)
