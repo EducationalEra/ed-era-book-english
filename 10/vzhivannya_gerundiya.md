@@ -53,8 +53,8 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Після дієслова GO в значенні спорту або якоїсь діяльності вживається</p>
-        <answer>Герундій</answer>
-        <answer correct>Дієприкметник</answer>
+        <answer correct>Герундій</answer>
+        <answer>Дієприкметник</answer>
         <answer>Інфінітив</answer>
     </question>
 </quiz>
