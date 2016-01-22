@@ -24,7 +24,7 @@
    * [Кiлькiсть](3/kilkist.md)
    * [Пpисвiйний вiдмiнок](3/ppisviinii_vidminok.md)
    * [Іменник у ролі прикметника](3/mennik_u_rol_prikmetnika.md)
-* [Прикментик](4/prikmentik.md)
+* [Прикметник](4/prikmentik.md)
    1. [Типи прикметникiв](4/tipi_prikmetnikiv.md)
    * [Порядок прикметникiв у реченнi](4/poryadok_prikmetnikiv_u_rechenni.md)
    * [Ступенi порiвняння](4/stupeni_porivnyannya.md)
