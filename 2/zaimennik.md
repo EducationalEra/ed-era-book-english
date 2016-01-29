@@ -18,7 +18,7 @@
 3. Питальні (<i>Interrogative</i>)
 4. Сполучні (<i>Relative / Conjunctive</i>)
 5. Зворотні (<i>Reflexive</i>)
-6. Вказівни (<i>Demonstrative</i>)
+6. Вказівні (<i>Demonstrative</i>)
 7. Неозначені (<i>Indefinite</i>)
 8. Заперечні (<i>Negative</i>)
 9. Взаємні (<i>Reciprocal</i>)
