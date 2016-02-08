@@ -97,7 +97,7 @@
     </question>
      <question text="">
         <p>Дієслово – присудок має бути в пасивному стані в:</p>
-        <answer correct>Суб’єктивній конструкції</answer>
+        <answer correct>Суб’єктній конструкції</answer>
         <answer>Абсолютній конструкції</answer>
         <answer>Об’єктивній конструкції</answer>
         <answer>В жодній з конструкцій</answer>
