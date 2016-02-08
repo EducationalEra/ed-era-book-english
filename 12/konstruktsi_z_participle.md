@@ -90,8 +90,8 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>З Participle бувають такі конструкції:</p>
-        <answer>Конструкція for-to, об’єктивна, суб’єктивна</answer>
-        <answer correct>Абсолютна, об’єктивна, суб’єктивна конструкції</answer>
+        <answer>Конструкція for-to, об’єктивна, суб’єктна</answer>
+        <answer correct>Абсолютна, об’єктивна, суб’єктна конструкції</answer>
         <answer>Об’єктивна та суб’єктивна конструкції</answer>
         <answer>Абсолютна та обє’ктивна конструкції</answer>
     </question>
