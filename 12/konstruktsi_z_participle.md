@@ -5,7 +5,7 @@
 <ul>
 <li><span class="p1">Об’єктивна конструкція</span> (Objective participle construction)</li>
 <li><span class="p1">Суб’єктна конструкція</span> (Subjective participle construction)</li>
-<li><span class="p1">Абсолютна конструкція</span> (Absolute participle construction)</li></li>
+<li><span class="p1">Абсолютна конструкція</span> (Absolute participle construction)</li>
 </ul>
 
 <div class="space">
