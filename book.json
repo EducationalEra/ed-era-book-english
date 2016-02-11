@@ -12,15 +12,13 @@
     ],
     "pluginsConfig": {
         "sharing": {
-            "facebook": true,
-            "twitter": true,
-            "google": true,
+            "facebook": false,
+            "twitter": false,
+            "google": false,
             "weibo": false,
             "instapaper": false,
-            "vk": true,
-            "all": [
-                "facebook", "google", "twitter","vk"
-            ]
+            "vk": false,
+            "all": []
         },
         "addcssjs": {
             "css": ["custom/css/style.css"],
