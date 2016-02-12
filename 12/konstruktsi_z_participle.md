@@ -90,16 +90,16 @@
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>З Participle бувають такі конструкції:</p>
-        <answer>Конструкція for-to, об’єктивна, суб’єктна</answer>
-        <answer correct>Абсолютна, об’єктивна, суб’єктна конструкції</answer>
-        <answer>Об’єктивна та суб’єктна конструкції</answer>
-        <answer>Абсолютна та обє’ктивна конструкції</answer>
+        <answer>Конструкція for-to, об’єктна, суб’єктна</answer>
+        <answer correct>Абсолютна, об’єктна, суб’єктна конструкції</answer>
+        <answer>Об’єктна та суб’єктна конструкції</answer>
+        <answer>Абсолютна та обє’ктна конструкції</answer>
     </question>
      <question text="">
         <p>Дієслово – присудок має бути в пасивному стані в:</p>
         <answer correct>Суб’єктній конструкції</answer>
         <answer>Абсолютній конструкції</answer>
-        <answer>Об’єктивній конструкції</answer>
+        <answer>Об’єктній конструкції</answer>
         <answer>В жодній з конструкцій</answer>
     </question>
 </quiz>
