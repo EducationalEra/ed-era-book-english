@@ -3,7 +3,7 @@
 <p>У попередніх главах ми вже розглянули конструкції з безособовою формою дієслова — інфінітивом. Дієприкметники також мають власні конструкції, що використовуються в реченнях:</p>
 
 <ul>
-<li><span class="p1">Об’єктивна конструкція</span> (Objective participle construction)</li>
+<li><span class="p1">Об’єктна конструкція</span> (Objective participle construction)</li>
 <li><span class="p1">Суб’єктна конструкція</span> (Subjective participle construction)</li>
 <li><span class="p1">Абсолютна конструкція</span> (Absolute participle construction)</li>
 </ul>
