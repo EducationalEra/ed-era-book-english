@@ -4,7 +4,7 @@
 
 <ol>
 <li><span class="p1">Смiливiсть</span></li>
-<p><i>How dare you? Да як ти смiєш?</i></p>
+<p><i>How dare you? Да як ти насмілився?</i></p>
 <p><i>Don’t you dare! Навiть i не смiй!</i></p>
 <li><span class="p1">Значення</span></li>
 <p>Мати право.</p>
