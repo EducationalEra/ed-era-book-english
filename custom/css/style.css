@@ -585,6 +585,49 @@ default – "White"
     font-size: 15px;
   }
 }
+
+/* Night */
+.book.color-theme-2 .description {
+  background-color: #2D3143;
+}
+
+.book.color-theme-2.text {
+  color: #c1c6d7;
+}
+
+.book.color-theme-2 .text a.knopka1 {
+  color: #FFBD0D !important;
+}
+
+
+.book.color-theme-2 .btn-knopka {
+  background: -moz-linear-gradient(top,#fff 0,#ffe6a0 2%,#ffba00 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#fff),color-stop(2%,#ffe6a0),color-stop(100%,#ffba00));
+  background: -webkit-linear-gradient(top,#fff 0,#ffe6a0 2%,#ffba00 100%);
+  background: -o-linear-gradient(top,#fff 0,#ffe6a0 2%,#ffba00 100%);
+  background: #ffba00 -ms-linear-gradient(top,#fff 0,#ffe6a0 2%,#ffba00 100%);
+  background: #ffba00 linear-gradient(top,#fff 0,#ffe6a0 2%,#ffba00 100%);
+  transition: background 0.1s linear;
+  border: 1px solid #ffba00;
+}
+
+.book.color-theme-2. btn-knopka:hover {
+  background: -moz-linear-gradient(top,#fff 0,#ffe6a0 2%,#ffba00 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#FFE48D),color-stop(2%,#FFDE6E),color-stop(100%,#ffba00));
+  background: -webkit-linear-gradient(top,#FFE48D 0,#FFDE6E 2%,#ffba00 100%);
+  background: -o-linear-gradient(top,#FFE48D 0,#FFDE6E 2%,#ffba00 100%);
+  background: -ms-linear-gradient(top,#FFE48D 0,#FFDE6E 2%,#ffba00 100%);
+  background: linear-gradient(top,#FFE48D 0,#FFDE6E 2%,#ffba00 100%);
+}
+
+.book.color-theme-2 .btn-knopka a.knopka {
+  color: #000000 !important;
+}
+
+.book.color-theme-2 .btn-knopka a.knopka:hover {
+  color: #0F5181;
+}
+
 @-webkit-keyframes fadeIn {
   from {
     opacity: 0;
