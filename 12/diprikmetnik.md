@@ -13,7 +13,7 @@
 
 <ul>
 <li><span class="p1">Participle I</span>, який ще називають Present Participle, тобто дієприкметником теперішнього часу. Рarticiple І — активний дієприкметник.</li>
-<li><span class="p1">Participle II</span>, який ще називають Past Participle, тобто дієприкметник минулого часу. Рarticiple ІІ —  пасивний дієприкметник.</li>
+<li><span class="p1">Participle II</span>, який ще називають Past Participle, тобто дієприкметник минулого часу.<br> Рarticiple ІІ —  пасивний дієприкметник.</li>
 </ul>
 
 <p>Також існують дієприкметникові конструкції (як з інфінітивом), так звані <span class="p1">Participle Construction</span>.</p>
