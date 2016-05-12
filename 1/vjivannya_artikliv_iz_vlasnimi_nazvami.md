@@ -42,7 +42,14 @@ road, Regents Park</i>.</li>
 </li>
 <li>Разом із назвами <b>свят</b>: <i>Christmas, New Year</i>.</li>
 <li>З <b>подвійніми назвами</b>: <i>Westminster Abbey, Nottingham
-Castle, Victoria Station, Kyiv Zoo</i>.</li>
+Castle, Victoria Station, Kyiv Zoo</i>.
+<br>
+<span class="p1">Винятки</span>:
+<ul>
+<li>the White House</li>
+<li>the Royal Palace</li>
+</ul>
+</li>
 <li></li>
 <li></li>
 </ol>
