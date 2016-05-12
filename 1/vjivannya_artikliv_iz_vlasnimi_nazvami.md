@@ -13,8 +13,8 @@
 <li>З назвами <b>країн</b>: <i>Ukraine, Italy, Sweden, Russia.</i><br>
 <span class="p1">Винятки</span>:
 <ul>
-<li><b>The</b> вживається разом із назвами <b>республік, штатів, королівств, союзів, еміратів</b>:<br> <i>The USA, the United Kingdom</i>. </li>
-<li>Вживається разом з <b>країнами, назви яких пишуться в множині</b>:<br> <i>the Netherlands, the Philippines</i>. </li>
+<li><b>The</b> вживається разом із назвами республік, штатів, королівств, союзів, еміратів:<br> <i>The USA, the United Kingdom</i>. </li>
+<li>Вживається разом з країнами, назви яких пишуться в множині:<br> <i>the Netherlands, the Philippines</i>. </li>
 </ul>
 </li>
 <li>З назвами <b>міст</b>: <i>Kyiv, London</i>.<br>
@@ -29,7 +29,7 @@ road, Regents Park</i>.</li>
 <br>
 <span class="p1">Виняток</span>:
 <ul>
-<li>Вживаємо, коли справа стосується <b>групи річок</b>:<br> <i>the Great Lakes</i>.</li>
+<li>Вживаємо, коли справа стосується групи річок:<br> <i>the Great Lakes</i>.</li>
 </ul>
 </li>
 <li>Разом із назвами <b>шкіл, коледжів, університетів</b>: <i>Florida University, Shevchenko University</i>.
@@ -56,7 +56,7 @@ Church</i>.</li>
 <br>
 <span class="p1">Виняток</span>:
 <ul>
-<li>Коли ми маємо на увазі якийсь <b>конкретний день</b>: <i>the Saturday you came</i>.</li>
+<li>Коли ми маємо на увазі якийсь конкретний день: <i>the Saturday you came</i>.</li>
 </ul>
 </li>
 </li>
@@ -69,7 +69,13 @@ Church</i>.</li>
 <ol>
 <li>З назвами <b>океанів, морів, річок, каналів, заток</b>: <i>the Indian Ocean, the Black Sea, the Dnipro,
 the Percian Gulf</i>.</li>
-<li>Група <i>островів</i>:</li>
+<li>Група <i>островів</i>: <i>the Hawaiian Islands (the Hawaii)</i>.
+<br>
+<span class="p1">Виняток</span>:
+<ul>
+<li>Коли ми кажемо про один конкретний острів: <i>Ceylon, Malta</i></li>
+</ul>
+</li>
 <li></li>
 <li></li>
 <li></li>
