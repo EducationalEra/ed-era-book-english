@@ -25,7 +25,7 @@
 </li>
 <li>Разом із назвами <b>вулиць, площ, доріг, парків</b>: <i>Oxford street, Trafalgar square, Salisbury
 road, Regents Park</i>.</li>
-<li>З назвами <b>річок в однині<b>: <i>(lake) Victoria.</i>
+<li>З назвами <b>річок в однині</b>: <i>(lake) Victoria.</i>
 <br>
 <span class="p1">Виняток</span>:
 <ul>
