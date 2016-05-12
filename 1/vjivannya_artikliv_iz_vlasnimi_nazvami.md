@@ -18,14 +18,19 @@
 </ul>
 </li>
 <li>З назвами міст: <i>Kyiv, London</i>.<br>
-<span class="p1">Виключення</span>:
+<span class="p1">Виняток</span>:
 <ul>
 <li><b>the Hague</b> (in Holland)</li>
 </ul>
 </li>
 <li>Разом із назвами <b>вулиць, площ, доріг, парків</b>: <i>Oxford street, Trafalgar square, Salisbury
 road, Regents Park</i>.</li>
-<li></li>
+<li>З назвами річок в однині: <i>(Lake) Victoria.</i>
+<span class="p1">Виняток</span>:
+<ul>
+<li>Вживаємо, коли справа стосується групи річок: <b>the Great Lakes</b>.</li>
+</ul>
+</li>
 <li></li>
 <li></li>
 <li></li>
