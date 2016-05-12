@@ -50,7 +50,7 @@ Castle, Victoria Station, Kyiv Zoo</i>.
 <li><i>the Royal Palace</i></li>
 </ul>
 </li>
-<li>З назвами <b>храмів, соборів, лавр</b> тощо:<br> <i>St.Volodymyr Cathedral, St. Andrew’s
+<li>З назвами <b>храмів, соборів, лавр</b> тощо: <i>St.Volodymyr Cathedral, St. Andrew’s
 Church</i>.</li>
 <li>Разом із назвами <b>місяців, днів тижня</b>: <i>May, Saturday</i>.
 <br>
