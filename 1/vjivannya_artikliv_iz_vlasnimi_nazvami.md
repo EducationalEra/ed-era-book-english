@@ -36,8 +36,8 @@ road, Regents Park</i>.</li>
 <br>
 <span class="p1">Винятки</span>:
 <ul>
-<li>the University of Florida</li>
-<li>the College of Arts</li>
+<li><i>the University of Florida</i></li>
+<li><i>the College of Arts</i></li>
 </ul>
 </li>
 <li>Разом із назвами <b>свят</b>: <i>Christmas, New Year</i>.</li>
@@ -46,10 +46,11 @@ Castle, Victoria Station, Kyiv Zoo</i>.
 <br>
 <span class="p1">Винятки</span>:
 <ul>
-<li>the White House</li>
-<li>the Royal Palace</li>
+<li><i>the White House</i></li>
+<li><i>the Royal Palace</i></li>
 </ul>
 </li>
-<li></li>
+<li>З назвами <b>храмів, соборів, лавр</b> тощо:<br> <i>St.Volodymyr Cathedral, St. Andrew’s
+Church</i>.</li>
 <li></li>
 </ol>
