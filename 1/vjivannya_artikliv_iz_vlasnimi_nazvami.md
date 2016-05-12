@@ -13,8 +13,8 @@
 <li>З назвами <b>країн</b>: <i>Ukraine, Italy, Sweden, Russia.</i><br>
 <span class="p1">Винятки</span>:
 <ul>
-<li><b>The</b> вживається разом із назвами <b>республік, штатів, королівств, союзів, еміратів</b>: <i>The USA, the United Kingdom</i>. </li>
-<li>Вживається разом з <b>країнами, назви яких пишуться в множині</b>: <i>the Netherlands, the Philippines</i>. </li>
+<li><b>The</b> вживається разом із назвами <b>республік, штатів, королівств, союзів, еміратів</b>:<br> <i>The USA, the United Kingdom</i>. </li>
+<li>Вживається разом з <b>країнами, назви яких пишуться в множині</b>:<br> <i>the Netherlands, the Philippines</i>. </li>
 </ul>
 </li>
 <li>З назвами міст: <i>Kyiv, London</i>.<br>
@@ -29,7 +29,7 @@ road, Regents Park</i>.</li>
 <br>
 <span class="p1">Виняток</span>:
 <ul>
-<li>Вживаємо, коли справа стосується групи річок: <b>the Great Lakes</b>.</li>
+<li>Вживаємо, коли справа стосується групи річок:<br> <b>the Great Lakes</b>.</li>
 </ul>
 </li>
 <li>Разом із назвами шкіл, коледжів, університетів: <i>Florida University, Shevchenko University</i>.
