@@ -76,8 +76,21 @@ the Percian Gulf</i>.</li>
 <li>Коли ми кажемо про один конкретний острів: <i>Ceylon, Malta</i></li>
 </ul>
 </li>
-<li></li>
-<li></li>
+<li>Разом з <b>гірськими породами, назви яких пишуться в множині</b>: <i>the Carpathians, the Pennines</i>.
+<br>
+<span class="p1">Виняток</span>:
+<ul>
+<li>Коли ми кажемо про одну конкретну гору: <i>Mount Vernon, Snowdon</i></li>
+</ul>
+</li>
+<li>З <b>назвами регіонів</b>: <i>the Far/Middle East, the north of Ukraine, the Orient, the West End (London), the Crimea</i>.
+<br>
+<span class="p1">Винятки</span>:
+<ul>
+<li><i>northern Ukraine</i></li>
+<li><i>western Scotland</i></li>
+</ul>
+</li>
 <li></li>
 <li></li>
 <li></li>
