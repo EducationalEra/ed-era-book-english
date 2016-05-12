@@ -23,7 +23,8 @@
 <li><b>the Hague</b> (in Holland)</li>
 </ul>
 </li>
-<li></li>
+<li>Разом із назвами <b>вулиць, площ, доріг, парків</b>: <i>Oxford street, Trafalgar square, Salisbury
+road, Regents Park</i>.</li>
 <li></li>
 <li></li>
 <li></li>
