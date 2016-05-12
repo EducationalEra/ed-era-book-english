@@ -91,9 +91,21 @@ the Percian Gulf</i>.</li>
 <li><i>western Scotland</i></li>
 </ul>
 </li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Разом із назвами <b>історичних документів, пам'ятників</b>: <i>the Constitution, the Statue of Liberty</i>.</li>
+<li>З назвами <b>етнічних груп</b>: <i>the Ukrainians, the Indians, the British</i>.</li>
+<li>Разом із назвами <b>готелів, музеїв, галерей, ресторанів, театрів, кінотеатрів, банків</b>: <i>the Hilton, the Tate Gallery, the Peacock (pub), the National Theatre</i>.
+<br>
+<span class="p1">Виняток</span>:
+<ul>
+<li><i></i></li>
+</ul>
+</li>
+<li>Разом з <b>з прізвищами з закінченням <b>-s</b>, коли ми маємо на увазі всю родину</b>: <i>the Smiths, the Petrenkos</i>.</li>
+<li>З назвами <b>війн</b>: <i>the Civil War, the First World War</i>.
+<span class="p1">Винятки</span>:
+<ul>
+<li><i>World War One</i></li>
+<li><i>World War Two</i></li>
+</ul>
+</li>
 </ol>
