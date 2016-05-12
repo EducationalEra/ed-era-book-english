@@ -97,7 +97,7 @@ the Percian Gulf</i>.</li>
 <br>
 <span class="p1">Виняток</span>:
 <ul>
-<li><i></i></li>
+<li>Не вживається із назвами, які закінчуються на <b>-s</b> чи <b>'s</b>: <i>Macdonald’s, Lloyds Bank, Harrods</i></li>
 </ul>
 </li>
 <li>Разом з <b>з прізвищами з закінченням <b>-s</b>, коли ми маємо на увазі всю родину</b>: <i>the Smiths, the Petrenkos</i>.</li>
