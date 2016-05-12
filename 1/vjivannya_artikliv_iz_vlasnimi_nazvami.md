@@ -52,5 +52,12 @@ Castle, Victoria Station, Kyiv Zoo</i>.
 </li>
 <li>З назвами <b>храмів, соборів, лавр</b> тощо:<br> <i>St.Volodymyr Cathedral, St. Andrew’s
 Church</i>.</li>
-<li></li>
+<li>Разом із назвами <b>місяців, днів тижня</b>: <i>May, Saturday</i>.
+<br>
+<span class="p1">Виняток</span>:
+<ul>
+<li>Коли ми маємо на увазі якийсь <b>конкретний день</b>: <i>the Saturday you came</i>.</li>
+</ul>
+</li>
+</li>
 </ol>
