@@ -26,12 +26,20 @@
 <li>Разом із назвами <b>вулиць, площ, доріг, парків</b>: <i>Oxford street, Trafalgar square, Salisbury
 road, Regents Park</i>.</li>
 <li>З назвами річок в однині: <i>(Lake) Victoria.</i>
+<br>
 <span class="p1">Виняток</span>:
 <ul>
 <li>Вживаємо, коли справа стосується групи річок: <b>the Great Lakes</b>.</li>
 </ul>
 </li>
-<li></li>
+<li>Разом із назвами шкіл, коледжів, університетів: <i>Florida University, Shevchenko University</i>.
+<br>
+<span class="p1">Винятки</span>:
+<ul>
+<li>the University of Florida</li>
+<li>the College of Arts</li>
+</ul>
+</li>
 <li></li>
 <li></li>
 <li></li>
