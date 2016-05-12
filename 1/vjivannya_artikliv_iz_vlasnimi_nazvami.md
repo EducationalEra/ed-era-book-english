@@ -67,8 +67,9 @@ Church</i>.</li>
 <center><h4>The</h4></center>
 Артикль <b>The</b> вживається:
 <ol>
-<li>З назвами <b>океанів, морів, річок, каналів, заток</b>: </li>
-<li></li>
+<li>З назвами <b>океанів, морів, річок, каналів, заток</b>: <i>the Indian Ocean, the Black Sea, the Dnipro,
+the Percian Gulf</i>.</li>
+<li>Група <i>островів</i>:</li>
 <li></li>
 <li></li>
 <li></li>
