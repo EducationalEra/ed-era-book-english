@@ -10,7 +10,7 @@
 <ol>
 <li>З назвами <b>планет</b>: <i>Jupiter, Earth.</i></li>
 <li>З назвами <b>континентів</b>: <i>Europe, North America</i>. </li>
-<li>З назвами <b>країн</b>: <i>Ukraine, Italy, Sweden, Russia.</i><br>
+<li>З назвами <b>країн</b>: <i>Ukraine, Italy, Sweden, China.</i><br>
 <span class="p1">Винятки</span>:
 <ul>
 <li><b>The</b> вживається разом із назвами республік, штатів, королівств, союзів, еміратів:<br> <i>The USA, the United Kingdom</i>. </li>
@@ -20,12 +20,11 @@
 <li>З назвами <b>міст</b>: <i>Kyiv, London</i>.<br>
 <span class="p1">Виняток</span>:
 <ul>
-<li><b>the Hague</b> (in Holland)</li>
+<li><b>the Hague</b> (Гаага)</li>
 </ul>
 </li>
-<li>Разом із назвами <b>вулиць, площ, доріг, парків</b>: <i>Oxford street, Trafalgar square, Salisbury
-road, Regents Park</i>.</li>
-<li>З назвами <b>річок в однині</b>: <i>(lake) Victoria.</i>
+<li>Разом із назвами <b>вулиць, площ, доріг, парків</b>: <i>Oxford street, Trafalgar square, Canton road, Shevchenko park</i>.</li>
+<li>З назвами <b>озер</b>: <i>(lake) Victoria.</i>
 <br>
 <span class="p1">Виняток</span>:
 <ul>
