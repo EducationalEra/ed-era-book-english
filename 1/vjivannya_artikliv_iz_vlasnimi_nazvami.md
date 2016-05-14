@@ -75,7 +75,7 @@ the Percian Gulf</i>.</li>
 <li>Коли ми кажемо про один конкретний острів: <i>Ceylon, Malta</i></li>
 </ul>
 </li>
-<li>Разом з <b>гірськими породами, назви яких пишуться в множині</b>: <i>the Carpathians, the Pennines</i>.
+<li>Разом з <b>гірськими хребтами, назви яких пишуться в множині</b>: <i>the Carpathians, the Pennines</i>.
 <br>
 <span class="p1">Виняток</span>:
 <ul>
