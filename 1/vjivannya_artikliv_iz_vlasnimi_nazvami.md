@@ -4,6 +4,13 @@
 назвами. Власнi назви в англiйськiй мовi вживаються або з артиклем
 "the", або без артикля взагалi.
 
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/QC7VgmPqndI" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <center><h4>Zero article</h4></center>
 Артикль не вживається:
 
