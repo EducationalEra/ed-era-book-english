@@ -684,3 +684,9 @@ default – "White"
 nobr > .math > span {
     border-left-width: 0 !important;
 }
+
+textarea.textarea {
+    margin-bottom: 20px;
+    width: 80%;
+    border: 1px solid lightgray;
+}
