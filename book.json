@@ -2,6 +2,7 @@
     "plugins": [
         "youtube",
         "addcssjs",
+	"mathjax",
         "modal-youtube-video",
         "quiz",
         "gtm",
