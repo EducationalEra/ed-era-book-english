@@ -23,6 +23,8 @@
 <p>$$\dfrac{1}{4}$$ – a quarter (чверть)</p>
 <p>$$1\dfrac{1}{4}$$ – one and a quarter (одна ціла і чверть)</p>
 <li><span class="p1">Десяткові дроби</span> (<i>Decimals</i>)</li>
+<br>
+<br>
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/udrIEp2m2LE" frameborder="0" allowfullscreen></iframe>

@@ -60,7 +60,7 @@
 <span class="p1">Загальна форма</span>
 <table>
 <tr>
-<td><b>Активний стан</b></td>
+<td width="60%"><b>Активний стан</b></td>
 <td>taking</td>
 </tr>
 </table>
@@ -69,7 +69,7 @@
 
 <table>
 <tr>
-<td><b>Пасивний стан</b></td>
+<td width="60%"<b>Пасивний стан</b></td>
 <td>being taken</td>
 </tr>
 </table>
@@ -79,7 +79,7 @@
 <span class="p1">Перфектна форма</span>
 <table>
 <tr>
-<td><b>Активний стан</b></td>
+<td width="60%"><b>Активний стан</b></td>
 <td>having taken</td>
 </tr>
 </table>
@@ -88,7 +88,7 @@
 
 <table>
 <tr>
-<td><b>Пасивний стан</b></td>
+<td width="60%"><b>Пасивний стан</b></td>
 <td>having being taken</td>
 </tr>
 </table>
@@ -100,7 +100,7 @@
 <span class="p1">Загальна форма</span>
 <table>
 <tr>
-<td><b>Активний стан</b></td>
+<td width="60%"><b>Активний стан</b></td>
 <td>going</td>
 </tr>
 </table>
@@ -110,7 +110,7 @@
 <span class="p1">Перфектна форма</span>
 <table>
 <tr>
-<td><b>Активний стан</b></td>
+<td width="60%"><b>Активний стан</b></td>
 <td>having gone</td>
 </tr>
 </table>

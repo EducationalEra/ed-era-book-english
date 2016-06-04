@@ -38,6 +38,7 @@
 <td>The third (третій)</td>
 <td><span color="red">не «the threeth»</span></span></td>
 </tr>
+</table>
 
 <p>Five – ve $$\rightarrow$$ f $$\rightarrow$$ the + fif + th = the fifth (<i>п’ятий</i>)</p>
 

@@ -75,7 +75,7 @@
 <li>For–to infinitive construction + S + V</li>
 <p><i>For me to do this is not hard.</i></p>
 <li>S + V + For–to infinitive construction</li>
-<p><i>S + V + For–to infinitive construction</i></p>
+<p><i>It is not hard for me to do this.</i></p>
 </ol>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">

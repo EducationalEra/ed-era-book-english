@@ -27,9 +27,10 @@
 <li><b>N (-f, -fe) + -s:</b></li>
 <p><i>roofs, reefs, cliffs, beliefs, chiefs, proofs, cuffs, safes</i></p>
 </ul></li>
-<li>N irregular:</li>
-<p><i>man-men
-</i></p>
+<li><ul>
+<li><b>N irregular:</b></li>
+<p><i>man-men</i></p>
+</ul></li>
 </ol>
 
 ## Неправильні іменники

@@ -32,7 +32,7 @@
 The child needs a little attention.
 I have a few interesting ideas.</p></li>
 <li><p><span class="p1">a lot of</span> в значеннi <font color="#0F5181"><b>many</b></font>: I have a lot of her pictures.</p></li>
-<li>What / Such / Quite / Rather + N злiчуваний / в однинi: What a nice day! Such a wonderful flower!</li>
+<li><span class="p1">What / Such / Quite / Rather</span> + N злiчуваний / в однинi: What a nice day! Such a wonderful flower!</li>
 </ol>
 </td>
 </tr>
