@@ -1,7 +1,7 @@
 {
     "gitbook": ">=3.0.0-pre.11",
     "title": "EdEra Анлійська мова",
-    "plugins": ["-search", "fontsettings", "-sharing", "addcssjs", "quiz", "mathjax", "disqus", "gtm", "ga"],
+    "plugins": ["-search", "fontsettings", "-sharing", "addcssjs", "quiz", "mathjax", "disqus", "gtm", "ga", "-comments"],
     "pluginsConfig": {
         "theme-default": {
             "showLevel": true

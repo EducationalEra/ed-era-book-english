@@ -19,6 +19,7 @@
 — Вживаються замiсть iменника.<br>
 — Вживаються тодi, коли не потрiбно визначати iменник.<br>
 — Можуть вживатися як пiдмет, присудок або додаток.<br>
+<br>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr>
@@ -49,6 +50,7 @@
 </div>
 </li>
 </ol>
+<br>
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/gpahUFSoDSg" frameborder="0" allowfullscreen></iframe>
