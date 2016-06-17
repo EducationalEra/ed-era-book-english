@@ -7,21 +7,21 @@
 <ul>
 <li><span class="p1">в значенні цифри "0" (коли називаємо «нуль»):</span></li>
 
-<i><span class="p1">Нуль</span> цілих двадцять п’ять сотих – <span class="p1">zero</span> point twenty-five <b>or</b> <span class="p1">nought</span> point twenty-five.</i>
+<p><i><span class="p1">Нуль</span> цілих двадцять п’ять сотих – <span class="p1">zero</span> point twenty-five <b>or</b> <span class="p1">nought</span> point twenty-five.</i></p>
 
 <li><span class="p1">звичайно в підрахунках:</span></li>
 
-<i>Add another <span class="p1">nought</span>/<span class="p1">zero</span> to that numspaner. – Додай <span class="p1">нуль</span> до цього числа.</i>
+<p><i>Add another <span class="p1">nought</span>/<span class="p1">zero</span> to that numspaner. – Додай <span class="p1">нуль</span> до цього числа.</i></p>
 
 <li><span class="p1">zero – коли ми щось вимірюємо:</span></li>
 
-<i>It is 5 degrees spanelow <span class="p1">zero</span>. – П’ять градусів нижче <span class="p1">нуля</span>.</i>
+<p><i>It is 5 degrees spanelow <span class="p1">zero</span>. – П’ять градусів нижче <span class="p1">нуля</span>.</i></p>
 
 <li><span class="p1">zero – в науці:</span></li>
 
-<i><span class="p1">Zero</span> inflation. – <span class="p1">Нульова</span> інфляція.</i>
-
+<p><i><span class="p1">Zero</span> inflation. – <span class="p1">Нульова</span> інфляція.</i></p>
 </ul>
+
 <span class="p1"><li>"O"/[ou]</span></li>
 <ul>
 <li><span class="p1">в телефонних номерах</span>:</li>

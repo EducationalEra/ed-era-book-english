@@ -10,7 +10,7 @@
 <p><b>Давайте розглянемo, як саме дроби утворюються в англійській мові, як вживаються та відтворюються на письмі.</b></p>
 
 <ol>
-<span class="p1"><li>Звичайні дроби</span> (<i>Vulgar fractions</i>)</li>
+<span class="p1"><li>Звичайні дроби (<i>Vulgar fractions</i>)</span></li>
 
 <p>Звичайні дроби утворюються за простою формулою:</p>
 
@@ -36,7 +36,7 @@
 
 <p>$$1\dfrac{1}{4}$$ – one and a quarter (одна ціла і чверть).</p>
 
-<span class="p1"><li>Десяткові дроби</span> (<i>Decimals</i>)</li>
+<span class="p1"><li>Десяткові дроби (<i>Decimals</i>)</span></li>
 <br>
 <br>
 
@@ -63,9 +63,9 @@
 
 <p>До числівників також відносять рахівні слова <span class="p1">foot, pound</span>:</p>
 
-<p><i>Tom is five <b>foot</b>/<b>feet</b>. – Том п’ять футів у зріст.</i></p>
+<p><i>Tom is five <b>foot</b>/<b>feet</b>. – Том п’ять <b>футів</b> у зріст.</i></p>
 
-<p><i>That comes to four <b>pound</b>/<b>pounds</b> fifty cents. – Виходить чотири фунти і п’ятдесят центів.</i></p>
+<p><i>That comes to four <b>pound</b>/<b>pounds</b> fifty cents. – Виходить чотири <b>фунти</b> і п’ятдесят центів.</i></p>
 
 </ol>
 
