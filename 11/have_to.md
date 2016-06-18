@@ -15,7 +15,7 @@
 
 <table>
    <tr> 
-    <td colspan="2">Must або Have to</td>
+    <td align="center" colspan="2">Must або Have to</td>
    </tr>
    <tr> 
     <td>Must<br>

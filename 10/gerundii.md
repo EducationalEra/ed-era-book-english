@@ -36,16 +36,17 @@
 <p>Вживається з прийменниками (Прийменник + Герундій (Prep. + Gerund)</p>
 <p>Вживається з присвіними займенниками (Присвійний займенник + Герундій (Poss. Pr. + Gerund)</p>
 <p>Але на відміну від іменника не має множини та вживається без артикля.</p>
+
 <li><b>Дієслова</b></li>
-<ul>
+
 <li>Має вид:</li>
 <p><i>Звичайний (Indefinite)</i></p>
-<p>Перфектний (Perfect)</i></p>
-</ul>
+<p><i>Перфектний (Perfect)</i></p>
+
 <li>Має стан:</li>
-<p><i>Пасивний (перехідні) (Passive (transitive)</i></p>
-<p>Активний (Active)</i></p>
-</ul>
+<p><i>Пасивний (перехідні) (Passive (transitive))</i></p>
+<p><i>Активний (Active)</i></p>
+
 </ul>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
