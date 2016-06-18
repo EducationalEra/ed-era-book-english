@@ -8,7 +8,7 @@
 <li><span class="p1">Дозвіл</span> (Permission)</li>
 <p><i>You may go now. Можеш уже іти.</i></p>
 </ol>
-<table width=30% >
+<table width="30%" >
   	<tr>
     <td>Cинонімічні вирази<br><i>Perhaps, maybe</i></td></tr>
 </table>
