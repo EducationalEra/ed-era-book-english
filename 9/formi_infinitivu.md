@@ -20,7 +20,12 @@
 </ul>
 </ol>
 
-<div align="center"><img src="191_p1.png"/></div>
+<table>
+   <tr> 
+    <td>arrive<br>go<br>come<br></td>
+    <td>Ми не можемо сказати "приїхати кого/що" або "бути приїхати"</td>
+   </tr>
+</table>
 
 <p><b>Інфінітив має:</b></p>
 <ol>
@@ -44,7 +49,26 @@
 </ul>
 </ol>
 
-<div align="center"><img src="191_p2.png"/></div>
+<table>
+   <tr> 
+    <td>Звичайна форма<br>Idefinite form</td>
+    <td>Тривала форма<br>Continious form</td>
+    <td>Перфектна форма<br>Perfect form</td>
+    <td>Перфектна тривала форма<br>Perfect continious form</td>
+   </tr>
+    <tr> 
+    <td>Активний стан<br>Active voice</td>
+    <td>Активний стан<br>Active voice</td>
+    <td>Активний стан<br>Active voice</td>
+    <td>Активний стан<br>Active voice</td>
+   </tr>
+    <tr> 
+    <td>Пасивний стан<br>Passive voice</td>
+    <td>-</td>
+    <td>Пасивний стан<br>Passive voice</td>
+    <td>-</td>
+   </tr>
+</table>
 
 <p>З вище наведених таблиць ми бачимо, що інфінітив має 4 форми: звичайну, тривалу, перфектну та перфектну тривалу. Трохи нижче ми детально роглянемо як саме утворюється кожна форма інфінітиву перехідних та неперехідних дієслів, в активному та пасивному станах.</p>
 
@@ -180,8 +204,48 @@
 <p>допоміжне дієслово to have, допоміжне дієслово to be в 3-й формі та основне дієслово в 4-й формі, тобто з закінченням -ing</p>
 
 
-<div align="center"><img src="191_p3.png"/></div>
-<br>
+<table>
+   <tr> 
+    <td >Форми</td>
+    <td>Стани</td>
+    <td>Перехідне</td>
+    <td>Неперхідне</td>
+   </tr>
+    <tr> 
+    <td rowspan="2">Звичайна форма<br>(Idefinite form)</td>
+    <td>Активний</td>
+    <td>To drink</td>
+    <td>To go</td>
+   </tr>
+    <tr> 
+    <td>Пасивний</td>
+    <td>To be drunk</td>
+    <td>-</td>
+   </tr>
+   <tr> 
+    <td>Тривала форма<br>(Continious form)</td>
+    <td>Активний</td>
+    <td>To be drinking</td>
+    <td>To be going</td>
+    </tr>
+    <tr> 
+    <td rowspan="2">Перфектна форма<br>(Perfect form)</td>
+    <td>Активний</td>
+    <td>To have drunk</td>
+    <td>To have gone</td>
+   </tr>
+    <tr> 
+    <td>Пасивний</td>
+    <td>To have been drunk</td>
+    <td>-</td>
+   </tr>
+   <tr> 
+    <td>Перфектна тривала форма<br>(Perfect continious form)</td>
+    <td>Активний</td>
+    <td>To have been drinking</td>
+    <td>To have been going</td>
+    </tr>
+</table>
 
 
 

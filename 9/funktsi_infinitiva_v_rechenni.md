@@ -17,8 +17,8 @@
 <p><i>You should study better.(should – модальне дієслово; You – підмет, shoul study - присудок)</i></p>
 </ol>
 <li><span class="p1">Додатком</span> (Object)</li>
-<p><i>He promised to buy me a car.(He – підмет, promised – примудок, he promised -  what? – to buy a car, to buy me a car - додаток)</i></p>
-<li>Обставиною мети або наслідку (Adverbial modifier)</li>
+<p><i>He promised to buy me a car.(He – підмет, promised – приcудок, he promised -  what? – to buy a car, to buy me a car - додаток)</i></p>
+<li><span class="p1">Обставиною мети або наслідку</span> (Adverbial modifier)</li>
 <p><i>He came to the capital to study at university. (He – підмет, came – присудок, he came – why? –to study – обставина мети. )</i></p>
 </ul>
 
