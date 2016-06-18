@@ -15,19 +15,19 @@
     <body>
         <tr>
             <td colspan="3" align="center" valign="top">
-                <b>I Відміна</b>
+                <b>Односкладові прикметники</b>
             </td>                       
         </tr>
 
         <tr>
             <td width="33%" align="center" valign="top">
-                <span class="p1">Тверда</span>
+                <span class="p1">Positive<br>(основний ступінь)</span>
             </td>
             <td width="34%" align="center" valign="top">
-                <span class="p1">М’яка</span>
+                <span class="p1">Comparative<br>(вищий ступінь)</span>
             </td>
             <td width="33%" align="center" valign="top">
-                <span class="p1">Мішана</span>
+                <span class="p1">Superlative<br>(найвищий ступінь)</span>
             </td>            
         </tr>
 </table>
