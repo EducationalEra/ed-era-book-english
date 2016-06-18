@@ -11,3 +11,23 @@
 
 ![](131_p1.png)
 
+<table>
+    <body>
+        <tr>
+            <td colspan="3" align="center" valign="top">
+                <b>I Відміна</b>
+            </td>                       
+        </tr>
+
+        <tr>
+            <td width="33%" align="center" valign="top">
+                <span class="p1">Тверда</span>
+            </td>
+            <td width="34%" align="center" valign="top">
+                <span class="p1">М’яка</span>
+            </td>
+            <td width="33%" align="center" valign="top">
+                <span class="p1">Мішана</span>
+            </td>            
+        </tr>
+</table>
