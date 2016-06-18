@@ -1,7 +1,7 @@
 # Дати
 
 <ol>
-<li><span class="p1">Коли позначаємо роки</span>:</li>
+<span class="p1"><li>Коли позначаємо роки:</span></li>
 <p>Ділимо рік на два числа: перші дві цифрі і другі дві цифри, потім по черзі називаємо перше двoзначне число, а потім друге.</p>
 <p>1998 – nineteen ninety-eight; nineteen hundred and ninety-eight (але вживається рідше);</p>
 <p>1675 – sixteen seventy-five; sixteen hundred and seventy-five.</p>
@@ -18,16 +18,16 @@
 <div class="popup">
 </div>
 
-<li><span class="p1">Коли позначаємо конкретну дату (день, місяць)</span>:</li>
+<span class="p1"><li>Коли позначаємо конкретну дату (день, місяць):</span></li>
 <p>Позначаючи дату (яке сьогодні число), використовуємо порядкові числівники.</p>
 <p>Існує відмінність між британським та американським варіантом. В Україні використовують британський варіант.</p>
 <ul>
-<li><span class="p1">Британський варіант (British English)</span>:</li>
+<li><span class="p1">Британський варіант (British English):</span></li>
 <p><b>24 (th) February</b> = the twenty-fourth of February (частіше вживається з of);</p>
 <p><b>February 24(th)</b> = February the twenty-fourth. Двадцять-четверте лютого.</p>
-<li><span class="p1">Американський розмовний варіант (Spoken American English)</span>:</li>
+<li><span class="p1">Американський розмовний варіант (Spoken American English):</span></li>
 <p><b>February 24</b> = February twenty-fourth / February twenty-four (без артиклю)</p>
-<li><span class="p1">Якщо ми записуємо дату за номерами</span>:</li>
+<li><span class="p1">Якщо ми записуємо дату за номерами:</span></li>
 <p>day/month/year (British);  24/02/2014</p>
 <p>month/day/year (American);  02/24/2014</p>
 </ul>
@@ -38,9 +38,9 @@
 <div class="popup">
 </div>
 
-<li><span class="p1">Століття можуть записуватися як цифрами так і словами</span>:</li>
+<span class="p1"><li>Століття можуть записуватися як цифрами так і словами:</span></li>
 <p>The nineteenth century/the $$19^{\text{th}}$$ century</p>
-<li><span class="p1">Десятиліття</span>:</li>
+<span class="p1"><li>Десятиліття:</span></li>
 <p>The eighties, the sixties/1980s, 1960s</p>
 </ol>
 
