@@ -20,9 +20,20 @@
 <p><i>Can you help me?</i></p>
 <li><span class="p1">Заборону (в запереченнях)</span> (Prohibition)</li>
 <p><i>You can't smoke here.</i></p>
+<b>А також</b>
 </ol>
-
-<div align="center"><img src="e11_p1.png"/></div>
+<table>
+   <tr> 
+    <td >Сумнів<br>
+    Недовіру<br>
+    Подив<br>
+    Неможливість<br>
+    <i>(It can't be truth</i><br>
+    <i>It can't be him)</i>
+    </td>
+    <td>Cинонімічні вирази<br><i>It is imposible</i><br><i>I don't belive</i></td>
+   </tr>
+  </table>
 
 <p>З таким змістом вживається лише в <b><i>питальних</i></b> та <b><i>заперечних</i></b> реченнях.</p>
 

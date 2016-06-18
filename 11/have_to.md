@@ -13,7 +13,17 @@
 <p><i>You don't have to wake up so early, tomorrow is Saturday. Тобі не потрібно прокидатися так рано, завтра субота.</i></p>
 </ol>
 
-<div align="center"><img src="e11_p4.png"/></div>
+<table>
+   <tr> 
+    <td colspan="2">Must або Have to</td>
+   </tr>
+   <tr> 
+    <td>Must<br>
+    <i>I feel it is nessary</i><br>Я відчуваю, що це необхідно, це мій обов'язок, можливо моральний(повинен)</td>
+    <td>Have to<br>
+    <i>It is nessary according to the situation</i><br>Необхідно через обставини, які склалися</td>
+   </tr>
+  </table>
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/fJO39Vgy8Hc" frameborder="0" allowfullscreen></iframe>

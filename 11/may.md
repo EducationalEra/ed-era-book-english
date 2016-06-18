@@ -8,9 +8,10 @@
 <li><span class="p1">Дозвіл</span> (Permission)</li>
 <p><i>You may go now. Можеш уже іти.</i></p>
 </ol>
-
-<div align="center"><img src="e11_p2.png"/></div>
-
+<table>
+  <tr>
+    <td>Cинонімічні вирази<br><i>Perhaps, maybe</i></td></tr>
+  </table>
 #Might
 
 <p><span class="p1">Might</span> <b>виражає</b>:</p>
@@ -30,7 +31,11 @@
 <p>Мається на увазі, що я не знаю, де він, що він робить, але мені здається, що він досі повинен працювати.</p>
 </ol>
 
-<div align="center"><img src="e11_p3.png"/></div>
+<table>
+  <tr>
+    <td>Замість <i><b>may</b></i> у минулому</td><td>Cинонімічні вирази<br> <i><b>Perhaps,maybe<b></i></td>
+  </tr>
+  </table>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
  <question text="">
