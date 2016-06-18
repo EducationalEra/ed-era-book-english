@@ -30,4 +30,15 @@
                 <span class="p1">Superlative<br>(найвищий ступінь)</span>
             </td>            
         </tr>
+        <tr>
+            <td width="33%" align="center" valign="top">
+               rich
+            </td>
+            <td width="34%" align="center" valign="top">
+           rich + <span class="p1">er</span> = richer
+            </td>
+            <td width="33%" align="center" valign="top">
+                <span class="p1">the</span> + rich + <span class="p1">est</span> = the richest
+            </td>            
+        </tr>
 </table>
