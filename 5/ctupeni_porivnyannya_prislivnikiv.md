@@ -13,14 +13,132 @@
 
 </ul>
 
-<div align="center"><img src="132_p1.png"/></div>
+<table>
+    <body>
+        <tr>
+            <td colspan="3" align="center" valign="top">
+                <b>Degrees of Comparison</b>
+            </td>                       
+        </tr>
+
+        <tr>
+            <td width="50%" align="center" valign="top">
+                <span class="p1">Adverbs in -ly</span>
+            </td>
+            <td width="50%" align="center" valign="top">
+                <span class="p1">Adverbs = Adjective<br>(the same form)</span>
+            </td>       
+        </tr>
+        <tr>
+            <td colspan="3" align="center" valign="top">
+                <b>Comparative:</b>
+            </td>                       
+        </tr>
+        <tr>
+            <td width="50%" align="center" valign="top">
+               + er<br> <i>slow<span class="p1">er</span> or <span class="p1">more</span> slowly</i>
+            </td>
+            <td width="50%" align="center" valign="top">
+               + er<br> <i>hard<span class="p1">er</span>, fast<span class="p1">er</span></i>
+            </td>  
+        </tr>
+        <tr>
+            <td colspan="3" align="center" valign="top">
+                <b>Superlative:</b>
+            </td>                       
+        </tr>
+        <tr>
+            <td width="50%" align="center" valign="top">
+               + est<br> <i>the slow<span class="p1">est</span> or the <span class="p1">most</span> slowly</i>
+            </td>
+            <td width="50%" align="center" valign="top">
+               + est<br> <i>the hard<span class="p1">est</span>, the fast<span class="p1">est</span></i>
+            </td> 
+        </tr>
+    </body>
+</table>
+
+
+
 
 <ul>
 <li><b>Неправильні прислівники (Irregular adverbs)</b></li>
 <p>Як і у прикметників, у прислівників також існують «неправильні прислівники», які мають власну модулю утворення ступенів порівняння. Ніще у таблиці можна ознайомитися з цими прислівниками.</p>
 </ul>
 
-<div align="center"><img src="132_p3.png"/></div>
+
+
+<table>
+    <body>
+        <tr>
+            <td width="33%" align="center" valign="top">
+                <span class="p1">Positive degree</span>
+            </td>
+            <td width="33%" align="center" valign="top">
+                <span class="p1">Comparative degree</span>
+            </td>     
+            <td width="34%" align="center" valign="top">
+                <span class="p1">Superlative degree</span>
+            </td>    
+        </tr>
+        <tr>
+            <td width="33%" align="center" valign="top">
+                badly
+            </td>
+            <td width="33%" align="center" valign="top">
+                worse
+            </td>     
+            <td width="34%" align="center" valign="top">
+                worst
+            </td>    
+        </tr>
+        <tr>
+            <td width="33%" align="center" valign="top">
+                far
+            </td>
+            <td width="33%" align="center" valign="top">
+                farther/further
+            </td>     
+            <td width="34%" align="center" valign="top">
+                farthest/furthest
+            </td>    
+        </tr>
+        <tr>
+            <td width="33%" align="center" valign="top">
+                little
+            </td>
+            <td width="33%" align="center" valign="top">
+                less
+            </td>     
+            <td width="34%" align="center" valign="top">
+                least
+            </td>    
+        </tr>
+        <tr>
+            <td width="33%" align="center" valign="top">
+                much
+            </td>
+            <td width="33%" align="center" valign="top">
+                more
+            </td>     
+            <td width="34%" align="center" valign="top">
+                most
+            </td>    
+        </tr>
+        <tr>
+            <td width="33%" align="center" valign="top">
+                well
+            </td>
+            <td width="33%" align="center" valign="top">
+                better
+            </td>     
+            <td width="34%" align="center" valign="top">
+                best
+            </td>    
+        </tr>
+    </body>
+</table>
+
 
 
 <div class="space">
