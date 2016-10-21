@@ -59,13 +59,6 @@ Tom’s as clever as <b>me</b>.<br>
 </li>
 </ol>
 
-<div id="pronouns">
-    <p><strong>Check yourself :)</strong></p>
-    <textarea class="textarea" v-model="text" v-on:keyup="checkText">
-        {{ text }}
-    </textarea><i  v-bind:class="{ 'correct': correct, 'incorrect': !correct }"></i>
-</div>
-
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <td>
