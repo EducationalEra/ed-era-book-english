@@ -69,7 +69,7 @@ Tom’s as clever as <b>me</b>.<br>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <td>
-Якщо раніше існувала думка, що для заміни назви тварин ми вживаємо лише <span class="p1">it</span>, то зараз ми також можемо вживати <span class="p1">he</span> або <span class="p1">she</span> для тварин (<i>cats, dogs, horses</i>), інколи для транспортних засобів (<i>motorbikes, cars, boats</i>). Країна (<i>сountry</i>) завжди замінюється займенником <b><span class="p1">it</span></b>.
+Якщо раніше існувала думка, що для заміни назви тварин ми вживаємо лише <span class="p1">it</span>, то зараз ми також можемо вживати <span class="p1">he</span> або <span class="p1">she</span> для тварин (<i>cats, dogs, horses</i>), інколи для транспортних засобів (<i>motorbikes, cars, boats</i>). Країна (<i>сountry</i>) завжди замінюється займенником <b><span class="p1">it</span></b>
 </td>
 </table>
 </div>
